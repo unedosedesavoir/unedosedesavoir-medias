@@ -1,0 +1,61 @@
+{
+  "pillar": "lundi",
+  "slug": "2026-11-02-tardigrade",
+  "date": "2026-11-02",
+  "cover": {
+    "title": "Le tardigrade, l'animal presque indestructible",
+    "subtitle": "Il a survécu au vide spatial. Voici comment."
+  },
+  "slides": [
+    {
+      "big": "1 mm",
+      "title": "Un « ourson d'eau » microscopique",
+      "p1": "Il mesure environ 1 mm, avance sur 8 pattes griffues, et on en connaît près de 1 300 espèces.",
+      "p2": "On le trouve partout où il y a de l'eau : dans la mousse, les océans, et jusqu'en haute montagne."
+    },
+    {
+      "big": "95 %",
+      "title": "Son secret : le « tonnelet »",
+      "p1": "Quand tout s'assèche, il expulse plus de 95 % de l'eau de son corps et se recroqueville en petit tonneau.",
+      "p2": "Sa vie se met en pause. Il peut rester ainsi des décennies, puis se réveiller avec un peu d'eau."
+    },
+    {
+      "big": "−200 °C",
+      "title": "Ni le froid ni le chaud ne l'arrêtent",
+      "p1": "Dans son état de tonnelet, il supporte des températures de −200 °C à près de +150 °C.",
+      "p2": "De quoi survivre là où presque aucun autre animal ne tiendrait une minute."
+    },
+    {
+      "big": "2007",
+      "title": "Il a survécu à l'espace",
+      "p1": "Lors d'une mission de l'Agence spatiale européenne, des tardigrades desséchés ont passé 10 jours exposés au vide spatial, à 270 km d'altitude.",
+      "p2": "Certains ont même résisté à des UV plus de 1 000 fois plus forts que sur Terre… puis ont eu des petits."
+    },
+    {
+      "big": "2,5 ans",
+      "title": "Presque indestructible… mais pas immortel",
+      "p1": "Quand il est actif, il ne vit qu'entre 3 mois et 2 ans et demi environ.",
+      "p2": "Et ceux embarqués sur la sonde Beresheet, écrasée sur la Lune en 2019, n'ont sans doute pas survécu au choc."
+    }
+  ],
+  "cta": {
+    "title": "Quel super-pouvoir vous a le plus bluffé ?",
+    "text": "Dites-le en commentaire : la taille, le tonnelet, le froid ou l'espace ?"
+  },
+  "caption": "Il mesure 1 mm… et il a survécu à l'espace 🚀\nLe tardigrade est sans doute l'animal le plus coriace de la planète. Glissez pour découvrir ses super-pouvoirs 👉\nLequel vous a le plus bluffé ? Dites-le en commentaire !",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "tardigrade",
+    "animaux",
+    "science",
+    "nature",
+    "apprendre",
+    "anecdote"
+  ],
+  "tiktok_title": "Le tardigrade, l'animal presque indestructible",
+  "sources": [
+    "https://www.sciencedaily.com/releases/2008/09/080908135906.htm",
+    "https://www.livescience.com/57985-tardigrade-facts.html"
+  ]
+}
