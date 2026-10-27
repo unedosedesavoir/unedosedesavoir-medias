@@ -71,8 +71,11 @@ avec `getBestTimeToPostByNetwork` une fois quelques semaines de publications pas
    « Contrôle OK ». Sinon, raccourcir le texte ou réduire une taille, puis relancer.
 6. **Regarder** chaque `medias/<slug>/planche.jpg` (lecture d'image) : lisibilité, coupures, cohérence.
 7. **Publier les images** : `git add -A && git commit -m "Semaine du …" && git push`.
-   Vérifier qu'un lien brut répond (HTTP 200) :
+   Liens bruts à donner à Metricool :
    `https://raw.githubusercontent.com/unedosedesavoir/unedosedesavoir-medias/main/medias/<slug>/01.png`
+   (l'espace de travail ne peut pas ouvrir raw.githubusercontent.com : vérifier plutôt la présence des
+   fichiers avec `gh api repos/unedosedesavoir/unedosedesavoir-medias/contents/medias/<slug>`. Metricool
+   confirme le téléchargement en renvoyant des liens `static.metricool.com` dans sa réponse.)
 8. **Programmer dans Metricool** (`blogId` 7394064, fuseau `Indian/Reunion`) : pour chaque post, DEUX
    publications (une Instagram, une TikTok), car les horaires diffèrent. Voir le modèle ci-dessous.
    Tant que le mode « validation » est actif : `"draft": true`.
