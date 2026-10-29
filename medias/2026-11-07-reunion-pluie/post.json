@@ -1,0 +1,54 @@
+{
+  "pillar": "samedi",
+  "slug": "2026-11-07-reunion-pluie",
+  "date": "2026-11-07",
+  "cover": {
+    "title": "La Réunion détient un record mondial de pluie",
+    "subtitle": "Plus d'1,8 mètre d'eau en une journée."
+  },
+  "slides": [
+    {
+      "big": "1 825 mm",
+      "title": "Le record du monde en 24 heures",
+      "p1": "Les 7 et 8 janvier 1966, il tombe 1 825 mm de pluie en 24 heures à Foc-Foc, sur les hauteurs de l'île.",
+      "p2": "Un record homologué par l'Organisation météorologique mondiale, et jamais battu depuis."
+    },
+    {
+      "big": "Denise",
+      "title": "La faute au cyclone Denise",
+      "p1": "Ces pluies diluviennes ont été apportées par le cyclone tropical Denise.",
+      "p2": "Il a fait trois morts et ravagé des centaines d'habitations, des routes et des cultures."
+    },
+    {
+      "big": "4 mois",
+      "title": "Quatre mois de pluie en un jour",
+      "p1": "1 825 mm, c'est environ quatre mois de pluie sur cette zone, tombés en une seule journée.",
+      "p2": "À Paris, il tombe environ 700 mm… en une année entière !"
+    },
+    {
+      "big": "6 000 mm",
+      "title": "L'un des coins les plus arrosés",
+      "p1": "Sur ces hauteurs, il tombe en moyenne environ 6 000 mm de pluie par an.",
+      "p2": "Comme souvent sur l'île, ce sont les zones de montagne qui recueillent les plus forts cumuls."
+    }
+  ],
+  "cta": {
+    "title": "Vous connaissiez ce record réunionnais ?",
+    "text": "Racontez-nous en commentaire la plus grosse pluie que vous ayez vécue."
+  },
+  "caption": "1 825 mm de pluie en 24 heures : le record du monde est réunionnais 🌧️\nC'était en janvier 1966, pendant le cyclone Denise. Glissez pour les chiffres 👉\nVous le saviez ? Dites-le en commentaire !",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "lareunion",
+    "974",
+    "meteo",
+    "record",
+    "apprendre"
+  ],
+  "tiktok_title": "Le record du monde de pluie est à La Réunion",
+  "sources": [
+    "https://guinnessworldrecords.com/world-records/greatest-rainfall-24-hours",
+    "https://www.futura-sciences.com/planete/actualites/meteorologie-jour-departement-francais-battu-record-mondial-pluie-115268/"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "pillar": "dimanche",
+  "slug": "2026-11-08-grande-muraille",
+  "date": "2026-11-08",
+  "cover": {
+    "title": "« La Grande Muraille se voit depuis l'espace »",
+    "subtitle": "Une idée reçue tenace. Vrai ou faux ?"
+  },
+  "slides": [
+    {
+      "big": "FAUX",
+      "title": "Invisible à l'œil nu",
+      "p1": "Depuis l'orbite, la Grande Muraille de Chine n'est pratiquement pas visible à l'œil nu.",
+      "p2": "Et depuis la Lune, encore moins : aucune construction humaine ne s'y distingue."
+    },
+    {
+      "big": "2003",
+      "title": "Même un astronaute chinois l'avoue",
+      "p1": "En octobre 2003, Yang Liwei, premier astronaute chinois, fait 14 fois le tour de la Terre.",
+      "p2": "Son constat : « La Terre était très belle, mais je n'ai pas vu notre Grande Muraille. »"
+    },
+    {
+      "big": "Camouflée",
+      "title": "Elle se fond dans le paysage",
+      "p1": "La muraille est très longue, mais étroite, et faite de matériaux proches du sol qui l'entoure.",
+      "p2": "Vue de très haut, elle se confond donc avec le terrain."
+    },
+    {
+      "big": "180 mm",
+      "title": "Photographiée… au téléobjectif",
+      "p1": "En 2004, l'astronaute Leroy Chiao la photographie depuis la Station spatiale, avec un objectif de 180 mm.",
+      "p2": "Sur le moment, il n'était même pas sûr que son cliché la montrait vraiment."
+    },
+    {
+      "big": "1754",
+      "title": "Un mythe plus vieux que les fusées",
+      "p1": "Dès 1754, le savant anglais William Stukeley écrivait qu'on pourrait la discerner depuis la Lune.",
+      "p2": "Une affirmation lancée deux siècles avant le premier vol dans l'espace !"
+    }
+  ],
+  "cta": {
+    "title": "Vous y croyiez, vous ?",
+    "text": "Dites-nous en commentaire quelle idée reçue démonter la prochaine fois."
+  },
+  "caption": "Non, la Grande Muraille ne se voit pas depuis l'espace à l'œil nu 🛰️\nMême le premier astronaute chinois n'a pas réussi à l'apercevoir. Glissez pour le verdict 👉\nVous y croyiez ? Dites-le en commentaire !",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "vraioufaux",
+    "ideerecue",
+    "espace",
+    "chine",
+    "apprendre"
+  ],
+  "tiktok_title": "La Grande Muraille visible depuis l'espace ? Vrai ou faux",
+  "sources": [
+    "https://www.nasa.gov/wp-content/uploads/static/history/PDFs/great_wall_less_great_from_space.pdf",
+    "https://www.skyatnightmagazine.com/space-science/can-you-see-great-wall-china-from-space",
+    "https://www.spacecentre.nz/resources/faq/solar-system/earth/great-wall-china.html"
+  ]
+}

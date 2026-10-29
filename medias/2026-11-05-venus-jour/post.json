@@ -1,0 +1,60 @@
+{
+  "pillar": "jeudi",
+  "slug": "2026-11-05-venus-jour",
+  "date": "2026-11-05",
+  "cover": {
+    "title": "Sur Vénus, un jour dure plus qu'une année",
+    "subtitle": "Et le Soleil s'y lève à l'ouest."
+  },
+  "slides": [
+    {
+      "big": "225 j",
+      "title": "Une année plutôt courte",
+      "p1": "Vénus fait le tour du Soleil en environ 225 jours terrestres. Son année est plus courte que la nôtre.",
+      "p2": "Logique : c'est la deuxième planète la plus proche du Soleil."
+    },
+    {
+      "big": "243 j",
+      "title": "Une rotation interminable",
+      "p1": "Mais pour faire un tour complet sur elle-même, elle met environ 243 jours terrestres.",
+      "p2": "Résultat : un tour sur elle-même dure plus longtemps qu'un tour autour du Soleil !"
+    },
+    {
+      "big": "Ouest",
+      "title": "Elle tourne à l'envers",
+      "p1": "Vénus tourne dans le sens inverse de la Terre et de la plupart des autres planètes.",
+      "p2": "Là-bas, le Soleil se lève donc à l'ouest et se couche à l'est."
+    },
+    {
+      "big": "117 j",
+      "title": "Un lever de Soleil tous les 117 jours",
+      "p1": "En combinant ces deux mouvements, il s'écoule environ 117 jours terrestres entre deux levers de Soleil.",
+      "p2": "Compté de lever à lever, le jour vénusien reste donc plus court que son année."
+    },
+    {
+      "big": "Plomb",
+      "title": "Une fournaise permanente",
+      "p1": "Vénus est si chaude qu'un métal comme le plomb y fondrait.",
+      "p2": "Pas idéal pour profiter de ses très longues journées…"
+    }
+  ],
+  "cta": {
+    "title": "Vous préféreriez vivre un jour ou un an sur Vénus ?",
+    "text": "Répondez en commentaire… et justifiez votre choix !"
+  },
+  "caption": "Sur Vénus, un tour sur soi-même dure plus qu'un tour du Soleil 🪐\nEt en plus, le Soleil s'y lève à l'ouest. Glissez pour comprendre 👉\nVous le saviez ? Dites-le en commentaire !",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "venus",
+    "espace",
+    "astronomie",
+    "science",
+    "apprendre"
+  ],
+  "tiktok_title": "Sur Vénus, un jour dure plus qu'une année",
+  "sources": [
+    "https://spaceplace.nasa.gov/all-about-venus/",
+    "https://www.snopes.com/fact-check/one-day-on-venus-is-longer-than-a-year-on-venus/"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "pillar": "mercredi",
+  "slug": "2026-11-04-cerveau-energie",
+  "date": "2026-11-04",
+  "cover": {
+    "title": "Votre cerveau, ce gros gourmand",
+    "subtitle": "2 % de votre poids, 20 % de votre énergie."
+  },
+  "slides": [
+    {
+      "big": "2 %",
+      "title": "Un petit poids dans le corps",
+      "p1": "Chez l'adulte, le cerveau ne représente qu'environ 2 % de la masse du corps.",
+      "p2": "Pour une personne de 70 kg, cela fait à peine 1,4 kg."
+    },
+    {
+      "big": "20 %",
+      "title": "Mais un énorme appétit",
+      "p1": "Pourtant, même au repos, il consomme environ 20 % de l'énergie de l'organisme.",
+      "p2": "Autrement dit, il dépense environ dix fois plus que sa « part » de poids."
+    },
+    {
+      "big": "20 W",
+      "title": "L'équivalent d'une petite ampoule",
+      "p1": "Au repos, le corps d'un adulte dépense environ 100 watts. Le cerveau en utilise donc près de 20.",
+      "p2": "Comme une petite ampoule allumée jour et nuit, même pendant votre sommeil."
+    },
+    {
+      "big": "65 %",
+      "title": "Et chez l'enfant, c'est record",
+      "p1": "Vers 5 ans, le cerveau a presque sa taille adulte, alors que le corps est encore petit.",
+      "p2": "Il peut alors absorber plus de 65 % de l'énergie dépensée au repos !"
+    }
+  ],
+  "cta": {
+    "title": "Vous saviez que votre cerveau était si gourmand ?",
+    "text": "Dites-nous en commentaire quel chiffre vous a le plus surpris."
+  },
+  "caption": "Votre cerveau : 2 % de votre poids… et 20 % de votre énergie 🧠\nUn organe minuscule avec un appétit énorme, surtout chez les enfants. Glissez pour les chiffres 👉\nLequel vous a le plus surpris ? Dites-le en commentaire !",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "cerveau",
+    "corpshumain",
+    "science",
+    "anecdote",
+    "apprendre"
+  ],
+  "tiktok_title": "Votre cerveau consomme 20 % de votre énergie",
+  "sources": [
+    "https://www.college-de-france.fr/fr/agenda/cours/traits-de-vie-et-contraintes-energetiques-au-cours-de-evolution-humaine/grandir-avec-un-grand-cerveau",
+    "https://www.alimentarium.org/fr/savoir/bien-nourrir-son-cerveau",
+    "https://hypertextbook.com/facts/2001/JacquelineLing.shtml"
+  ]
+}

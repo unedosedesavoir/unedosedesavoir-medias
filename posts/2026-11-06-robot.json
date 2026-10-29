@@ -1,0 +1,54 @@
+{
+  "pillar": "vendredi",
+  "slug": "2026-11-06-robot",
+  "date": "2026-11-06",
+  "cover": {
+    "title": "D'où vient le mot « robot » ?",
+    "subtitle": "D'une pièce de théâtre tchèque !"
+  },
+  "slides": [
+    {
+      "big": "1920",
+      "title": "Né dans une pièce de théâtre",
+      "p1": "Le mot apparaît dans « R.U.R. », pièce de l'écrivain tchèque Karel Čapek, publiée à Prague en 1920.",
+      "p2": "Elle met en scène des ouvriers artificiels fabriqués en usine… qui finissent par se révolter."
+    },
+    {
+      "big": "Robota",
+      "title": "Un mot tchèque lourd de sens",
+      "p1": "Il vient du tchèque « robota », la corvée : le travail forcé que les paysans devaient à leur seigneur.",
+      "p2": "Une forme de servage abolie en 1848."
+    },
+    {
+      "big": "Josef",
+      "title": "Une idée de son frère",
+      "p1": "Karel Čapek voulait d'abord appeler ses créatures « labors », d'après le mot anglais « labor ».",
+      "p2": "C'est son frère Josef, peintre, qui lui aurait soufflé : « Appelle-les robots. »"
+    },
+    {
+      "big": "1921",
+      "title": "Un succès mondial",
+      "p1": "La pièce est jouée au Théâtre national de Prague en janvier 1921, puis traduite dans de nombreuses langues.",
+      "p2": "« Robot » devient l'un des très rares mots tchèques adoptés par le monde entier."
+    }
+  ],
+  "cta": {
+    "title": "Quel autre mot venu d'ailleurs vous intrigue ?",
+    "text": "Proposez-le en commentaire : il fera peut-être l'objet d'un prochain post !"
+  },
+  "caption": "« Robot » est né… sur une scène de théâtre 🤖\nUn mot tchèque, une pièce de 1920 et un coup de pouce fraternel. Glissez pour l'histoire 👉\nQuel mot voulez-vous qu'on explore ensuite ? Dites-le en commentaire !",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "etymologie",
+    "languefrancaise",
+    "robot",
+    "motsetexpressions",
+    "apprendre"
+  ],
+  "tiktok_title": "D'où vient le mot « robot » ?",
+  "sources": [
+    "https://www.sciencefocus.com/future-technology/where-does-the-word-robot-come-from",
+    "https://mzv.gov.cz/pristina/en/bilateral_and_multilateral_relations/x100_year_ago_robot_was_born.html"
+  ]
+}
