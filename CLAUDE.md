@@ -27,8 +27,9 @@ avec `getBestTimeToPostByNetwork` une fois quelques semaines de publications pas
   polices, typographie française et contrôle des débordements sont gérés par le script).
 - `kit/fonts/` : Bricolage Grotesque (titres) et DM Sans (texte), licence OFL.
 - `kit/logo/` : photo de profil (roue des 7 savoirs).
-- `kit/comfy.py` + `kit/comfy/workflow_api.json` : génération des illustrations avec ComfyUI
-  (installé sur le PC de la personne, API locale `http://127.0.0.1:8188`).
+- `kit/comfy.py` + `kit/comfy/z_image_turbo_api.json` : génération des illustrations avec ComfyUI et
+  le modèle Z-Image-Turbo (installé sur le PC de la personne, API locale `http://127.0.0.1:8188`).
+  `kit/comfy/sdxl_api.json` : workflow SDXL de secours.
 - `illustrations/AAAA-MM-JJ-sujet/NN.png` : illustration de la slide NN (01 = couverture), avec
   `prompts.json` (prompt et graine de chaque image). Facultatif : sans ces fichiers, les slides
   gardent leur mise en page sans image.

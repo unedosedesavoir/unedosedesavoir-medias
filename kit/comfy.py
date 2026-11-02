@@ -12,8 +12,11 @@ EN ANGLAIS de la scène (sujet, objets, composition), sans consigne de style. Le
 Les images vont dans illustrations/<slug>/NN.png (01 = couverture), puis kit/generate.py les intègre.
 Le prompt et la graine de chaque image sont notés dans illustrations/<slug>/prompts.json.
 
-Workflow : kit/comfy/workflow_api.json (format « API » de ComfyUI). On peut le remplacer par le
-sien ; les valeurs "%PROMPT%", "%NEGATIVE%", "%SEED%", "%WIDTH%", "%HEIGHT%", "%CHECKPOINT%" y
+Workflow par défaut : kit/comfy/z_image_turbo_api.json (Z-Image-Turbo, d'après le template officiel
+ComfyUI : UNETLoader z_image_turbo_bf16, CLIPLoader qwen_3_4b type lumina2, VAE ae, shift 3,
+8 pas, cfg 1, res_multistep/simple ; pas de prompt négatif, d'où des consignes « no text,
+not a photograph » dans le prompt positif). Alternative : --workflow kit/comfy/sdxl_api.json
+--checkpoint <modèle SDXL>. On peut aussi fournir le sien (format « API ») ; les valeurs "%PROMPT%", "%NEGATIVE%", "%SEED%", "%WIDTH%", "%HEIGHT%", "%CHECKPOINT%" y
 sont remplacées. Les images de la 1re sortie SaveImage sont récupérées.
 """
 import argparse
@@ -41,7 +44,8 @@ PALETTES = {
 }
 STYLE = ("flat vector illustration, minimalist editorial style, bold simple geometric shapes, "
          "subtle paper grain texture, limited color palette of {palette}, centered composition, "
-         "plenty of empty space at the top and bottom, no text")
+         "plenty of empty space at the top and bottom, illustration, not a photograph, "
+         "no text, no letters, no logo")
 NEGATIVE = ("photo, photorealistic, realistic, hyperrealistic, 3d render, cgi, text, letters, words, "
             "numbers, caption, watermark, logo, signature, brand, famous character, celebrity, "
             "blurry, noisy, deformed, extra fingers, gore, blood, violence")
@@ -101,15 +105,15 @@ def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("post", nargs="?")
     ap.add_argument("--server", default=os.environ.get("COMFY_URL", "http://127.0.0.1:8188"))
-    ap.add_argument("--workflow", default=os.path.join(ROOT, "kit", "comfy", "workflow_api.json"))
-    ap.add_argument("--checkpoint", default=os.environ.get("COMFY_CHECKPOINT", "sd_xl_base_1.0.safetensors"))
-    ap.add_argument("--width", type=int, default=1216)
-    ap.add_argument("--height", type=int, default=832)
+    ap.add_argument("--workflow", default=os.path.join(ROOT, "kit", "comfy", "z_image_turbo_api.json"))
+    ap.add_argument("--checkpoint", default=os.environ.get("COMFY_CHECKPOINT", "z_image_turbo_bf16.safetensors"))
+    ap.add_argument("--width", type=int, default=1344)
+    ap.add_argument("--height", type=int, default=768)
     ap.add_argument("--only", help="numéros de slides, ex. 1,3,4")
     ap.add_argument("--force", action="store_true", help="régénérer même si l'image existe")
     ap.add_argument("--seed", type=int)
     ap.add_argument("--timeout", type=int, default=600)
-    ap.add_argument("--checkpoints", action="store_true", help="lister les modèles installés")
+    ap.add_argument("--checkpoints", action="store_true", help="lister les modèles installés (diffusion_models et checkpoints)")
     a = ap.parse_args()
 
     try:
@@ -117,9 +121,14 @@ def main():
     except (urllib.error.URLError, OSError) as e:
         sys.exit(f"ComfyUI injoignable sur {a.server} ({e}). Lancez ComfyUI puis réessayez.")
     if a.checkpoints:
-        info = api(a.server, "/object_info/CheckpointLoaderSimple")
-        for name in info["CheckpointLoaderSimple"]["input"]["required"]["ckpt_name"][0]:
-            print(name)
+        for node, field in (("UNETLoader", "unet_name"), ("CheckpointLoaderSimple", "ckpt_name")):
+            try:
+                names = api(a.server, f"/object_info/{node}")[node]["input"]["required"][field][0]
+            except Exception:
+                continue
+            print(f"{node} :")
+            for name in names:
+                print("  " + name)
         return
     if not a.post:
         ap.error("indiquez le fichier du post")
