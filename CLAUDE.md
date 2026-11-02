@@ -27,6 +27,9 @@ avec `getBestTimeToPostByNetwork` une fois quelques semaines de publications pas
   polices, typographie française et contrôle des débordements sont gérés par le script).
 - `kit/fonts/` : Bricolage Grotesque (titres) et DM Sans (texte), licence OFL.
 - `kit/logo/` : photo de profil (roue des 7 savoirs).
+- `kit/illustrations.py` + `kit/comfy.md` : illustrations générées avec ComfyUI sur le PC de la
+  personne (style vectoriel plat, palette du pilier). Lire `kit/comfy.md` avant de les générer.
+- `images/AAAA-MM-JJ-sujet/` : illustrations du post (`01-couverture.png`, `02.png`…) et `prompts.json`.
 - `posts/AAAA-MM-JJ-sujet.json` : contenu de chaque post (source de vérité).
 - `medias/AAAA-MM-JJ-sujet/` : images générées `01.png` … `NN.png`, `planche.jpg`, `post.json`.
 - `SUJETS.md` : réserve de sujets par pilier, et historique de ce qui a été programmé.
@@ -38,9 +41,11 @@ avec `getBestTimeToPostByNetwork` une fois quelques semaines de publications pas
   "pillar": "lundi",
   "slug": "2026-11-02-tardigrade",
   "date": "2026-11-02",
-  "cover": {"title": "Titre accrocheur (≤ 60 caractères)", "subtitle": "Promesse courte (≤ 55 caractères)"},
+  "cover": {"title": "Titre accrocheur (≤ 60 caractères)", "subtitle": "Promesse courte (≤ 55 caractères)",
+            "scene": "a cute tardigrade standing on green moss (scène à dessiner, en anglais)"},
   "slides": [
-    {"big": "1 mm", "title": "Titre du fait (≤ 45 car.)", "p1": "Explication (≤ 120 car.)", "p2": "Chute ou détail fort (≤ 120 car.)"}
+    {"big": "1 mm", "title": "Titre du fait (≤ 45 car.)", "p1": "Explication (≤ 120 car.)", "p2": "Chute ou détail fort (≤ 120 car.)",
+     "scene": "a tiny tardigrade on a drop of water under a magnifying glass"}
   ],
   "cta": {"title": "Question ouverte au public", "text": "Invitation à commenter"},
   "caption": "Légende Instagram/TikTok (3 lignes, 1 à 3 émojis maximum)",
@@ -55,6 +60,10 @@ avec `getBestTimeToPostByNetwork` une fois quelques semaines de publications pas
   donne le verdict (`"big": "FAUX"` ou `"VRAI"`), les suivantes l'expliquent.
 - Champs optionnels de réglage si un texte est trop long : `cover.size` (défaut 116),
   `slides[].title_size` (défaut 84), `slides[].big_size` (défaut 160), `cta.size` (défaut 88).
+- `scene` : ce que montre l'illustration de la slide (une idée visuelle concrète, en anglais).
+  `kit/illustrations.py` ajoute ensuite `image` (nom du fichier dans `images/<slug>/`). Optionnel :
+  `image_pos` (cadrage vertical, ex. `"30%"`), `seed` (pour obtenir une autre version de l'image).
+  Avec illustration, le texte d'une slide de fait doit rester court (le script le contrôle).
 - Écrire les espaces normalement : le script ajoute les espaces insécables (« », ? ! : %, unités).
 
 ## Procédure hebdomadaire (préparer la semaine suivante, lundi → dimanche)
@@ -66,7 +75,12 @@ avec `getBestTimeToPostByNetwork` une fois quelques semaines de publications pas
    institutions, médias scientifiques). Ne garder que ce qui est confirmé ; formuler avec prudence
    (« environ », « la plupart », « sans doute ») quand les sources divergent. Pas de chiffres inventés.
    Pour les origines d'expressions, présenter les hypothèses comme des hypothèses.
-4. **Écrire** `posts/<date>-<sujet>.json` pour chaque jour.
+4. **Écrire** `posts/<date>-<sujet>.json` pour chaque jour, avec une `scene` par slide.
+4 bis. **Illustrer** (voir `kit/comfy.md`) : `python3 kit/illustrations.py posts/<fichier>.json`,
+   pousser, générer les images dans ComfyUI via le navigateur intégré du PC, les récupérer dans
+   `images/<slug>/` et vérifier chacune (sujet juste, pas de texte, pas de visage réaliste).
+   Si le PC ou ComfyUI ne répond pas : retirer les champs `image`, produire les carrousels sans
+   illustration et le signaler dans le récapitulatif.
 5. **Générer** : `python3 kit/generate.py posts/<fichier>.json`. Le script doit finir par
    « Contrôle OK ». Sinon, raccourcir le texte ou réduire une taille, puis relancer.
 6. **Regarder** chaque `medias/<slug>/planche.jpg` (lecture d'image) : lisibilité, coupures, cohérence.
@@ -87,7 +101,8 @@ avec `getBestTimeToPostByNetwork` une fois quelques semaines de publications pas
 
 - `media` : les liens bruts des images, dans l'ordre (01.png, 02.png, …).
 - `text` : `caption` + ligne vide + les hashtags préfixés de `#`.
-- Instagram : `providers` `[{"network":"instagram"}]`, `instagramData` `{"type":"POST"}`.
+- Instagram : `providers` `[{"network":"instagram"}]`, `instagramData` `{"type":"POST", "isAiGenerated": true}`
+  (déclaration obligatoire dès que le carrousel contient des illustrations générées par IA).
 - TikTok : `providers` `[{"network":"tiktok"}]`, `tiktokData`
   `{"title": tiktok_title, "privacyOption":"PUBLIC_TO_EVERYONE", "autoAddMusic": true, "photoCoverIndex": 0}`.
 - `publicationDate` : `{"dateTime":"AAAA-MM-JJTHH:MM:SS","timezone":"Indian/Reunion"}`, `autoPublish` true,
@@ -97,6 +112,8 @@ avec `getBestTimeToPostByNetwork` une fois quelques semaines de publications pas
 
 - Mode actuel : **brouillons à valider** (`draft: true`). Ne passer en publication automatique
   (`draft: false`) que lorsque la personne l'a demandé explicitement.
-- Jamais de personnage, logo ou œuvre protégés ; pas d'images réalistes générées.
+- Jamais de personnage, logo ou œuvre protégés. Illustrations générées : uniquement en style
+  vectoriel plat, jamais photoréalistes, pas de portrait d'une personne réelle, pas de texte dans l'image.
+  Une illustration fausse ou trompeuse sur le sujet est régénérée, pas publiée.
 - Ton : curieux, bienveillant, précis. Pas de sensationnalisme ni de sujets choquants ou politiques.
 - En cas de doute sérieux sur un fait, remplacer le sujet plutôt que publier une approximation.
