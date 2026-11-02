@@ -6,6 +6,10 @@ Usage :
 
 Produit medias/<slug>/01.png, 02.png, ... (1080×1350) et medias/<slug>/planche.jpg
 (planche de contrôle). Signale tout texte qui déborde d'une slide.
+
+Illustrations (optionnelles) : si illustrations/<slug>/NN.png existe (NN = numéro de la slide,
+01 = couverture), elle est placée en bandeau pleine largeur en haut de la slide, fondue dans
+la couleur du pilier, et les tailles de texte par défaut sont réduites. Voir kit/comfy.py.
 Voir CLAUDE.md pour le format du fichier JSON.
 """
 import html
@@ -96,11 +100,33 @@ def fr(text):
 
 
 # ---------------------------------------------------------------- gabarits
-def page(p, inner, wm_size=560, wm_pos="right: -170px; bottom: -150px;"):
-    wm = icon_svg(p["icon"], p["wm"], p["bg"], f"position: absolute; {wm_pos} width: {wm_size}px; height: {wm_size}px")
-    return (f'<div id="root" style="width:{W}px;height:{H}px;box-sizing:border-box;padding:96px;background:{p["bg"]};'
-            f'color:{p["fg"]};font-family:\'DM Sans\',sans-serif;display:flex;flex-direction:column;'
+PAD = 96
+GAP_ILLU = 40  # espace entre les blocs quand une illustration est présente
+
+
+def page(p, inner, wm_size=560, wm_pos="right: -170px; bottom: -150px;", illustrated=False):
+    wm = "" if illustrated else icon_svg(p["icon"], p["wm"], p["bg"],
+                                         f"position: absolute; {wm_pos} width: {wm_size}px; height: {wm_size}px")
+    gap = f"gap:{GAP_ILLU}px;" if illustrated else ""
+    return (f'<div id="root" style="width:{W}px;height:{H}px;box-sizing:border-box;padding:{PAD}px;background:{p["bg"]};'
+            f'color:{p["fg"]};font-family:\'DM Sans\',sans-serif;display:flex;flex-direction:column;{gap}'
             f'justify-content:space-between;position:relative;overflow:hidden">{wm}{inner}</div>')
+
+
+def illustration(p, path, header_h, min_h):
+    """Bandeau pleine largeur, du bord haut de la slide jusqu'au texte, fondu dans le fond du pilier.
+
+    Il occupe toute la place laissée libre par le texte (au moins min_h px de haut, en-tête compris).
+    """
+    if not path:
+        return ""
+    lift = PAD + header_h + GAP_ILLU
+    bg = p["bg"]
+    return (f'<div style="flex:1 1 0;min-height:{min_h - lift}px;margin:-{lift}px -{PAD}px 0;position:relative;'
+            f'overflow:hidden;z-index:0">'
+            f'<img src="file://{html.escape(path)}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">'
+            f'<div style="position:absolute;inset:0;background:linear-gradient(to bottom,{bg}F2 0px,'
+            f'{bg}D9 {PAD + header_h + 8}px,{bg}00 {PAD + header_h + 110}px,{bg}00 62%,{bg} 100%)"></div></div>')
 
 
 def header(p, left_label, counter, big=False):
@@ -108,7 +134,7 @@ def header(p, left_label, counter, big=False):
     badge = (f'<div style="width:{size}px;height:{size}px;border-radius:{radius}px;background:{p["badge"]};display:flex;'
              f'align-items:center;justify-content:center;flex-shrink:0">'
              + icon_svg(p["icon"], p["ink"], p["badge"], f"width:{isz}px;height:{isz}px") + "</div>")
-    return (f'<div class="zone" style="display:flex;justify-content:space-between;align-items:center;position:relative">'
+    return (f'<div class="zone" style="display:flex;justify-content:space-between;align-items:center;position:relative;z-index:1">'
             f'<div style="display:flex;align-items:center;gap:{20 if big else 18}px;color:{p["accent"]}">{badge}'
             f'<span style="font-size:{fs}px;font-weight:700;letter-spacing:{ls}px">{html.escape(left_label)}</span></div>'
             f'<span style="font-size:30px;font-weight:500;color:{p["muted"]}">{counter}</span></div>')
@@ -122,47 +148,51 @@ def footer(p, pill=None):
             f'<span style="font-size:32px;font-weight:500;color:{p["muted"]}">{HANDLE}</span>{right}</div>')
 
 
-def cover(p, c, n, total, pilier):
+def cover(p, c, n, total, pilier, img=None):
     extra = ""
     if pilier == "dimanche":
         extra = (f'<div style="display:flex;gap:24px">'
                  f'<span style="font-size:40px;font-weight:700;padding:18px 44px;border-radius:999px;border:4px solid {p["fg"]}">VRAI</span>'
                  f'<span style="font-size:40px;font-weight:700;padding:18px 44px;border-radius:999px;border:4px solid {p["accent"]};'
                  f'color:{p["accent"]}">FAUX</span></div>')
-    sub = (f'<p style="margin:0;font-size:44px;line-height:1.35;color:{p["muted"]};max-width:820px">{fr(c["subtitle"])}</p>'
-           if c.get("subtitle") else "")
+    sub = (f'<p style="margin:0;font-size:{40 if img else 44}px;line-height:1.35;color:{p["muted"]};max-width:820px">'
+           f'{fr(c["subtitle"])}</p>' if c.get("subtitle") else "")
     inner = (header(p, f'{p["jour"]} · {p["label"]}', f"{n} / {total}", big=True)
-             + f'<div class="zone" style="display:flex;flex-direction:column;gap:40px;position:relative">'
-               f'<h1 style="margin:0;font-family:\'Bricolage Grotesque\',sans-serif;font-size:{c.get("size", 116)}px;'
+             + illustration(p, img, 96, c.get("image_min", 560))
+             + f'<div class="zone" style="display:flex;flex-direction:column;gap:{32 if img else 40}px;position:relative">'
+               f'<h1 style="margin:0;font-family:\'Bricolage Grotesque\',sans-serif;font-size:{c.get("size", 96 if img else 116)}px;'
                f'font-weight:800;line-height:1;letter-spacing:-2px">{fr(c["title"])}</h1>' + sub + extra + "</div>"
              + footer(p, pill=c.get("pill", "La réponse →" if pilier == "dimanche" else "Glissez →")))
-    return page(p, inner, wm_size=760, wm_pos="right: -180px; bottom: -150px;")
+    return page(p, inner, wm_size=760, wm_pos="right: -180px; bottom: -150px;", illustrated=bool(img))
 
 
-def fact(p, s, n, total):
-    big = (f'<span style="font-family:\'Bricolage Grotesque\',sans-serif;font-size:{s.get("big_size", 160)}px;font-weight:800;'
-           f'line-height:0.9;letter-spacing:-4px;color:{p["accent"]}">{fr(s["big"])}</span>') if s.get("big") else ""
-    p1 = f'<p style="margin:0;font-size:42px;line-height:1.4;color:{p["muted"]}">{fr(s["p1"])}</p>' if s.get("p1") else ""
-    p2 = f'<p style="margin:0;font-size:42px;line-height:1.4;font-weight:500">{fr(s["p2"])}</p>' if s.get("p2") else ""
+def fact(p, s, n, total, img=None):
+    fs = 38 if img else 42
+    big = (f'<span style="font-family:\'Bricolage Grotesque\',sans-serif;font-size:{s.get("big_size", 120 if img else 160)}px;'
+           f'font-weight:800;line-height:0.9;letter-spacing:-4px;color:{p["accent"]}">{fr(s["big"])}</span>') if s.get("big") else ""
+    p1 = f'<p style="margin:0;font-size:{fs}px;line-height:1.4;color:{p["muted"]}">{fr(s["p1"])}</p>' if s.get("p1") else ""
+    p2 = f'<p style="margin:0;font-size:{fs}px;line-height:1.4;font-weight:500">{fr(s["p2"])}</p>' if s.get("p2") else ""
     inner = (header(p, p["label"], f"{n} / {total}")
-             + f'<div class="zone" style="display:flex;flex-direction:column;gap:32px;position:relative">{big}'
-               f'<h2 style="margin:0;font-family:\'Bricolage Grotesque\',sans-serif;font-size:{s.get("title_size", 84)}px;'
+             + illustration(p, img, 72, s.get("image_min", 440))
+             + f'<div class="zone" style="display:flex;flex-direction:column;gap:{24 if img else 32}px;position:relative">{big}'
+               f'<h2 style="margin:0;font-family:\'Bricolage Grotesque\',sans-serif;font-size:{s.get("title_size", 72 if img else 84)}px;'
                f'font-weight:800;line-height:1.02;letter-spacing:-2px">{fr(s["title"])}</h2>' + p1 + p2 + "</div>"
              + footer(p))
-    return page(p, inner)
+    return page(p, inner, illustrated=bool(img))
 
 
 DEFAULT_CTA = ["Enregistrez ce post pour le relire", "Envoyez-le à un ami curieux",
                "Abonnez-vous pour votre dose quotidienne"]
 
 
-def cta(p, c, n, total):
+def cta(p, c, n, total, img=None):
     items = "".join(
         f'<div style="display:flex;align-items:center;gap:28px;padding:30px 40px;border-radius:28px;background:{p["card"]}">'
         f'<span style="font-family:\'Bricolage Grotesque\',sans-serif;font-size:52px;font-weight:800;color:{p["accent"]}">{i}</span>'
         f'<span style="font-size:38px;font-weight:500">{fr(t)}</span></div>'
         for i, t in enumerate(c.get("items", DEFAULT_CTA), 1))
     inner = (header(p, "À VOUS", f"{n} / {total}")
+             + illustration(p, img, 72, c.get("image_min", 340))
              + f'<div class="zone" style="display:flex;flex-direction:column;gap:36px;position:relative">'
                f'<h2 style="margin:0;font-family:\'Bricolage Grotesque\',sans-serif;font-size:{c.get("size", 88)}px;'
                f'font-weight:800;line-height:1.02;letter-spacing:-2px">{fr(c["title"])}</h2>'
@@ -170,7 +200,7 @@ def cta(p, c, n, total):
                f'<div style="display:flex;flex-direction:column;gap:22px">{items}</div></div>'
              + f'<div class="zone" style="display:flex;position:relative"><span style="font-size:36px;font-weight:700;'
                f'padding:20px 40px;border-radius:999px;background:{p["badge"]};color:{p["ink"]}">{HANDLE}</span></div>')
-    return page(p, inner)
+    return page(p, inner, illustrated=bool(img))
 
 
 FONT_CSS = f"""<style>
@@ -200,9 +230,18 @@ def main(spec_path):
     p = PILIERS[pilier]
     slides = spec["slides"]
     total = 2 + len(slides)
-    pages = [cover(p, spec["cover"], 1, total, pilier)]
-    pages += [fact(p, s, i + 2, total) for i, s in enumerate(slides)]
-    pages.append(cta(p, spec["cta"], total, total))
+    illu_dir = os.path.join(ROOT, "illustrations", spec["slug"])
+
+    def img(n):
+        f = os.path.join(illu_dir, f"{n:02d}.png")
+        return f if os.path.exists(f) else None
+
+    pages = [cover(p, spec["cover"], 1, total, pilier, img(1))]
+    pages += [fact(p, s, i + 2, total, img(i + 2)) for i, s in enumerate(slides)]
+    pages.append(cta(p, spec["cta"], total, total, img(total)))
+    used = [n for n in range(1, total + 1) if img(n)]
+    if used:
+        print("Illustrations : slides " + ", ".join(f"{n:02d}" for n in used))
 
     out = os.path.join(ROOT, "medias", spec["slug"])
     os.makedirs(out, exist_ok=True)
@@ -219,6 +258,8 @@ def main(spec_path):
                 f'<!doctype html><html lang="fr"><head><meta charset="utf-8">{FONT_CSS}</head><body>{body}</body></html>')
             pg.goto("file://" + tmp)
             pg.evaluate("document.fonts.ready")
+            if pg.evaluate("[...document.images].some(i => !i.complete || !i.naturalWidth)"):
+                problems.append(f"slide {i} : illustration illisible")
             if pg.evaluate("[...document.fonts].filter(f => f.status == 'loaded').length") < 2:
                 problems.append(f"slide {i} : polices non chargées")
             for msg in pg.evaluate(CHECK_JS):

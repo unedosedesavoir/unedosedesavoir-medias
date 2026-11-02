@@ -27,6 +27,11 @@ avec `getBestTimeToPostByNetwork` une fois quelques semaines de publications pas
   polices, typographie française et contrôle des débordements sont gérés par le script).
 - `kit/fonts/` : Bricolage Grotesque (titres) et DM Sans (texte), licence OFL.
 - `kit/logo/` : photo de profil (roue des 7 savoirs).
+- `kit/comfy.py` + `kit/comfy/workflow_api.json` : génération des illustrations avec ComfyUI
+  (installé sur le PC de la personne, API locale `http://127.0.0.1:8188`).
+- `illustrations/AAAA-MM-JJ-sujet/NN.png` : illustration de la slide NN (01 = couverture), avec
+  `prompts.json` (prompt et graine de chaque image). Facultatif : sans ces fichiers, les slides
+  gardent leur mise en page sans image.
 - `posts/AAAA-MM-JJ-sujet.json` : contenu de chaque post (source de vérité).
 - `medias/AAAA-MM-JJ-sujet/` : images générées `01.png` … `NN.png`, `planche.jpg`, `post.json`.
 - `SUJETS.md` : réserve de sujets par pilier, et historique de ce qui a été programmé.
@@ -55,6 +60,12 @@ avec `getBestTimeToPostByNetwork` une fois quelques semaines de publications pas
   donne le verdict (`"big": "FAUX"` ou `"VRAI"`), les suivantes l'expliquent.
 - Champs optionnels de réglage si un texte est trop long : `cover.size` (défaut 116),
   `slides[].title_size` (défaut 84), `slides[].big_size` (défaut 160), `cta.size` (défaut 88).
+- Illustrations : champ optionnel `"illustration"` dans `cover`, chaque élément de `slides` (et
+  `cta` si voulu, mais la place y est réduite) : une scène décrite EN ANGLAIS, concrète et sans
+  consigne de style (ex. `"a white palace on a tropical seafront, dhow boats in the harbour"`).
+  Le style commun (illustration plate, couleurs du pilier, sans texte ni réalisme) est ajouté par
+  `kit/comfy.py`. Une illustration différente par slide. Réglage si le texte déborde :
+  `image_min` (hauteur minimale du bandeau, défaut 560 couverture / 440 slide / 340 cta).
 - Écrire les espaces normalement : le script ajoute les espaces insécables (« », ? ! : %, unités).
 
 ## Procédure hebdomadaire (préparer la semaine suivante, lundi → dimanche)
@@ -67,27 +78,33 @@ avec `getBestTimeToPostByNetwork` une fois quelques semaines de publications pas
    (« environ », « la plupart », « sans doute ») quand les sources divergent. Pas de chiffres inventés.
    Pour les origines d'expressions, présenter les hypothèses comme des hypothèses.
 4. **Écrire** `posts/<date>-<sujet>.json` pour chaque jour.
-5. **Générer** : `python3 kit/generate.py posts/<fichier>.json`. Le script doit finir par
+5. **Illustrer** (seulement si l'ordinateur de la personne est relié à la session, ComfyUI lancé) :
+   sur ce PC, `python3 kit/comfy.py posts/<fichier>.json` (`--checkpoints` liste les modèles,
+   `--checkpoint <nom>` en choisit un, `--only 3 --force` régénère une slide). Regarder chaque image :
+   pas de texte parasite, pas de personnage connu, pas de rendu réaliste ; sinon régénérer.
+   Si le PC n'est pas joignable, passer cette étape et le signaler dans le récapitulatif.
+6. **Générer** : `python3 kit/generate.py posts/<fichier>.json`. Le script doit finir par
    « Contrôle OK ». Sinon, raccourcir le texte ou réduire une taille, puis relancer.
-6. **Regarder** chaque `medias/<slug>/planche.jpg` (lecture d'image) : lisibilité, coupures, cohérence.
-7. **Publier les images** : `git add -A && git commit -m "Semaine du …" && git push`.
+7. **Regarder** chaque `medias/<slug>/planche.jpg` (lecture d'image) : lisibilité, coupures, cohérence.
+8. **Publier les images** : `git add -A && git commit -m "Semaine du …" && git push`.
    Liens bruts à donner à Metricool :
    `https://raw.githubusercontent.com/unedosedesavoir/unedosedesavoir-medias/main/medias/<slug>/01.png`
    (l'espace de travail ne peut pas ouvrir raw.githubusercontent.com : vérifier plutôt la présence des
    fichiers avec `gh api repos/unedosedesavoir/unedosedesavoir-medias/contents/medias/<slug>`. Metricool
    confirme le téléchargement en renvoyant des liens `static.metricool.com` dans sa réponse.)
-8. **Programmer dans Metricool** (`blogId` 7394064, fuseau `Indian/Reunion`) : pour chaque post, DEUX
+9. **Programmer dans Metricool** (`blogId` 7394064, fuseau `Indian/Reunion`) : pour chaque post, DEUX
    publications (une Instagram, une TikTok), car les horaires diffèrent. Voir le modèle ci-dessous.
    Tant que le mode « validation » est actif : `"draft": true`.
-9. **Mettre à jour** `SUJETS.md` (historique), committer et pousser.
-10. **Récapituler** pour la personne : un tableau jour / sujet / horaires / lien vers la planche, les
+10. **Mettre à jour** `SUJETS.md` (historique), committer et pousser.
+11. **Récapituler** pour la personne : un tableau jour / sujet / horaires / lien vers la planche, les
     sources principales, et tout point d'attention. Les brouillons sont à valider dans Metricool.
 
 ## Modèle Metricool (`createScheduledPost`)
 
 - `media` : les liens bruts des images, dans l'ordre (01.png, 02.png, …).
 - `text` : `caption` + ligne vide + les hashtags préfixés de `#`.
-- Instagram : `providers` `[{"network":"instagram"}]`, `instagramData` `{"type":"POST"}`.
+- Instagram : `providers` `[{"network":"instagram"}]`, `instagramData` `{"type":"POST"}`
+  (`{"type":"POST","isAiGenerated":true}` si le carrousel contient des illustrations générées).
 - TikTok : `providers` `[{"network":"tiktok"}]`, `tiktokData`
   `{"title": tiktok_title, "privacyOption":"PUBLIC_TO_EVERYONE", "autoAddMusic": true, "photoCoverIndex": 0}`.
 - `publicationDate` : `{"dateTime":"AAAA-MM-JJTHH:MM:SS","timezone":"Indian/Reunion"}`, `autoPublish` true,
@@ -97,6 +114,7 @@ avec `getBestTimeToPostByNetwork` une fois quelques semaines de publications pas
 
 - Mode actuel : **brouillons à valider** (`draft: true`). Ne passer en publication automatique
   (`draft: false`) que lorsque la personne l'a demandé explicitement.
-- Jamais de personnage, logo ou œuvre protégés ; pas d'images réalistes générées.
+- Jamais de personnage, logo ou œuvre protégés ; pas d'images réalistes générées. Les illustrations
+  ComfyUI restent stylisées (illustration plate), sans personne réelle identifiable, sans texte.
 - Ton : curieux, bienveillant, précis. Pas de sensationnalisme ni de sujets choquants ou politiques.
 - En cas de doute sérieux sur un fait, remplacer le sujet plutôt que publier une approximation.
