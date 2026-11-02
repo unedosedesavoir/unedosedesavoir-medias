@@ -85,8 +85,9 @@ avec `getBestTimeToPostByNetwork` une fois quelques semaines de publications pas
    « Contrôle OK ». Sinon, raccourcir le texte ou réduire une taille, puis relancer.
 6. **Regarder** chaque `medias/<slug>/planche.jpg` (lecture d'image) : lisibilité, coupures, cohérence.
 7. **Publier les images** : `git add -A && git commit -m "Semaine du …" && git push`.
-   Liens bruts à donner à Metricool :
-   `https://raw.githubusercontent.com/unedosedesavoir/unedosedesavoir-medias/main/medias/<slug>/01.png`
+   Liens bruts à donner à Metricool, avec le hash complet du commit (`git rev-parse HEAD`) plutôt que
+   `main`, pour éviter qu'une ancienne version en cache soit téléchargée quand une image est refaite :
+   `https://raw.githubusercontent.com/unedosedesavoir/unedosedesavoir-medias/<hash>/medias/<slug>/01.png`
    (l'espace de travail ne peut pas ouvrir raw.githubusercontent.com : vérifier plutôt la présence des
    fichiers avec `gh api repos/unedosedesavoir/unedosedesavoir-medias/contents/medias/<slug>`. Metricool
    confirme le téléchargement en renvoyant des liens `static.metricool.com` dans sa réponse.)
