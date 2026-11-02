@@ -1,0 +1,47 @@
+{
+  "slug": "2026-11-02-tardigrade",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a cute tardigrade (water bear) with a plump segmented body and eight stubby legs ending in tiny claws, round little mouth, standing proudly on a cushion of green moss. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 284059247
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a tiny tardigrade (water bear) with a plump segmented body and eight stubby legs ending in tiny claws crawling on a drop of water on a moss leaf, a giant magnifying glass above it. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 187564882
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a tardigrade shrivelled into a tiny dry wrinkled barrel shape with its legs and head pulled in, lying on dry cracked brown moss, a single water droplet next to it. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 405337028
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a cute tardigrade (water bear) with a plump segmented body and eight stubby legs ending in tiny claws, calm in the middle of a split scene, left half icy blue frost and snowflakes, right half glowing red heat waves. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 419625575
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a cute tardigrade (water bear) with a plump segmented body and eight stubby legs ending in tiny claws floating in outer space next to a small satellite capsule, the curve of the blue Earth below, stars around. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 597357809
+    },
+    {
+      "file": "06.png",
+      "prompt": "Flat vector editorial illustration of a small generic lunar lander crashed on the grey surface of the Moon among little craters, the Earth in the black sky. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 130238283
+    }
+  ]
+}

@@ -4,38 +4,50 @@
   "date": "2026-11-03",
   "cover": {
     "title": "La guerre la plus courte de l'histoire",
-    "subtitle": "Moins de temps qu'un match de foot."
+    "subtitle": "Moins de temps qu'un match de foot.",
+    "scene": "a giant antique pocket watch floating above a tropical harbour with a white nineteenth century palace and three Victorian steam warships in a turquoise bay, palm trees",
+    "image": "01-couverture.png"
   },
   "slides": [
     {
       "big": "1896",
       "title": "Zanzibar, été 1896",
       "p1": "Le 25 août, le sultan de Zanzibar meurt subitement. Son neveu Khalid s'empare aussitôt du palais.",
-      "p2": "Problème : un traité exige l'accord du consul britannique. Londres refuse ce nouveau sultan."
+      "p2": "Problème : un traité exige l'accord du consul britannique. Londres refuse ce nouveau sultan.",
+      "scene": "a white nineteenth century Swahili palace with carved wooden balconies on the waterfront of a tropical island, dhow sailboats and palm trees",
+      "image": "02.png"
     },
     {
       "big": "9 h",
       "title": "Un ultimatum à l'heure pile",
       "p1": "Les Britanniques exigent que Khalid quitte le palais avant 9 h, le 27 août. Il refuse.",
-      "p2": "À 9 h 02, trois navires de guerre britanniques ouvrent le feu sur le palais."
+      "p2": "À 9 h 02, trois navires de guerre britanniques ouvrent le feu sur le palais.",
+      "scene": "an antique pocket watch in the foreground, three Victorian steam warships anchored in a turquoise bay behind it",
+      "image": "03.png"
     },
     {
       "big": "38 min",
       "title": "Un cessez-le-feu express",
       "p1": "Les tirs cessent vers 9 h 40. Selon les sources, la guerre a duré de 38 à 45 minutes.",
-      "p2": "Elle est généralement considérée comme la guerre la plus courte de l'histoire."
+      "p2": "Elle est généralement considérée comme la guerre la plus courte de l'histoire.",
+      "scene": "a stopwatch in the foreground and a white flag waving above a tropical harbour, small puffs of smoke clearing over steam warships",
+      "image": "04.png"
     },
     {
       "big": "500",
       "title": "Courte, mais pas sans victimes",
       "p1": "Environ 500 morts ou blessés du côté du sultan, civils compris. Un seul blessé côté britannique.",
-      "p2": "Le palais brûle, et le yacht royal, le Glasgow, est coulé dans le port."
+      "p2": "Le palais brûle, et le yacht royal, le Glasgow, est coulé dans le port.",
+      "scene": "the masts of a sunken steam yacht sticking out of the calm water of a tropical harbour, a damaged white palace with soft grey smoke in the background",
+      "image": "05.png"
     },
     {
       "big": "300 000",
       "title": "Et en plus, il a fallu payer",
       "p1": "Khalid se réfugie au consulat allemand, puis part en exil. Un nouveau sultan est installé.",
-      "p2": "Ses partisans doivent payer 300 000 roupies : le prix des obus tirés contre eux et des pillages."
+      "p2": "Ses partisans doivent payer 300 000 roupies : le prix des obus tirés contre eux et des pillages.",
+      "scene": "a big heap of antique silver coins and a brass balance scale in front of a colonial consulate building",
+      "image": "06.png"
     }
   ],
   "cta": {

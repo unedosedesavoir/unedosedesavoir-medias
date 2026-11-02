@@ -95,19 +95,55 @@ def fr(text):
     return t
 
 
+# ---------------------------------------------------------------- illustrations
+# Les illustrations d'un post sont dans images/<slug>/ (générées avec ComfyUI, voir kit/comfy.md).
+# cover.image et slides[].image donnent le nom du fichier dans ce dossier.
+IMG_DIR = None
+IMG_LAYOUT = {  # hauteur de l'illustration, début du fondu, limite haute du texte
+    "cover": dict(h=880, fade=600, mintop=620),
+    "fact": dict(h=580, fade=380, mintop=450),
+}
+
+
+def image_layer(p, name, kind, pos=None):
+    path = os.path.join(IMG_DIR, name)
+    if not os.path.exists(path):
+        raise SystemExit(f"Illustration introuvable : images/{os.path.basename(IMG_DIR)}/{name}")
+    L = IMG_LAYOUT[kind]
+    stop = round(100 * L["fade"] / L["h"])
+    return (f'<img src="file://{path}" style="position:absolute;top:0;left:0;width:{W}px;height:{L["h"]}px;object-fit:cover;'
+            f'object-position:center {pos or "40%"}">'
+            f'<div style="position:absolute;top:0;left:0;width:{W}px;height:{L["h"] + 2}px;'
+            f'background:linear-gradient(to bottom, {p["bg"]}00 {stop}%, {p["bg"]} 100%)"></div>')
+
+
 # ---------------------------------------------------------------- gabarits
-def page(p, inner, wm_size=560, wm_pos="right: -170px; bottom: -150px;"):
+def page(p, inner, wm_size=560, wm_pos="right: -170px; bottom: -150px;", image=None, kind="fact", pos=None):
+    if image:
+        return (f'<div id="root" data-mintop="{IMG_LAYOUT[kind]["mintop"]}" style="width:{W}px;height:{H}px;'
+                f'box-sizing:border-box;padding:0 96px 80px;background:{p["bg"]};color:{p["fg"]};'
+                f'font-family:\'DM Sans\',sans-serif;display:flex;flex-direction:column;justify-content:flex-end;'
+                f'gap:44px;position:relative;overflow:hidden">{image_layer(p, image, kind, pos)}{inner}</div>')
     wm = icon_svg(p["icon"], p["wm"], p["bg"], f"position: absolute; {wm_pos} width: {wm_size}px; height: {wm_size}px")
     return (f'<div id="root" style="width:{W}px;height:{H}px;box-sizing:border-box;padding:96px;background:{p["bg"]};'
             f'color:{p["fg"]};font-family:\'DM Sans\',sans-serif;display:flex;flex-direction:column;'
             f'justify-content:space-between;position:relative;overflow:hidden">{wm}{inner}</div>')
 
 
-def header(p, left_label, counter, big=False):
+def header(p, left_label, counter, big=False, on_image=False):
     size, radius, isz, fs, ls = (96, 28, 66, 30, 5) if big else (72, 21, 50, 26, 4)
     badge = (f'<div style="width:{size}px;height:{size}px;border-radius:{radius}px;background:{p["badge"]};display:flex;'
              f'align-items:center;justify-content:center;flex-shrink:0">'
              + icon_svg(p["icon"], p["ink"], p["badge"], f"width:{isz}px;height:{isz}px") + "</div>")
+    if on_image:  # en-tête posé sur l'illustration : pastilles de la couleur du pilier
+        pad = 10 if big else 8
+        return (f'<div class="zone" style="position:absolute;top:56px;left:64px;right:64px;display:flex;'
+                f'justify-content:space-between;align-items:center">'
+                f'<div style="display:flex;align-items:center;gap:18px;color:{p["accent"]};background:{p["bg"]};'
+                f'padding:{pad}px 34px {pad}px {pad}px;border-radius:{radius + pad}px">{badge}'
+                f'<span style="font-size:{fs}px;font-weight:700;letter-spacing:{ls}px">{html.escape(left_label)}</span></div>'
+                f'<span style="font-size:28px;font-weight:600;color:{p["fg"]};background:{p["bg"]};padding:14px 26px;'
+                f'border-radius:999px">{counter}</span></div>')
     return (f'<div class="zone" style="display:flex;justify-content:space-between;align-items:center;position:relative">'
             f'<div style="display:flex;align-items:center;gap:{20 if big else 18}px;color:{p["accent"]}">{badge}'
             f'<span style="font-size:{fs}px;font-weight:700;letter-spacing:{ls}px">{html.escape(left_label)}</span></div>'
@@ -129,27 +165,30 @@ def cover(p, c, n, total, pilier):
                  f'<span style="font-size:40px;font-weight:700;padding:18px 44px;border-radius:999px;border:4px solid {p["fg"]}">VRAI</span>'
                  f'<span style="font-size:40px;font-weight:700;padding:18px 44px;border-radius:999px;border:4px solid {p["accent"]};'
                  f'color:{p["accent"]}">FAUX</span></div>')
-    sub = (f'<p style="margin:0;font-size:44px;line-height:1.35;color:{p["muted"]};max-width:820px">{fr(c["subtitle"])}</p>'
-           if c.get("subtitle") else "")
-    inner = (header(p, f'{p["jour"]} · {p["label"]}', f"{n} / {total}", big=True)
-             + f'<div class="zone" style="display:flex;flex-direction:column;gap:40px;position:relative">'
-               f'<h1 style="margin:0;font-family:\'Bricolage Grotesque\',sans-serif;font-size:{c.get("size", 116)}px;'
+    img = c.get("image")
+    sub = (f'<p style="margin:0;font-size:{40 if img else 44}px;line-height:1.35;color:{p["muted"]};max-width:860px">'
+           f'{fr(c["subtitle"])}</p>' if c.get("subtitle") else "")
+    inner = (header(p, f'{p["jour"]} · {p["label"]}', f"{n} / {total}", big=True, on_image=bool(img))
+             + f'<div class="zone" style="display:flex;flex-direction:column;gap:{28 if img else 40}px;position:relative">'
+               f'<h1 style="margin:0;font-family:\'Bricolage Grotesque\',sans-serif;font-size:{c.get("size", 96 if img else 116)}px;'
                f'font-weight:800;line-height:1;letter-spacing:-2px">{fr(c["title"])}</h1>' + sub + extra + "</div>"
              + footer(p, pill=c.get("pill", "La réponse →" if pilier == "dimanche" else "Glissez →")))
-    return page(p, inner, wm_size=760, wm_pos="right: -180px; bottom: -150px;")
+    return page(p, inner, wm_size=760, wm_pos="right: -180px; bottom: -150px;", image=img, kind="cover", pos=c.get("image_pos"))
 
 
 def fact(p, s, n, total):
-    big = (f'<span style="font-family:\'Bricolage Grotesque\',sans-serif;font-size:{s.get("big_size", 160)}px;font-weight:800;'
-           f'line-height:0.9;letter-spacing:-4px;color:{p["accent"]}">{fr(s["big"])}</span>') if s.get("big") else ""
-    p1 = f'<p style="margin:0;font-size:42px;line-height:1.4;color:{p["muted"]}">{fr(s["p1"])}</p>' if s.get("p1") else ""
-    p2 = f'<p style="margin:0;font-size:42px;line-height:1.4;font-weight:500">{fr(s["p2"])}</p>' if s.get("p2") else ""
-    inner = (header(p, p["label"], f"{n} / {total}")
-             + f'<div class="zone" style="display:flex;flex-direction:column;gap:32px;position:relative">{big}'
-               f'<h2 style="margin:0;font-family:\'Bricolage Grotesque\',sans-serif;font-size:{s.get("title_size", 84)}px;'
+    img = s.get("image")
+    big = (f'<span style="font-family:\'Bricolage Grotesque\',sans-serif;font-size:{s.get("big_size", 120 if img else 160)}px;'
+           f'font-weight:800;line-height:0.9;letter-spacing:-4px;color:{p["accent"]}">{fr(s["big"])}</span>') if s.get("big") else ""
+    fs = 37 if img else 42
+    p1 = f'<p style="margin:0;font-size:{fs}px;line-height:1.38;color:{p["muted"]}">{fr(s["p1"])}</p>' if s.get("p1") else ""
+    p2 = f'<p style="margin:0;font-size:{fs}px;line-height:1.38;font-weight:500">{fr(s["p2"])}</p>' if s.get("p2") else ""
+    inner = (header(p, p["label"], f"{n} / {total}", on_image=bool(img))
+             + f'<div class="zone" style="display:flex;flex-direction:column;gap:{24 if img else 32}px;position:relative">{big}'
+               f'<h2 style="margin:0;font-family:\'Bricolage Grotesque\',sans-serif;font-size:{s.get("title_size", 70 if img else 84)}px;'
                f'font-weight:800;line-height:1.02;letter-spacing:-2px">{fr(s["title"])}</h2>' + p1 + p2 + "</div>"
              + footer(p))
-    return page(p, inner)
+    return page(p, inner, image=img, kind="fact", pos=s.get("image_pos"))
 
 
 DEFAULT_CTA = ["Enregistrez ce post pour le relire", "Envoyez-le à un ami curieux",
@@ -182,7 +221,10 @@ body{{margin:0}}
 CHECK_JS = """() => {
   const z = [...document.querySelectorAll('#root > .zone')].map(e => e.getBoundingClientRect());
   const bad = [];
-  if (z.length === 3) {
+  const root = document.getElementById('root');
+  if (root.dataset.mintop && z.length === 3 && z[1].top < +root.dataset.mintop)
+    bad.push("le texte remonte trop sur l'illustration (raccourcir ou réduire une taille)");
+  if (z.length === 3 && !root.dataset.mintop) {
     if (z[1].top < z[0].bottom + 24) bad.push("le texte touche l'en-tête");
     if (z[2].top < z[1].bottom + 24) bad.push('le texte touche le pied de page');
   }
@@ -195,7 +237,9 @@ CHECK_JS = """() => {
 
 
 def main(spec_path):
+    global IMG_DIR
     spec = json.load(open(spec_path, encoding="utf-8"))
+    IMG_DIR = os.path.join(ROOT, "images", spec["slug"])
     pilier = spec["pillar"]
     p = PILIERS[pilier]
     slides = spec["slides"]

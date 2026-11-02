@@ -1,0 +1,47 @@
+{
+  "slug": "2026-11-08-grande-muraille",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of an astronaut in a plain white spacesuit floating in orbit and looking down at the Earth through binoculars, curious pose. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 664330603
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of the Earth seen from low orbit, brown mountains and green valleys far below, a big magnifying glass searching in vain. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 451639827
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a small space capsule circling the Earth along a dotted circular orbit, stars. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 132942469
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a long narrow stone wall winding along the ridges of brown mountains, the same colour as the surrounding terrain, blending in. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 618167590
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a camera with a long telephoto lens pointed out of the round window of a space station toward the Earth. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 407143344
+    },
+    {
+      "file": "06.png",
+      "prompt": "Flat vector editorial illustration of an eighteenth century scholar's desk with a quill, an old book and a brass telescope pointed at the full Moon through an open window. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 403029514
+    }
+  ]
+}

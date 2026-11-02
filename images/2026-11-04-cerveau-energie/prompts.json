@@ -1,0 +1,40 @@
+{
+  "slug": "2026-11-04-cerveau-energie",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a cheerful stylised pink human brain character holding a fork and a knife at a dinner table in front of a huge plate of glowing food. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 131382993
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a balance scale with a small pink brain on one pan and a large human body silhouette on the other pan, the body side much heavier. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 186257761
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a stylised pink brain character happily eating a big slice of a round pie. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 390886903
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a glowing light bulb whose filament is shaped like a human brain, warm light, a crescent moon seen through a window at night. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 283548756
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a small child peacefully asleep in bed under a blanket, a large glowing pink brain floating in a dream cloud above. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 742843074
+    }
+  ]
+}

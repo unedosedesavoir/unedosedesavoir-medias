@@ -4,32 +4,42 @@
   "date": "2026-11-04",
   "cover": {
     "title": "Votre cerveau, ce gros gourmand",
-    "subtitle": "2 % de votre poids, 20 % de votre énergie."
+    "subtitle": "2 % de votre poids, 20 % de votre énergie.",
+    "scene": "a cheerful stylised pink human brain character holding a fork and a knife at a dinner table in front of a huge plate of glowing food",
+    "image": "01-couverture.png"
   },
   "slides": [
     {
       "big": "2 %",
       "title": "Un petit poids dans le corps",
       "p1": "Chez l'adulte, le cerveau ne représente qu'environ 2 % de la masse du corps.",
-      "p2": "Pour une personne de 70 kg, cela fait à peine 1,4 kg."
+      "p2": "Pour une personne de 70 kg, cela fait à peine 1,4 kg.",
+      "scene": "a balance scale with a small pink brain on one pan and a large human body silhouette on the other pan, the body side much heavier",
+      "image": "02.png"
     },
     {
       "big": "20 %",
       "title": "Mais un énorme appétit",
       "p1": "Pourtant, même au repos, il consomme environ 20 % de l'énergie de l'organisme.",
-      "p2": "Autrement dit, il dépense environ dix fois plus que sa « part » de poids."
+      "p2": "Autrement dit, il dépense environ dix fois plus que sa « part » de poids.",
+      "scene": "a stylised pink brain character happily eating a big slice of a round pie",
+      "image": "03.png"
     },
     {
       "big": "20 W",
       "title": "L'équivalent d'une petite ampoule",
       "p1": "Au repos, le corps d'un adulte dépense environ 100 watts. Le cerveau en utilise donc près de 20.",
-      "p2": "Comme une petite ampoule allumée jour et nuit, même pendant votre sommeil."
+      "p2": "Comme une petite ampoule allumée jour et nuit, même pendant votre sommeil.",
+      "scene": "a glowing light bulb whose filament is shaped like a human brain, warm light, a crescent moon seen through a window at night",
+      "image": "04.png"
     },
     {
       "big": "65 %",
       "title": "Et chez l'enfant, c'est record",
       "p1": "Vers 5 ans, le cerveau a presque sa taille adulte, alors que le corps est encore petit.",
-      "p2": "Il peut alors absorber plus de 65 % de l'énergie dépensée au repos !"
+      "p2": "Il peut alors absorber plus de 65 % de l'énergie dépensée au repos !",
+      "scene": "a small child peacefully asleep in bed under a blanket, a large glowing pink brain floating in a dream cloud above",
+      "image": "05.png"
     }
   ],
   "cta": {

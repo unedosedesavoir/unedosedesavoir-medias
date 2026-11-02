@@ -4,32 +4,42 @@
   "date": "2026-11-07",
   "cover": {
     "title": "La Réunion détient un record mondial de pluie",
-    "subtitle": "Plus d'1,8 mètre d'eau en une journée."
+    "subtitle": "Plus d'1,8 mètre d'eau en une journée.",
+    "scene": "torrential tropical rain pouring over steep green volcanic mountains on a tropical island, dramatic dark clouds, waterfalls running down the cliffs",
+    "image": "01-couverture.png"
   },
   "slides": [
     {
       "big": "1 825 mm",
       "title": "Le record du monde en 24 heures",
       "p1": "Les 7 et 8 janvier 1966, il tombe 1 825 mm de pluie en 24 heures à Foc-Foc, sur les hauteurs de l'île.",
-      "p2": "Un record homologué par l'Organisation météorologique mondiale, et jamais battu depuis."
+      "p2": "Un record homologué par l'Organisation météorologique mondiale, et jamais battu depuis.",
+      "scene": "a giant rain gauge cylinder overflowing with water in front of lush green volcanic mountains in heavy rain",
+      "image": "02.png"
     },
     {
       "big": "Denise",
       "title": "La faute au cyclone Denise",
       "p1": "Ces pluies diluviennes ont été apportées par le cyclone tropical Denise.",
-      "p2": "Il a fait trois morts et ravagé des centaines d'habitations, des routes et des cultures."
+      "p2": "Il a fait trois morts et ravagé des centaines d'habitations, des routes et des cultures.",
+      "scene": "a large swirling tropical cyclone seen from above over a deep blue ocean, a small mountainous island beneath it",
+      "image": "03.png"
     },
     {
       "big": "4 mois",
       "title": "Quatre mois de pluie en un jour",
       "p1": "1 825 mm, c'est environ quatre mois de pluie sur cette zone, tombés en une seule journée.",
-      "p2": "À Paris, il tombe environ 700 mm… en une année entière !"
+      "p2": "À Paris, il tombe environ 700 mm… en une année entière !",
+      "scene": "four large buckets filled to the brim with rainwater lined up on a mountain path in heavy tropical rain",
+      "image": "04.png"
     },
     {
       "big": "6 000 mm",
       "title": "L'un des coins les plus arrosés",
       "p1": "Sur ces hauteurs, il tombe en moyenne environ 6 000 mm de pluie par an.",
-      "p2": "Comme souvent sur l'île, ce sont les zones de montagne qui recueillent les plus forts cumuls."
+      "p2": "Comme souvent sur l'île, ce sont les zones de montagne qui recueillent les plus forts cumuls.",
+      "scene": "a misty green mountain cirque with many thin waterfalls on the slopes, clouds hugging the peaks, tropical forest",
+      "image": "05.png"
     }
   ],
   "cta": {

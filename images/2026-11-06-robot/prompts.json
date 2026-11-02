@@ -1,0 +1,40 @@
+{
+  "slug": "2026-11-06-robot",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a friendly retro robot of original design standing on an old theatre stage with velvet curtains and a spotlight. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 982522528
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of an old theatre stage with velvet curtains, a row of simple humanoid artificial workers walking out of a painted factory set, old city rooftops with spires painted on the backdrop. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 324307933
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of medieval peasants doing hard labour in a field with hoes and baskets, a castle on a hill in the background. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 253888331
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a painter's easel with a palette and brushes next to an old typewriter on a wooden desk, a small sketch of a simple robot on the canvas. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 676262120
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a friendly retro robot of original design standing on top of a globe of the world, empty speech bubbles floating all around. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 351177342
+    }
+  ]
+}

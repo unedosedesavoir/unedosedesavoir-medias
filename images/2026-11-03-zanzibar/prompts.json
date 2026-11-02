@@ -1,0 +1,47 @@
+{
+  "slug": "2026-11-03-zanzibar",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a giant antique pocket watch floating above a tropical harbour with a white nineteenth century palace and three Victorian steam warships in a turquoise bay, palm trees. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 439965524
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a white nineteenth century Swahili palace with carved wooden balconies on the waterfront of a tropical island, dhow sailboats and palm trees. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 729099185
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of an antique pocket watch in the foreground, three Victorian steam warships anchored in a turquoise bay behind it. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 839722279
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a stopwatch in the foreground and a white flag waving above a tropical harbour, small puffs of smoke clearing over steam warships. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 925248644
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of the masts of a sunken steam yacht sticking out of the calm water of a tropical harbour, a damaged white palace with soft grey smoke in the background. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 75911698
+    },
+    {
+      "file": "06.png",
+      "prompt": "Flat vector editorial illustration of a big heap of antique silver coins and a brass balance scale in front of a colonial consulate building. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 643297192
+    }
+  ]
+}

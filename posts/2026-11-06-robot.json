@@ -4,32 +4,42 @@
   "date": "2026-11-06",
   "cover": {
     "title": "D'où vient le mot « robot » ?",
-    "subtitle": "D'une pièce de théâtre tchèque !"
+    "subtitle": "D'une pièce de théâtre tchèque !",
+    "scene": "a friendly retro robot of original design standing on an old theatre stage with velvet curtains and a spotlight",
+    "image": "01-couverture.png"
   },
   "slides": [
     {
       "big": "1920",
       "title": "Né dans une pièce de théâtre",
       "p1": "Le mot apparaît dans « R.U.R. », pièce de l'écrivain tchèque Karel Čapek, publiée à Prague en 1920.",
-      "p2": "Elle met en scène des ouvriers artificiels fabriqués en usine… qui finissent par se révolter."
+      "p2": "Elle met en scène des ouvriers artificiels fabriqués en usine… qui finissent par se révolter.",
+      "scene": "an old theatre stage with velvet curtains, a row of simple humanoid artificial workers walking out of a painted factory set, old city rooftops with spires painted on the backdrop",
+      "image": "02.png"
     },
     {
       "big": "Robota",
       "title": "Un mot tchèque lourd de sens",
       "p1": "Il vient du tchèque « robota », la corvée : le travail forcé que les paysans devaient à leur seigneur.",
-      "p2": "Une forme de servage abolie en 1848."
+      "p2": "Une forme de servage abolie en 1848.",
+      "scene": "medieval peasants doing hard labour in a field with hoes and baskets, a castle on a hill in the background",
+      "image": "03.png"
     },
     {
       "big": "Josef",
       "title": "Une idée de son frère",
       "p1": "Karel Čapek voulait d'abord appeler ses créatures « labors », d'après le mot anglais « labor ».",
-      "p2": "C'est son frère Josef, peintre, qui lui aurait soufflé : « Appelle-les robots. »"
+      "p2": "C'est son frère Josef, peintre, qui lui aurait soufflé : « Appelle-les robots. »",
+      "scene": "a painter's easel with a palette and brushes next to an old typewriter on a wooden desk, a small sketch of a simple robot on the canvas",
+      "image": "04.png"
     },
     {
       "big": "1921",
       "title": "Un succès mondial",
       "p1": "La pièce est jouée au Théâtre national de Prague en janvier 1921, puis traduite dans de nombreuses langues.",
-      "p2": "« Robot » devient l'un des très rares mots tchèques adoptés par le monde entier."
+      "p2": "« Robot » devient l'un des très rares mots tchèques adoptés par le monde entier.",
+      "scene": "a friendly retro robot of original design standing on top of a globe of the world, empty speech bubbles floating all around",
+      "image": "05.png"
     }
   ],
   "cta": {
