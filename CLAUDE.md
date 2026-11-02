@@ -93,10 +93,11 @@ avec `getBestTimeToPostByNetwork` une fois quelques semaines de publications pas
    confirme le téléchargement en renvoyant des liens `static.metricool.com` dans sa réponse.)
 8. **Programmer dans Metricool** (`blogId` 7394064, fuseau `Indian/Reunion`) : pour chaque post, DEUX
    publications (une Instagram, une TikTok), car les horaires diffèrent. Voir le modèle ci-dessous.
-   Tant que le mode « validation » est actif : `"draft": true`.
+   Publication automatique : `"draft": false` pour tout post daté du 2026-11-09 ou après.
 9. **Mettre à jour** `SUJETS.md` (historique), committer et pousser.
 10. **Récapituler** pour la personne : un tableau jour / sujet / horaires / lien vers la planche, les
-    sources principales, et tout point d'attention. Les brouillons sont à valider dans Metricool.
+    sources principales, et tout point d'attention. Rappeler que les posts partiront seuls aux heures
+    prévues, et qu'elle peut les modifier ou les supprimer dans Metricool d'ici là.
 
 ## Modèle Metricool (`createScheduledPost`)
 
@@ -107,12 +108,14 @@ avec `getBestTimeToPostByNetwork` une fois quelques semaines de publications pas
 - TikTok : `providers` `[{"network":"tiktok"}]`, `tiktokData`
   `{"title": tiktok_title, "privacyOption":"PUBLIC_TO_EVERYONE", "autoAddMusic": true, "photoCoverIndex": 0}`.
 - `publicationDate` : `{"dateTime":"AAAA-MM-JJTHH:MM:SS","timezone":"Indian/Reunion"}`, `autoPublish` true,
-  `draft` true (mode validation), `descendants` [], `firstCommentText` "", `smartLinkData` {"ids":[]}.
+  `draft` false (publication automatique), `descendants` [], `firstCommentText` "", `smartLinkData` {"ids":[]}.
 
 ## Règles
 
-- Mode actuel : **brouillons à valider** (`draft: true`). Ne passer en publication automatique
-  (`draft: false`) que lorsque la personne l'a demandé explicitement.
+- Mode actuel : **publication automatique** (`draft: false`) à partir des posts du lundi 9 novembre 2026,
+  à la demande de la personne (2 novembre 2026). Les posts antérieurs restent des brouillons à valider.
+  Revenir aux brouillons (`draft: true`) si la personne le demande, ou pour un post dont un fait ou une
+  illustration reste douteux (et le signaler dans le récapitulatif).
 - Jamais de personnage, logo ou œuvre protégés. Illustrations générées : uniquement en style
   vectoriel plat, jamais photoréalistes, pas de portrait d'une personne réelle, pas de texte dans l'image.
   Une illustration fausse ou trompeuse sur le sujet est régénérée, pas publiée.
