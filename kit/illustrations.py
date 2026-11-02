@@ -17,7 +17,8 @@ import zlib
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 STYLE = ("Flat vector editorial illustration of {scene}. Bold simple geometric shapes, limited palette of {palette}, "
-         "subtle grain texture, clean modern poster style. {composition} No text, no letters, no words, no logo.")
+         "subtle grain texture, clean modern poster style. {composition} Full-bleed artwork filling the whole frame "
+         "edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.")
 COMPOSITION = {
     "cover": "Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter.",
     "fact": "Wide landscape composition, subject centered, simple uncluttered background.",

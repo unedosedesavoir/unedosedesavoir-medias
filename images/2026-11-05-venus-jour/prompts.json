@@ -3,42 +3,42 @@
   "jobs": [
     {
       "file": "01-couverture.png",
-      "prompt": "Flat vector editorial illustration of the planet Venus as a large golden cloudy sphere next to a big hourglass floating in space, the Sun shining in the distance. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. No text, no letters, no words, no logo.",
+      "prompt": "Flat vector editorial illustration of the planet Venus as a large golden cloudy sphere next to a big hourglass floating in space, the Sun shining in the distance. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
       "width": 1088,
       "height": 880,
       "seed": 839218553
     },
     {
       "file": "02.png",
-      "prompt": "Flat vector editorial illustration of the planet Venus travelling around a big warm Sun along a dotted circular orbit, stars. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "prompt": "Flat vector editorial illustration of a big glowing Sun on the left and a small plain golden planet without any rings travelling around it along a large dotted circular orbit, deep starry space. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
       "width": 1088,
       "height": 592,
-      "seed": 457727649
+      "seed": 7105
     },
     {
       "file": "03.png",
-      "prompt": "Flat vector editorial illustration of the planet Venus with a curved arrow around it showing a slow spin, a sleepy snail sitting on top of the planet. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "prompt": "Flat vector editorial illustration of a golden yellow planet covered with swirling cream clouds and no continents, a curved arrow around it showing a slow spin, a sleepy snail sitting on top of the planet, deep starry space background. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
       "width": 1088,
       "height": 592,
       "seed": 568596535
     },
     {
       "file": "04.png",
-      "prompt": "Flat vector editorial illustration of the planet Venus with a curved arrow showing it spinning backwards next to a smaller Earth spinning the other way, stars. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "prompt": "Flat vector editorial illustration of the planet Venus with a curved arrow showing it spinning backwards next to a smaller Earth spinning the other way, stars. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
       "width": 1088,
       "height": 592,
       "seed": 212873108
     },
     {
       "file": "05.png",
-      "prompt": "Flat vector editorial illustration of a sunrise over the orange rocky volcanic plains of Venus under thick yellow clouds. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "prompt": "Flat vector editorial illustration of a sunrise over the orange rocky volcanic plains of Venus under thick yellow clouds. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
       "width": 1088,
       "height": 592,
       "seed": 364338946
     },
     {
       "file": "06.png",
-      "prompt": "Flat vector editorial illustration of a block of grey metal melting into a shiny puddle on the scorching orange rocky ground of Venus, heat waves, thick yellow clouds. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. No text, no letters, no words, no logo.",
+      "prompt": "Flat vector editorial illustration of a block of grey metal melting into a shiny puddle on the scorching orange rocky ground of Venus, heat waves, thick yellow clouds. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
       "width": 1088,
       "height": 592,
       "seed": 368321208

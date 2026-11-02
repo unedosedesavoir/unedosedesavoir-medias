@@ -4,38 +4,51 @@
   "date": "2026-11-08",
   "cover": {
     "title": "« La Grande Muraille se voit depuis l'espace »",
-    "subtitle": "Une idée reçue tenace. Vrai ou faux ?"
+    "subtitle": "Une idée reçue tenace. Vrai ou faux ?",
+    "scene": "an astronaut in a plain white spacesuit floating in orbit and looking down at the Earth through binoculars, curious pose",
+    "image": "01-couverture.png",
+    "size": 86
   },
   "slides": [
     {
       "big": "FAUX",
       "title": "Invisible à l'œil nu",
       "p1": "Depuis l'orbite, la Grande Muraille de Chine n'est pratiquement pas visible à l'œil nu.",
-      "p2": "Et depuis la Lune, encore moins : aucune construction humaine ne s'y distingue."
+      "p2": "Et depuis la Lune, encore moins : aucune construction humaine ne s'y distingue.",
+      "scene": "the Earth seen from low orbit, brown mountains and green valleys far below, a big magnifying glass searching in vain",
+      "image": "02.png"
     },
     {
       "big": "2003",
       "title": "Même un astronaute chinois l'avoue",
       "p1": "En octobre 2003, Yang Liwei, premier astronaute chinois, fait 14 fois le tour de la Terre.",
-      "p2": "Son constat : « La Terre était très belle, mais je n'ai pas vu notre Grande Muraille. »"
+      "p2": "Son constat : « La Terre était très belle, mais je n'ai pas vu notre Grande Muraille. »",
+      "scene": "a small space capsule circling the Earth along a dotted circular orbit, stars",
+      "image": "03.png"
     },
     {
       "big": "Camouflée",
       "title": "Elle se fond dans le paysage",
       "p1": "La muraille est très longue, mais étroite, et faite de matériaux proches du sol qui l'entoure.",
-      "p2": "Vue de très haut, elle se confond donc avec le terrain."
+      "p2": "Vue de très haut, elle se confond donc avec le terrain.",
+      "scene": "a long narrow stone wall winding along the ridges of brown mountains, the same colour as the surrounding terrain, blending in",
+      "image": "04.png"
     },
     {
       "big": "180 mm",
       "title": "Photographiée… au téléobjectif",
       "p1": "En 2004, l'astronaute Leroy Chiao la photographie depuis la Station spatiale, avec un objectif de 180 mm.",
-      "p2": "Sur le moment, il n'était même pas sûr que son cliché la montrait vraiment."
+      "p2": "Sur le moment, il n'était même pas sûr que son cliché la montrait vraiment.",
+      "scene": "a camera with a long telephoto lens pointed out of the round window of a space station toward the Earth",
+      "image": "05.png"
     },
     {
       "big": "1754",
       "title": "Un mythe plus vieux que les fusées",
       "p1": "Dès 1754, le savant anglais William Stukeley écrivait qu'on pourrait la discerner depuis la Lune.",
-      "p2": "Une affirmation lancée deux siècles avant le premier vol dans l'espace !"
+      "p2": "Une affirmation lancée deux siècles avant le premier vol dans l'espace !",
+      "scene": "an eighteenth century scholar's desk with a quill, an old book and a brass telescope pointed at the full Moon through an open window",
+      "image": "06.png"
     }
   ],
   "cta": {

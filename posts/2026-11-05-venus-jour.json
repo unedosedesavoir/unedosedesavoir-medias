@@ -14,15 +14,16 @@
       "title": "Une année plutôt courte",
       "p1": "Vénus fait le tour du Soleil en environ 225 jours terrestres. Son année est plus courte que la nôtre.",
       "p2": "Logique : c'est la deuxième planète la plus proche du Soleil.",
-      "scene": "the planet Venus travelling around a big warm Sun along a dotted circular orbit, stars",
-      "image": "02.png"
+      "scene": "a big glowing Sun on the left and a small plain golden planet without any rings travelling around it along a large dotted circular orbit, deep starry space",
+      "image": "02.png",
+      "seed": 7105
     },
     {
       "big": "243 j",
       "title": "Une rotation interminable",
       "p1": "Mais pour faire un tour complet sur elle-même, elle met environ 243 jours terrestres.",
       "p2": "Résultat : un tour sur elle-même dure plus longtemps qu'un tour autour du Soleil !",
-      "scene": "the planet Venus with a curved arrow around it showing a slow spin, a sleepy snail sitting on top of the planet",
+      "scene": "a golden yellow planet covered with swirling cream clouds and no continents, a curved arrow around it showing a slow spin, a sleepy snail sitting on top of the planet, deep starry space background",
       "image": "03.png"
     },
     {

@@ -6,7 +6,8 @@
     "title": "« La Grande Muraille se voit depuis l'espace »",
     "subtitle": "Une idée reçue tenace. Vrai ou faux ?",
     "scene": "an astronaut in a plain white spacesuit floating in orbit and looking down at the Earth through binoculars, curious pose",
-    "image": "01-couverture.png"
+    "image": "01-couverture.png",
+    "size": 86
   },
   "slides": [
     {
