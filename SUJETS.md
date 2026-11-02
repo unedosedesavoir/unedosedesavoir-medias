@@ -50,12 +50,15 @@ Chaque fait reste à vérifier sur au moins deux sources avant publication.
 
 ## Historique
 
+La semaine préparée pour le 2 au 8 novembre a été décalée au 9 au 15 novembre (les fichiers
+gardent leur nom d'origine ; la date de publication est le champ `date`).
+
 | Date | Pilier | Sujet | Statut |
 |---|---|---|---|
-| 2026-11-02 | lundi | Le tardigrade, l'animal presque indestructible | brouillon Metricool |
-| 2026-11-03 | mardi | La guerre la plus courte de l'histoire (Zanzibar, 1896) | brouillon Metricool |
-| 2026-11-04 | mercredi | Le cerveau, 2 % du poids et 20 % de l'énergie | brouillon Metricool |
-| 2026-11-05 | jeudi | Sur Vénus, un jour dure plus qu'une année | brouillon Metricool |
-| 2026-11-06 | vendredi | D'où vient le mot « robot » ? | brouillon Metricool |
-| 2026-11-07 | samedi | La Réunion, record mondial de pluie en 24 h | brouillon Metricool |
-| 2026-11-08 | dimanche | « La Grande Muraille se voit depuis l'espace » (FAUX) | brouillon Metricool |
+| 2026-11-09 | lundi | Le tardigrade, l'animal presque indestructible | publication automatique (fichiers 2026-11-02-tardigrade) |
+| 2026-11-10 | mardi | La guerre la plus courte de l'histoire (Zanzibar, 1896) | publication automatique (fichiers 2026-11-03-zanzibar) |
+| 2026-11-11 | mercredi | Le cerveau, 2 % du poids et 20 % de l'énergie | publication automatique (fichiers 2026-11-04-cerveau-energie) |
+| 2026-11-12 | jeudi | Sur Vénus, un jour dure plus qu'une année | publication automatique (fichiers 2026-11-05-venus-jour) |
+| 2026-11-13 | vendredi | D'où vient le mot « robot » ? | publication automatique (fichiers 2026-11-06-robot) |
+| 2026-11-14 | samedi | La Réunion, record mondial de pluie en 24 h | publication automatique (fichiers 2026-11-07-reunion-pluie) |
+| 2026-11-15 | dimanche | « La Grande Muraille se voit depuis l'espace » (FAUX) | publication automatique (fichiers 2026-11-08-grande-muraille) |

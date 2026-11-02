@@ -66,7 +66,12 @@ avec `getBestTimeToPostByNetwork` une fois quelques semaines de publications pas
   Avec illustration, le texte d'une slide de fait doit rester court (le script le contrôle).
 - Écrire les espaces normalement : le script ajoute les espaces insécables (« », ? ! : %, unités).
 
-## Procédure hebdomadaire (préparer la semaine suivante, lundi → dimanche)
+## Procédure hebdomadaire (lundi → dimanche)
+
+Chaque vendredi, on prépare la semaine qui commence le **deuxième lundi** suivant (le vendredi
+6 novembre 2026 → semaine du 16 novembre), ce qui laisse une semaine d'avance pour relire.
+Le nom des fichiers suit la date de publication ; pour les posts du 9 au 15 novembre 2026,
+le champ `date` fait foi.
 
 1. **Mettre à jour** : `git pull`. Lire `SUJETS.md` pour éviter les doublons.
 2. **Choisir 7 sujets**, un par pilier, dans la réserve ou en en proposant de nouveaux ; varier les
