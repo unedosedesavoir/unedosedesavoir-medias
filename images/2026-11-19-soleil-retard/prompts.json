@@ -1,0 +1,47 @@
+{
+  "slug": "2026-11-19-soleil-retard",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of the Sun glowing in space with a long golden beam of light travelling toward the small blue Earth, a large stopwatch floating nearby. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 511096957
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a beam of golden sunlight crossing dark space from the Sun to the small blue Earth, a stopwatch in the corner. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 530416359
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of the Sun on the far left and a tiny Earth on the far right, separated by a vast dark starry distance and a long dotted line. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 775240817
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of the Earth travelling along a slightly oval dotted orbit around the Sun, stars. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 990791122
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of the full Moon sending a short beam of light toward the Earth, and far away in the starry distance a faint pair of stars. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 275688260
+    },
+    {
+      "file": "06.png",
+      "prompt": "Flat vector editorial illustration of a cutaway view of the Sun showing its glowing layered interior, with a zigzag path of light bouncing from the core to the surface. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 573556478
+    }
+  ]
+}

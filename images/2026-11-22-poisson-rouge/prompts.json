@@ -1,0 +1,47 @@
+{
+  "slug": "2026-11-22-poisson-rouge",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a goldfish in a round glass bowl with a thoughtful expression, an empty thought bubble above it. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 264123862
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a goldfish swimming among floating glowing bubbles that each contain a small picture of a memory. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 160573500
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a goldfish pushing a small lever inside an aquarium, a wall clock outside the tank, food pellets falling into the water. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 123700394
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a goldfish in an aquarium looking at a coloured light, small musical notes floating in the water. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 773926665
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a goldfish swimming quickly toward a small red marker post inside an aquarium, food flakes floating near it. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 549530015
+    },
+    {
+      "file": "06.png",
+      "prompt": "Flat vector editorial illustration of a school of sea fish in the open ocean swimming toward an underwater loudspeaker emitting sound waves. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 251653157
+    }
+  ]
+}

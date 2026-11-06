@@ -1,0 +1,47 @@
+{
+  "slug": "2026-11-17-cleopatre",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of the great pyramids of Giza under a huge setting sun in the desert, an ancient Egyptian royal crown with a cobra emblem resting on a stone pedestal in the foreground. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 120256063
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of the Great Pyramid of Giza nearly finished, small workers hauling stone blocks up a ramp, palm trees along the Nile. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 454378477
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of an ancient royal palace by the sea in Alexandria with columns and a tall lighthouse tower, a royal crown resting on a cushion. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 847087995
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a generic lunar lander on the grey surface of the Moon, a small astronaut in a plain white suit next to it, the Earth in the black sky. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 66313944
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of an ancient Macedonian bronze helmet and a spear in front of an Egyptian obelisk, the Mediterranean sea in the background. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 204358222
+    },
+    {
+      "file": "06.png",
+      "prompt": "Flat vector editorial illustration of a pile of blank papyrus scrolls and wax tablets with an oil lamp on a stone table in an ancient library with columns. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 502366196
+    }
+  ]
+}

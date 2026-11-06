@@ -1,0 +1,40 @@
+{
+  "slug": "2026-11-20-tomber-dans-les-pommes",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a simple faceless human figure fainting softly backwards onto a big pile of red and green apples, playful and gentle. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 890290844
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a vintage nineteenth century fainting couch in a parlour with patterned wallpaper, a basket of apples on the floor beside it. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 967316499
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a simple faceless human figure in an elegant long medieval dress swooning dramatically, apples rolling on the floor. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 352991877
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a sealed folded letter with a quill pen and an inkwell on a wooden desk, next to a bowl of baked apples, candlelight. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 505627430
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a cooking pot full of soft baked apples simmering on an old stove, steam rising. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 783891888
+    }
+  ]
+}

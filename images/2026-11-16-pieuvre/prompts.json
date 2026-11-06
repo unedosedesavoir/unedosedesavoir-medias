@@ -1,0 +1,47 @@
+{
+  "slug": "2026-11-16-pieuvre",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a cute octopus with eight curling arms resting on the sea floor among seaweed and rocks, big curious eyes. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 335670017
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a stylised octopus with three small glowing hearts visible inside its body, two small hearts and one larger heart. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 919746760
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of an octopus jetting through open water with its arms streaming behind it, and another octopus calmly crawling on the rocky sea floor. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 661656158
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a big drop of blue blood next to a stylised octopus, and a smaller red drop beside it for comparison. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 12661757
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of an octopus whose eight arms are lined with tiny glowing connected nerve dots, as if each arm had its own little brain. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 9465707
+    },
+    {
+      "file": "06.png",
+      "prompt": "Flat vector editorial illustration of an octopus escaping behind a big cloud of dark ink, a confused predator fish on the other side of the cloud. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 6564561
+    }
+  ]
+}

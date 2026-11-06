@@ -5,7 +5,8 @@
   "cover": {
     "title": "Le Baïkal, le lac de tous les records",
     "subtitle": "Un géant d'eau douce au cœur de la Sibérie",
-    "scene": "a vast clear blue lake surrounded by mountains and pine forests"
+    "scene": "a vast deep blue lake surrounded by mountains and pine forests in Siberia, turquoise ice cracks along the shore",
+    "image": "01-couverture.png"
   },
   "slides": [
     {
@@ -13,35 +14,40 @@
       "title": "Une réserve d'eau douce géante",
       "p1": "Le lac Baïkal contient environ 20 % de l'eau douce liquide de la planète.",
       "p2": "Soit quelque 23 000 km³ d'eau, dans un seul lac !",
-      "scene": "a giant water drop above a lake"
+      "scene": "a giant drop of fresh water floating above a long mountain lake surrounded by pine forests",
+      "image": "02.png"
     },
     {
       "big": "1 600 m",
       "title": "Le lac le plus profond du monde",
       "p1": "Sa profondeur maximale dépasse 1 600 mètres.",
       "p2": "C'est presque cinq fois la hauteur de la tour Eiffel !",
-      "scene": "a cross-section of a very deep lake"
+      "scene": "a cross-section of a very deep lake showing dark blue water going very far down, a small Eiffel Tower silhouette at the side for scale",
+      "image": "03.png"
     },
     {
       "big": "25 M",
       "title": "Le plus vieux lac du monde",
       "p1": "Il se serait formé il y a environ 20 à 25 millions d'années.",
       "p2": "Il est inscrit au patrimoine mondial de l'UNESCO depuis 1996.",
-      "scene": "ancient rocky cliffs on a lake shore"
+      "scene": "a mountain lake with a cross-section of layered ancient rock strata below it, small fossils in the layers",
+      "image": "04.png"
     },
     {
       "big": "330",
       "title": "Des centaines de rivières",
       "p1": "Plus de 330 rivières et ruisseaux se jettent dans le lac.",
       "p2": "Mais une seule en sort : l'Angara, un affluent de l'Ienisseï.",
-      "scene": "many small rivers flowing into a large lake, seen from above"
+      "scene": "an aerial view of many small winding rivers flowing into a long narrow lake and a single river flowing out at the other end",
+      "image": "05.png"
     },
     {
       "big": "Nerpa",
       "title": "Un phoque d'eau douce",
       "p1": "Le Baïkal abrite le nerpa, le seul phoque au monde à vivre uniquement en eau douce.",
       "p2": "Et la plupart de ses espèces animales n'existent nulle part ailleurs.",
-      "scene": "a round grey seal resting on a rock by a lake"
+      "scene": "a cute round grey freshwater seal resting on a rock at the edge of a clear blue lake, pine trees behind",
+      "image": "06.png"
     }
   ],
   "cta": {

@@ -1,0 +1,47 @@
+{
+  "slug": "2026-11-21-lac-baikal",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a vast deep blue lake surrounded by mountains and pine forests in Siberia, turquoise ice cracks along the shore. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 82900787
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a giant drop of fresh water floating above a long mountain lake surrounded by pine forests. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 250980460
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a cross-section of a very deep lake showing dark blue water going very far down, a small Eiffel Tower silhouette at the side for scale. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 322063610
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a mountain lake with a cross-section of layered ancient rock strata below it, small fossils in the layers. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 335770969
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of an aerial view of many small winding rivers flowing into a long narrow lake and a single river flowing out at the other end. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 661224399
+    },
+    {
+      "file": "06.png",
+      "prompt": "Flat vector editorial illustration of a cute round grey freshwater seal resting on a rock at the edge of a clear blue lake, pine trees behind. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 195161205
+    }
+  ]
+}

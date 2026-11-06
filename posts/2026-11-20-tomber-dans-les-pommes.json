@@ -5,8 +5,9 @@
   "cover": {
     "title": "Pourquoi dit-on « tomber dans les pommes » ?",
     "subtitle": "Une expression à l'origine mystérieuse",
-    "scene": "red apples falling from a tree onto green grass",
-    "size": 100
+    "scene": "a simple faceless human figure fainting softly backwards onto a big pile of red and green apples, playful and gentle",
+    "size": 100,
+    "image": "01-couverture.png"
   },
   "slides": [
     {
@@ -14,28 +15,32 @@
       "title": "Une expression du XIXe siècle",
       "p1": "« Tomber dans les pommes », c'est s'évanouir. L'expression est attestée en 1889.",
       "p2": "Mais son origine exacte reste inconnue : place aux hypothèses !",
-      "scene": "an old dictionary open on a desk"
+      "scene": "a vintage nineteenth century fainting couch in a parlour with patterned wallpaper, a basket of apples on the floor beside it",
+      "image": "02.png"
     },
     {
       "big": "Pâmer",
       "title": "Piste n° 1 : la pâmoison",
       "p1": "« Se pâmer », c'est défaillir. « Pâmer » aurait glissé vers « paumer », puis « pommes ».",
       "p2": "Une piste fragile : la forme ancienne « pâmes » avait disparu depuis le XVe siècle.",
-      "scene": "a fainting couch in an old-fashioned salon"
+      "scene": "a simple faceless human figure in an elegant long medieval dress swooning dramatically, apples rolling on the floor",
+      "image": "03.png"
     },
     {
       "big": "Sand",
       "title": "Piste n° 2 : George Sand",
       "p1": "Dans une lettre, la romancière écrit être « dans les pommes cuites » : épuisée.",
       "p2": "Pour certains spécialistes, c'est l'origine la plus probable de l'expression.",
-      "scene": "a quill pen and a handwritten letter with a wax seal"
+      "scene": "a sealed folded letter with a quill pen and an inkwell on a wooden desk, next to a bowl of baked apples, candlelight",
+      "image": "04.png"
     },
     {
       "big": "Cuit",
       "title": "Comme « être cuit »",
       "p1": "« Être dans les pommes cuites » se rapproche de « être cuit » : à bout de forces.",
       "p2": "De l'épuisement à l'évanouissement, l'image aurait pu glisser peu à peu.",
-      "scene": "baked apples in a rustic dish"
+      "scene": "a cooking pot full of soft baked apples simmering on an old stove, steam rising",
+      "image": "05.png"
     }
   ],
   "cta": {

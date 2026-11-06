@@ -5,8 +5,9 @@
   "cover": {
     "title": "Le Soleil que vous voyez a 8 minutes de retard",
     "subtitle": "La lumière met du temps à voyager",
-    "scene": "the Sun and the Earth with a beam of light travelling between them",
-    "size": 100
+    "scene": "the Sun glowing in space with a long golden beam of light travelling toward the small blue Earth, a large stopwatch floating nearby",
+    "size": 100,
+    "image": "01-couverture.png"
   },
   "slides": [
     {
@@ -14,38 +15,43 @@
       "title": "Le temps du trajet",
       "p1": "La lumière du Soleil met en moyenne 8 minutes et 20 secondes à nous parvenir.",
       "p2": "Vous voyez donc toujours le Soleil tel qu'il était il y a plus de 8 minutes.",
-      "scene": "a clock face next to a glowing Sun",
-      "big_size": 130
+      "scene": "a beam of golden sunlight crossing dark space from the Sun to the small blue Earth, a stopwatch in the corner",
+      "big_size": 130,
+      "image": "02.png"
     },
     {
       "big": "150 M km",
       "title": "Une distance immense",
       "p1": "Le Soleil se trouve à environ 150 millions de kilomètres de la Terre.",
       "p2": "Même à 300 000 km par seconde, la lumière met environ 500 secondes à faire le trajet.",
-      "scene": "a long dotted line from the Sun to a tiny Earth",
-      "big_size": 130
+      "scene": "the Sun on the far left and a tiny Earth on the far right, separated by a vast dark starry distance and a long dotted line",
+      "big_size": 130,
+      "image": "03.png"
     },
     {
       "big": "17 s",
       "title": "Un retard qui varie",
       "p1": "L'orbite terrestre est un peu ovale : de 147 à 152 millions de km du Soleil.",
       "p2": "Le trajet de la lumière dure donc de 8 min 10 s à 8 min 27 s selon la période de l'année.",
-      "scene": "an elliptical orbit around the Sun"
+      "scene": "the Earth travelling along a slightly oval dotted orbit around the Sun, stars",
+      "image": "04.png"
     },
     {
       "big": "1 s",
       "title": "La Lune, presque en direct",
       "p1": "La lumière renvoyée par la Lune met environ une seconde à nous atteindre.",
       "p2": "Pour l'étoile la plus proche, Alpha du Centaure, il faut plus de 4 ans !",
-      "scene": "the Moon above the Earth with a short light beam"
+      "scene": "the full Moon sending a short beam of light toward the Earth, and far away in the starry distance a faint pair of stars",
+      "image": "05.png"
     },
     {
       "big": "Millénaires",
       "title": "Un voyage commencé bien avant",
       "p1": "Avant de quitter le Soleil, la lumière est absorbée et réémise d'innombrables fois.",
       "p2": "Elle met des milliers, voire des dizaines de milliers d'années, à atteindre sa surface.",
-      "scene": "a cutaway view of the Sun showing its layers",
-      "big_size": 110
+      "scene": "a cutaway view of the Sun showing its glowing layered interior, with a zigzag path of light bouncing from the core to the surface",
+      "big_size": 110,
+      "image": "06.png"
     }
   ],
   "cta": {

@@ -1,0 +1,40 @@
+{
+  "slug": "2026-11-18-plus-grand-le-matin",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a simple faceless human figure standing straight against a wall height chart with a big ruler, morning sunlight through a window, an alarm clock on a shelf. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 377989493
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a tall measuring ruler between two simple faceless human figure silhouettes, the one on the left in bright morning light slightly taller than the one on the right in orange evening light. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 134965989
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a stylised human spine made of stacked vertebrae and soft discs, gently compressed under a big downward arrow. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 882967667
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a simple faceless human figure sleeping stretched out in bed under a blanket, a relaxed spine drawn in soft lines above, a crescent moon in the window. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 865074640
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of an astronaut in a plain white spacesuit floating and stretching inside a space station, stars and the Earth through the window. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 720520006
+    }
+  ]
+}
