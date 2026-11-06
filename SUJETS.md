@@ -62,10 +62,10 @@ gardent leur nom d'origine ; la date de publication est le champ `date`).
 | 2026-11-13 | vendredi | D'où vient le mot « robot » ? | publication automatique (fichiers 2026-11-06-robot) |
 | 2026-11-14 | samedi | La Réunion, record mondial de pluie en 24 h | publication automatique (fichiers 2026-11-07-reunion-pluie) |
 | 2026-11-15 | dimanche | « La Grande Muraille se voit depuis l'espace » (FAUX) | publication automatique (fichiers 2026-11-08-grande-muraille) |
-| 2026-11-16 | lundi | La pieuvre : trois cœurs, sang bleu, neurones dans les bras | publication automatique (sans illustration) |
-| 2026-11-17 | mardi | Cléopâtre plus proche de nous que des pyramides | BROUILLON : une seule source ouverte, à valider |
-| 2026-11-18 | mercredi | Vous êtes plus grand le matin | BROUILLON : une seule source ouverte, à valider |
-| 2026-11-19 | jeudi | Le Soleil que vous voyez a 8 minutes de retard | publication automatique (sans illustration) |
-| 2026-11-20 | vendredi | « Tomber dans les pommes » (hypothèses) | publication automatique (sans illustration) |
-| 2026-11-21 | samedi | Le lac Baïkal, le lac de tous les records | publication automatique (sans illustration) |
-| 2026-11-22 | dimanche | « Le poisson rouge a une mémoire de 3 secondes » (FAUX) | publication automatique (sans illustration) |
+| 2026-11-16 | lundi | La pieuvre : trois cœurs, sang bleu, neurones dans les bras | publication automatique (illustrée) |
+| 2026-11-17 | mardi | Cléopâtre plus proche de nous que des pyramides | BROUILLON illustré : une seule source ouverte, à valider |
+| 2026-11-18 | mercredi | Vous êtes plus grand le matin | BROUILLON illustré : une seule source ouverte, à valider |
+| 2026-11-19 | jeudi | Le Soleil que vous voyez a 8 minutes de retard | publication automatique (illustrée) |
+| 2026-11-20 | vendredi | « Tomber dans les pommes » (hypothèses) | publication automatique (illustrée) |
+| 2026-11-21 | samedi | Le lac Baïkal, le lac de tous les records | publication automatique (illustrée) |
+| 2026-11-22 | dimanche | « Le poisson rouge a une mémoire de 3 secondes » (FAUX) | publication automatique (illustrée) |

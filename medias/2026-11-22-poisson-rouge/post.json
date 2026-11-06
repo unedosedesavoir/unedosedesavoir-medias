@@ -5,8 +5,10 @@
   "cover": {
     "title": "« Le poisson rouge a une mémoire de 3 secondes »",
     "subtitle": "Une idée reçue tenace. Vrai ou faux ?",
-    "scene": "a goldfish in a round bowl looking curious",
-    "size": 86
+    "scene": "a goldfish in a round glass bowl with a thoughtful expression, an empty thought bubble above it",
+    "size": 84,
+    "image": "01-couverture.png",
+    "image_pos": "20%"
   },
   "slides": [
     {
@@ -14,35 +16,40 @@
       "title": "Une mémoire de plusieurs mois",
       "p1": "Le mythe des 3 secondes a été démenti par de nombreuses études.",
       "p2": "Les poissons peuvent garder des souvenirs pendant des mois, pas quelques secondes.",
-      "scene": "a goldfish with a thought bubble showing a calendar"
+      "scene": "a goldfish swimming among floating glowing bubbles that each contain a small picture of a memory",
+      "image": "02.png"
     },
     {
       "big": "1 h",
       "title": "Un poisson qui lit l'heure",
       "p1": "À l'université de Plymouth, des poissons rouges ont appris à pousser un levier pour manger.",
       "p2": "La nourriture ne tombait qu'une heure par jour : ils se pressaient au levier à l'approche du repas.",
-      "scene": "a goldfish pushing a small lever in an aquarium"
+      "scene": "a goldfish pushing a small lever inside an aquarium, a wall clock outside the tank, food pellets falling into the water",
+      "image": "03.png"
     },
     {
       "big": "Couleurs",
       "title": "Il reconnaît couleurs et sons",
       "p1": "On peut lui apprendre à associer une lumière colorée à la nourriture.",
       "p2": "Des poissons rouges ont même su distinguer deux morceaux de musique classique.",
-      "scene": "a goldfish near colored lights and musical notes"
+      "scene": "a goldfish in an aquarium looking at a coloured light, small musical notes floating in the water",
+      "image": "04.png"
     },
     {
       "big": "Repère",
       "title": "Il se souvient d'un repère",
       "p1": "Un jeune Australien a nourri ses poissons près d'un repère rouge placé dans l'aquarium.",
       "p2": "Après une semaine sans ce repère, ils filaient vers lui encore plus vite à son retour.",
-      "scene": "a red block in an aquarium with goldfish swimming toward it"
+      "scene": "a goldfish swimming quickly toward a small red marker post inside an aquarium, food flakes floating near it",
+      "image": "05.png"
     },
     {
       "big": "Mois",
       "title": "D'autres poissons aussi",
       "p1": "En Israël, des poissons de mer ont appris à associer un son à leur repas.",
       "p2": "Relâchés en mer, ils revenaient encore au signal des mois plus tard.",
-      "scene": "fish swimming toward an underwater loudspeaker"
+      "scene": "a school of sea fish in the open ocean swimming toward an underwater loudspeaker emitting sound waves",
+      "image": "06.png"
     }
   ],
   "cta": {

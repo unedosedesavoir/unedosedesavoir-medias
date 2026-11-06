@@ -6,8 +6,9 @@
     "title": "« Le poisson rouge a une mémoire de 3 secondes »",
     "subtitle": "Une idée reçue tenace. Vrai ou faux ?",
     "scene": "a goldfish in a round glass bowl with a thoughtful expression, an empty thought bubble above it",
-    "size": 86,
-    "image": "01-couverture.png"
+    "size": 84,
+    "image": "01-couverture.png",
+    "image_pos": "20%"
   },
   "slides": [
     {

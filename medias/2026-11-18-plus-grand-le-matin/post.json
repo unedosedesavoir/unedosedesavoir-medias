@@ -5,7 +5,8 @@
   "cover": {
     "title": "Vous êtes plus grand le matin",
     "subtitle": "Et vous rapetissez un peu chaque jour",
-    "scene": "a child-height measuring ruler on a wall next to a bed at sunrise"
+    "scene": "a simple faceless human figure standing straight against a wall height chart with a big ruler, morning sunlight through a window, an alarm clock on a shelf",
+    "image": "01-couverture.png"
   },
   "slides": [
     {
@@ -13,28 +14,33 @@
       "title": "Jusqu'à 2,5 cm d'écart",
       "p1": "Le matin, on peut mesurer jusqu'à 25 mm de plus que le soir.",
       "p2": "Chez beaucoup de gens, la différence tourne plutôt autour d'un ou deux centimètres.",
-      "scene": "a measuring tape next to a sunrise and a moon"
+      "scene": "a tall wooden height measuring ruler fixed on a wall, with two small arrow marks very close to each other near the top, a small rising sun next to the upper mark and a small crescent moon next to the lower mark, no people",
+      "image": "02.png",
+      "seed": 7718
     },
     {
       "big": "Gravité",
       "title": "La faute à la pesanteur",
       "p1": "Debout ou assis, votre colonne vertébrale porte le poids du corps toute la journée.",
       "p2": "Sous cette pression, elle se tasse peu à peu au fil des heures.",
-      "scene": "a stylised spine made of stacked blocks being pressed down by an arrow"
+      "scene": "a straight vertical human spine of stacked vertebrae and soft discs seen from the side, a heavy weight pressing down on top of it",
+      "image": "03.png"
     },
     {
       "big": "Nuit",
       "title": "Vous regrandissez en dormant",
       "p1": "Allongé, votre dos n'est plus écrasé par la pesanteur.",
       "p2": "La colonne se détend pendant la nuit, et vous retrouvez votre taille au réveil.",
-      "scene": "a bed under a starry night sky"
+      "scene": "a simple faceless human figure sleeping stretched out in bed under a blanket, a relaxed spine drawn in soft lines above, a crescent moon in the window",
+      "image": "04.png"
     },
     {
       "big": "5 cm",
       "title": "Les astronautes grandissent",
       "p1": "Dans l'espace, sans pesanteur, les astronautes peuvent gagner jusqu'à 5 cm.",
       "p2": "De retour sur Terre, ils retrouvent vite leur taille normale.",
-      "scene": "a space station orbiting the Earth"
+      "scene": "an astronaut in a plain white spacesuit floating and stretching inside a space station, stars and the Earth through the window",
+      "image": "05.png"
     }
   ],
   "cta": {
