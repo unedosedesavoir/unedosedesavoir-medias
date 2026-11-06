@@ -1,0 +1,67 @@
+{
+  "pillar": "samedi",
+  "slug": "2026-11-21-lac-baikal",
+  "date": "2026-11-21",
+  "cover": {
+    "title": "Le Baïkal, le lac de tous les records",
+    "subtitle": "Un géant d'eau douce au cœur de la Sibérie",
+    "scene": "a vast clear blue lake surrounded by mountains and pine forests"
+  },
+  "slides": [
+    {
+      "big": "20 %",
+      "title": "Une réserve d'eau douce géante",
+      "p1": "Le lac Baïkal contient environ 20 % de l'eau douce liquide de la planète.",
+      "p2": "Soit quelque 23 000 km³ d'eau, dans un seul lac !",
+      "scene": "a giant water drop above a lake"
+    },
+    {
+      "big": "1 600 m",
+      "title": "Le lac le plus profond du monde",
+      "p1": "Sa profondeur maximale dépasse 1 600 mètres.",
+      "p2": "C'est presque cinq fois la hauteur de la tour Eiffel !",
+      "scene": "a cross-section of a very deep lake"
+    },
+    {
+      "big": "25 M",
+      "title": "Le plus vieux lac du monde",
+      "p1": "Il se serait formé il y a environ 20 à 25 millions d'années.",
+      "p2": "Il est inscrit au patrimoine mondial de l'UNESCO depuis 1996.",
+      "scene": "ancient rocky cliffs on a lake shore"
+    },
+    {
+      "big": "330",
+      "title": "Des centaines de rivières",
+      "p1": "Plus de 330 rivières et ruisseaux se jettent dans le lac.",
+      "p2": "Mais une seule en sort : l'Angara, un affluent de l'Ienisseï.",
+      "scene": "many small rivers flowing into a large lake, seen from above"
+    },
+    {
+      "big": "Nerpa",
+      "title": "Un phoque d'eau douce",
+      "p1": "Le Baïkal abrite le nerpa, le seul phoque au monde à vivre uniquement en eau douce.",
+      "p2": "Et la plupart de ses espèces animales n'existent nulle part ailleurs.",
+      "scene": "a round grey seal resting on a rock by a lake"
+    }
+  ],
+  "cta": {
+    "title": "Quel lac rêvez-vous de voir ?",
+    "text": "Dites-le-nous en commentaire !"
+  },
+  "caption": "Le plus profond, le plus vieux et l'un des plus grands réservoirs d'eau douce du monde 💧\nBienvenue au lac Baïkal, en Sibérie. Glissez pour ses records 👉\nVous le connaissiez ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "geographie",
+    "lacbaikal",
+    "nature",
+    "monde",
+    "apprendre"
+  ],
+  "tiktok_title": "Le lac Baïkal, le lac de tous les records",
+  "sources": [
+    "https://www.britannica.com/place/Lake-Baikal",
+    "https://whc.unesco.org/en/list/754",
+    "https://wonderopolis.org/wonder/where-is-lake-baikal"
+  ]
+}

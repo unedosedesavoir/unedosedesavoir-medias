@@ -1,0 +1,68 @@
+{
+  "pillar": "dimanche",
+  "slug": "2026-11-22-poisson-rouge",
+  "date": "2026-11-22",
+  "cover": {
+    "title": "« Le poisson rouge a une mémoire de 3 secondes »",
+    "subtitle": "Une idée reçue tenace. Vrai ou faux ?",
+    "scene": "a goldfish in a round bowl looking curious",
+    "size": 86
+  },
+  "slides": [
+    {
+      "big": "FAUX",
+      "title": "Une mémoire de plusieurs mois",
+      "p1": "Le mythe des 3 secondes a été démenti par de nombreuses études.",
+      "p2": "Les poissons peuvent garder des souvenirs pendant des mois, pas quelques secondes.",
+      "scene": "a goldfish with a thought bubble showing a calendar"
+    },
+    {
+      "big": "1 h",
+      "title": "Un poisson qui lit l'heure",
+      "p1": "À l'université de Plymouth, des poissons rouges ont appris à pousser un levier pour manger.",
+      "p2": "La nourriture ne tombait qu'une heure par jour : ils se pressaient au levier à l'approche du repas.",
+      "scene": "a goldfish pushing a small lever in an aquarium"
+    },
+    {
+      "big": "Couleurs",
+      "title": "Il reconnaît couleurs et sons",
+      "p1": "On peut lui apprendre à associer une lumière colorée à la nourriture.",
+      "p2": "Des poissons rouges ont même su distinguer deux morceaux de musique classique.",
+      "scene": "a goldfish near colored lights and musical notes"
+    },
+    {
+      "big": "Repère",
+      "title": "Il se souvient d'un repère",
+      "p1": "Un jeune Australien a nourri ses poissons près d'un repère rouge placé dans l'aquarium.",
+      "p2": "Après une semaine sans ce repère, ils filaient vers lui encore plus vite à son retour.",
+      "scene": "a red block in an aquarium with goldfish swimming toward it"
+    },
+    {
+      "big": "Mois",
+      "title": "D'autres poissons aussi",
+      "p1": "En Israël, des poissons de mer ont appris à associer un son à leur repas.",
+      "p2": "Relâchés en mer, ils revenaient encore au signal des mois plus tard.",
+      "scene": "fish swimming toward an underwater loudspeaker"
+    }
+  ],
+  "cta": {
+    "title": "Vous y croyiez, vous ?",
+    "text": "Dites-nous en commentaire quelle idée reçue démonter la prochaine fois."
+  },
+  "caption": "Non, le poisson rouge n'a pas une mémoire de 3 secondes 🐠\nIl peut apprendre l'heure du repas et reconnaître des sons. Glissez pour le verdict 👉\nVous y croyiez ? Dites-le en commentaire !",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "vraioufaux",
+    "ideerecue",
+    "animaux",
+    "poissonrouge",
+    "apprendre"
+  ],
+  "tiktok_title": "Le poisson rouge a-t-il une mémoire de 3 secondes ? Vrai ou faux",
+  "sources": [
+    "https://www.thenakedscientists.com/node/174167",
+    "https://www.scienceabc.com/nature/animals/do-goldfish-really-have-a-3-second-memory.html",
+    "https://www.practicalfishkeeping.co.uk/features/articles/do-fish-have-a-three-second-memory"
+  ]
+}

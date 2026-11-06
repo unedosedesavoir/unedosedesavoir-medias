@@ -1,0 +1,70 @@
+{
+  "pillar": "jeudi",
+  "slug": "2026-11-19-soleil-retard",
+  "date": "2026-11-19",
+  "cover": {
+    "title": "Le Soleil que vous voyez a 8 minutes de retard",
+    "subtitle": "La lumière met du temps à voyager",
+    "scene": "the Sun and the Earth with a beam of light travelling between them",
+    "size": 100
+  },
+  "slides": [
+    {
+      "big": "8 min 20",
+      "title": "Le temps du trajet",
+      "p1": "La lumière du Soleil met en moyenne 8 minutes et 20 secondes à nous parvenir.",
+      "p2": "Vous voyez donc toujours le Soleil tel qu'il était il y a plus de 8 minutes.",
+      "scene": "a clock face next to a glowing Sun",
+      "big_size": 130
+    },
+    {
+      "big": "150 M km",
+      "title": "Une distance immense",
+      "p1": "Le Soleil se trouve à environ 150 millions de kilomètres de la Terre.",
+      "p2": "Même à 300 000 km par seconde, la lumière met environ 500 secondes à faire le trajet.",
+      "scene": "a long dotted line from the Sun to a tiny Earth",
+      "big_size": 130
+    },
+    {
+      "big": "17 s",
+      "title": "Un retard qui varie",
+      "p1": "L'orbite terrestre est un peu ovale : de 147 à 152 millions de km du Soleil.",
+      "p2": "Le trajet de la lumière dure donc de 8 min 10 s à 8 min 27 s selon la période de l'année.",
+      "scene": "an elliptical orbit around the Sun"
+    },
+    {
+      "big": "1 s",
+      "title": "La Lune, presque en direct",
+      "p1": "La lumière renvoyée par la Lune met environ une seconde à nous atteindre.",
+      "p2": "Pour l'étoile la plus proche, Alpha du Centaure, il faut plus de 4 ans !",
+      "scene": "the Moon above the Earth with a short light beam"
+    },
+    {
+      "big": "Millénaires",
+      "title": "Un voyage commencé bien avant",
+      "p1": "Avant de quitter le Soleil, la lumière est absorbée et réémise d'innombrables fois.",
+      "p2": "Elle met des milliers, voire des dizaines de milliers d'années, à atteindre sa surface.",
+      "scene": "a cutaway view of the Sun showing its layers",
+      "big_size": 110
+    }
+  ],
+  "cta": {
+    "title": "Ça vous donne le vertige ?",
+    "text": "Dites-nous en commentaire quelle question d'astronomie vous intrigue."
+  },
+  "caption": "Quand vous regardez le Soleil (jamais en face !), vous le voyez avec plus de 8 minutes de retard ☀️\nLa lumière a beau être rapide, la distance est immense. Glissez pour comprendre 👉\nVous le saviez ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "espace",
+    "astronomie",
+    "soleil",
+    "science",
+    "apprendre"
+  ],
+  "tiktok_title": "Le Soleil que vous voyez a plus de 8 minutes de retard",
+  "sources": [
+    "https://www.skyatnightmagazine.com/space-science/how-take-light-from-sun-reach-earth",
+    "https://www.universetoday.com/articles/how-long-does-it-take-sunlight-to-reach-the-earth"
+  ]
+}

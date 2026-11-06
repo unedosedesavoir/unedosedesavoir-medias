@@ -1,0 +1,60 @@
+{
+  "pillar": "vendredi",
+  "slug": "2026-11-20-tomber-dans-les-pommes",
+  "date": "2026-11-20",
+  "cover": {
+    "title": "Pourquoi dit-on « tomber dans les pommes » ?",
+    "subtitle": "Une expression à l'origine mystérieuse",
+    "scene": "red apples falling from a tree onto green grass",
+    "size": 100
+  },
+  "slides": [
+    {
+      "big": "1889",
+      "title": "Une expression du XIXe siècle",
+      "p1": "« Tomber dans les pommes », c'est s'évanouir. L'expression est attestée en 1889.",
+      "p2": "Mais son origine exacte reste inconnue : place aux hypothèses !",
+      "scene": "an old dictionary open on a desk"
+    },
+    {
+      "big": "Pâmer",
+      "title": "Piste n° 1 : la pâmoison",
+      "p1": "« Se pâmer », c'est défaillir. « Pâmer » aurait glissé vers « paumer », puis « pommes ».",
+      "p2": "Une piste fragile : la forme ancienne « pâmes » avait disparu depuis le XVe siècle.",
+      "scene": "a fainting couch in an old-fashioned salon"
+    },
+    {
+      "big": "Sand",
+      "title": "Piste n° 2 : George Sand",
+      "p1": "Dans une lettre, la romancière écrit être « dans les pommes cuites » : épuisée.",
+      "p2": "Pour certains spécialistes, c'est l'origine la plus probable de l'expression.",
+      "scene": "a quill pen and a handwritten letter with a wax seal"
+    },
+    {
+      "big": "Cuit",
+      "title": "Comme « être cuit »",
+      "p1": "« Être dans les pommes cuites » se rapproche de « être cuit » : à bout de forces.",
+      "p2": "De l'épuisement à l'évanouissement, l'image aurait pu glisser peu à peu.",
+      "scene": "baked apples in a rustic dish"
+    }
+  ],
+  "cta": {
+    "title": "Quelle expression décortiquer ensuite ?",
+    "text": "Proposez-la en commentaire, on mène l'enquête !",
+    "size": 80
+  },
+  "caption": "« Tomber dans les pommes » : mais quel rapport avec les fruits ? 🍎\nL'origine reste incertaine, mais deux pistes se disputent l'explication. Glissez pour les découvrir 👉\nVous penchez pour laquelle ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "expressionsfrancaises",
+    "languefrancaise",
+    "etymologie",
+    "apprendre"
+  ],
+  "tiktok_title": "Pourquoi dit-on « tomber dans les pommes » ?",
+  "sources": [
+    "https://www.expressio.fr/expressions/tomber-dans-les-pommes",
+    "https://www.thelocal.fr/20200522/french-expression-of-the-day-tomber-dans-les-pommes"
+  ]
+}

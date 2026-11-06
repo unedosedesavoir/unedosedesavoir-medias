@@ -1,0 +1,70 @@
+{
+  "pillar": "mardi",
+  "slug": "2026-11-17-cleopatre",
+  "date": "2026-11-17",
+  "cover": {
+    "title": "Cléopâtre est plus proche de nous que des pyramides",
+    "subtitle": "Le temps est plus long qu'on ne le croit",
+    "scene": "the three pyramids of Giza at sunset in the desert",
+    "size": 96
+  },
+  "slides": [
+    {
+      "big": "v. 2560",
+      "title": "La Grande Pyramide est achevée",
+      "p1": "La pyramide de Gizeh, bâtie pour le pharaon Khéops, est terminée vers 2560 av. J.-C.",
+      "p2": "Elle est déjà, à l'époque de Cléopâtre, un monument vieux de plusieurs millénaires.",
+      "scene": "the Great Pyramid under a bright sun",
+      "big_size": 140
+    },
+    {
+      "big": "30 av. J.-C.",
+      "title": "La mort de Cléopâtre",
+      "p1": "Cléopâtre, dernière souveraine de la dynastie des Ptolémées, meurt en 30 av. J.-C.",
+      "p2": "La Grande Pyramide a alors déjà plus de 2 500 ans !",
+      "scene": "an ancient Egyptian royal crown on a cushion",
+      "big_size": 110
+    },
+    {
+      "big": "1969",
+      "title": "Les premiers pas sur la Lune",
+      "p1": "Le 20 juillet 1969, la mission Apollo 11 se pose sur la Lune.",
+      "p2": "Entre Cléopâtre et cet exploit : environ 2 000 ans. Moins qu'entre elle et la pyramide !",
+      "scene": "a lunar lander on the grey surface of the Moon, Earth in the sky"
+    },
+    {
+      "big": "Grecque",
+      "title": "Une reine d'origine grecque",
+      "p1": "Cléopâtre descend de Ptolémée, un général macédonien d'Alexandre le Grand.",
+      "p2": "Ses ancêtres ont régné sur l'Égypte pendant environ trois siècles.",
+      "scene": "an ancient Greek ship sailing toward an Egyptian harbour with a lighthouse"
+    },
+    {
+      "big": "Polyglotte",
+      "title": "Une reine aux nombreuses langues",
+      "p1": "Selon les récits, elle parlait plusieurs langues, jusqu'à neuf, dont le grec et l'égyptien.",
+      "p2": "Une femme de grande culture, bien loin de la seule image de séductrice.",
+      "scene": "ancient papyrus scrolls and a reed pen on a table",
+      "big_size": 120
+    }
+  ],
+  "cta": {
+    "title": "Quel écart dans le temps vous étonne le plus ?",
+    "text": "Partagez vos comparaisons en commentaire !",
+    "size": 80
+  },
+  "caption": "Cléopâtre a vécu plus près des premiers pas sur la Lune que de la construction de la Grande Pyramide 🏛️\nLe passé de l'Égypte est encore plus ancien qu'on ne l'imagine. Glissez pour les dates 👉\nVous le saviez ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "histoire",
+    "egypte",
+    "cleopatre",
+    "pyramides",
+    "apprendre"
+  ],
+  "tiktok_title": "Cléopâtre est plus proche de nous que des pyramides",
+  "sources": [
+    "https://www.worldatlas.com/articles/so-cleopatra-lived-closer-in-time-to-the-first-lunar-landing-than-the-great-pyramids.html"
+  ]
+}

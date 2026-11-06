@@ -1,0 +1,66 @@
+{
+  "pillar": "lundi",
+  "slug": "2026-11-16-pieuvre",
+  "date": "2026-11-16",
+  "cover": {
+    "title": "Trois cœurs et du sang bleu",
+    "subtitle": "5 choses étonnantes sur la pieuvre",
+    "scene": "a friendly octopus on a coral reef with its eight arms spread"
+  },
+  "slides": [
+    {
+      "big": "3",
+      "title": "Trois cœurs",
+      "p1": "Deux cœurs envoient le sang vers les branchies, où il se charge en oxygène.",
+      "p2": "Le troisième distribue ensuite ce sang oxygéné aux organes et aux muscles.",
+      "scene": "an octopus with three glowing hearts drawn inside its body"
+    },
+    {
+      "big": "Pause",
+      "title": "Un cœur qui s'arrête à la nage",
+      "p1": "Quand la pieuvre nage, son cœur principal cesse de battre.",
+      "p2": "Voilà sans doute pourquoi elle préfère ramper sur le fond plutôt que nager.",
+      "scene": "an octopus crawling on the sandy sea floor"
+    },
+    {
+      "big": "Bleu",
+      "title": "Du sang bleu",
+      "p1": "Son sang transporte l'oxygène grâce à l'hémocyanine, une protéine riche en cuivre.",
+      "p2": "Chez nous, c'est l'hémoglobine, à base de fer, qui fait le travail… et donne le rouge.",
+      "scene": "a drop of blue blood next to a drop of red blood"
+    },
+    {
+      "big": "2/3",
+      "title": "Des neurones dans les bras",
+      "p1": "Environ deux tiers de ses neurones se trouvent dans ses huit bras, pas dans sa tête.",
+      "p2": "Ce système nerveux réparti l'aide à manier ses bras avec une grande habileté.",
+      "scene": "an octopus arm with suckers holding a small shell"
+    },
+    {
+      "big": "Encre",
+      "title": "Reine du camouflage",
+      "p1": "Grâce à des cellules pigmentaires de sa peau, elle change très vite d'apparence.",
+      "p2": "Menacée, elle projette un nuage d'encre sombre pour brouiller ses prédateurs.",
+      "scene": "an octopus escaping behind a dark ink cloud"
+    }
+  ],
+  "cta": {
+    "title": "Quel fait vous a le plus surpris ?",
+    "text": "Dites-le-nous en commentaire !"
+  },
+  "caption": "Trois cœurs, du sang bleu et des neurones dans les bras 🐙\nLa pieuvre est l'un des animaux les plus étonnants de la planète. Glissez pour tout savoir 👉\nQuel fait vous a le plus surpris ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "pieuvre",
+    "animaux",
+    "ocean",
+    "nature",
+    "apprendre"
+  ],
+  "tiktok_title": "Trois cœurs et du sang bleu : la pieuvre est incroyable",
+  "sources": [
+    "https://www.smithsonianmag.com/science-nature/ten-wild-facts-about-octopuses-they-have-three-hearts-big-brains-and-blue-blood-7625828/",
+    "https://www.pbs.org/wnet/nature/group/other-species/octopus/"
+  ]
+}
