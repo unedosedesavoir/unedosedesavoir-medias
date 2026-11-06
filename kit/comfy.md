@@ -60,8 +60,8 @@ out
    `C:\Users\steev\AppData\Local\Comfy-Desktop\ComfyUI-Shared\output\unedosedesavoir\<slug>\`
    sous la forme `<nom>_00001_.png` (dossier déjà autorisé ; sinon `device_request_folder_access`
    sur `...\output\unedosedesavoir`). `device_stage_files` les copie dans
-   `/mnt/user-data/uploads/unedosedesavoir/<slug>/` ; les copier en `images/<slug>/<nom>.png`
-   (le suffixe le plus élevé est la dernière version).
+   `/mnt/user-data/uploads/unedosedesavoir/<slug>/` ; puis `python3 kit/import_images.py <slug>`
+   les range en `images/<slug>/<nom>.png` (dernière version de chaque image, cadre uni retiré).
 7. **Vérifier chaque illustration** (lecture d'image) : le sujet est-il juste et reconnaissable
    (nombre de pattes, forme d'une planète, époque…) ? Pas de texte parasite, pas de visage réaliste ?
    Sinon, corriger la `scene` ou ajouter `"seed": <autre nombre>` dans le bloc, relancer
