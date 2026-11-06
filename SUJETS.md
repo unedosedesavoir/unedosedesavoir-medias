@@ -5,45 +5,45 @@ Chaque fait reste à vérifier sur au moins deux sources avant publication.
 
 ## Lundi · Animaux et nature
 - ~~Le tardigrade, l'animal presque indestructible~~ (programmé le 2026-11-02)
-- 5 choses que vous ignorez sur la pieuvre : trois cœurs, sang bleu, neurones dans les bras
+- ~~5 choses que vous ignorez sur la pieuvre : trois cœurs, sang bleu, neurones dans les bras~~ (programmé le 2026-11-16)
 - Les loutres de mer dorment main dans la main pour ne pas dériver
 - Les éléphants « entendent » avec leurs pieds (vibrations du sol, infrasons)
 - Le bambou, champion de la croissance (près d'un mètre par jour pour certaines espèces)
 
 ## Mardi · Histoire insolite
-- Cléopâtre est plus proche de nous que de la construction de la Grande Pyramide
+- ~~Cléopâtre est plus proche de nous que de la construction de la Grande Pyramide~~ (brouillon le 2026-11-17)
 - ~~La guerre la plus courte de l'histoire (Royaume-Uni contre Zanzibar, 1896)~~ (programmé le 2026-11-03)
 - Napoléon n'était pas petit (environ 1,68 m, dans la moyenne de son époque)
 - Le vol de la Joconde en 1911, qui l'a rendue mondialement célèbre
 
 ## Mercredi · Corps humain
-- Vous êtes plus grand le matin (environ 1 cm)
+- ~~Vous êtes plus grand le matin (environ 1 cm)~~ (brouillon le 2026-11-18)
 - ~~Le cerveau : environ 2 % du poids du corps, près de 20 % de son énergie~~ (programmé le 2026-11-04)
 - Même les vrais jumeaux ont des empreintes digitales différentes
 - Pourquoi a-t-on la chair de poule ?
 
 ## Jeudi · Sciences et espace
 - ~~Sur Vénus, un jour dure plus qu'une année~~ (programmé le 2026-11-05)
-- Le Soleil que vous voyez a environ 8 minutes de retard
+- ~~Le Soleil que vous voyez a environ 8 minutes de retard~~ (programmé le 2026-11-19)
 - Plus d'arbres sur Terre que d'étoiles dans la Voie lactée
 - Pourquoi le ciel est-il bleu ?
 
 ## Vendredi · Origine des mots et expressions
 - ~~D'où vient le mot « robot » ? (Karel Čapek, 1920)~~ (programmé le 2026-11-06)
 - Pourquoi dit-on « être sur son 31 » ? (hypothèses)
-- « Tomber dans les pommes » (déformation probable de « tomber en pâmoison »)
+- ~~« Tomber dans les pommes » (déformation probable de « tomber en pâmoison »)~~ (programmé le 2026-11-20)
 - « Avoir le cafard » (sens popularisé par Baudelaire)
 
 ## Samedi · Le monde
 - ~~La Réunion, record mondial de pluie en 24 heures (cyclone Denise, 1966)~~ (programmé le 2026-11-07)
 - Le Piton de la Fournaise, l'un des volcans les plus actifs du monde
 - Le pays aux 11 fuseaux horaires
-- Le lac Baïkal, environ 20 % de l'eau douce liquide de surface du globe
+- ~~Le lac Baïkal, environ 20 % de l'eau douce liquide de surface du globe~~ (programmé le 2026-11-21)
 - Le Vatican, plus petit pays du monde
 
 ## Dimanche · Vrai ou faux
 - « On n'utilise que 10 % de notre cerveau »
-- « Le poisson rouge a une mémoire de 3 secondes »
+- ~~« Le poisson rouge a une mémoire de 3 secondes »~~ (programmé le 2026-11-22)
 - ~~« La Grande Muraille de Chine se voit depuis l'espace à l'œil nu »~~ (programmé le 2026-11-08)
 - « La foudre ne tombe jamais deux fois au même endroit »
 - « Les chauves-souris sont aveugles »
@@ -62,3 +62,10 @@ gardent leur nom d'origine ; la date de publication est le champ `date`).
 | 2026-11-13 | vendredi | D'où vient le mot « robot » ? | publication automatique (fichiers 2026-11-06-robot) |
 | 2026-11-14 | samedi | La Réunion, record mondial de pluie en 24 h | publication automatique (fichiers 2026-11-07-reunion-pluie) |
 | 2026-11-15 | dimanche | « La Grande Muraille se voit depuis l'espace » (FAUX) | publication automatique (fichiers 2026-11-08-grande-muraille) |
+| 2026-11-16 | lundi | La pieuvre : trois cœurs, sang bleu, neurones dans les bras | publication automatique (sans illustration) |
+| 2026-11-17 | mardi | Cléopâtre plus proche de nous que des pyramides | BROUILLON : une seule source ouverte, à valider |
+| 2026-11-18 | mercredi | Vous êtes plus grand le matin | BROUILLON : une seule source ouverte, à valider |
+| 2026-11-19 | jeudi | Le Soleil que vous voyez a 8 minutes de retard | publication automatique (sans illustration) |
+| 2026-11-20 | vendredi | « Tomber dans les pommes » (hypothèses) | publication automatique (sans illustration) |
+| 2026-11-21 | samedi | Le lac Baïkal, le lac de tous les records | publication automatique (sans illustration) |
+| 2026-11-22 | dimanche | « Le poisson rouge a une mémoire de 3 secondes » (FAUX) | publication automatique (sans illustration) |
