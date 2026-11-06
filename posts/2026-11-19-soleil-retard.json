@@ -33,7 +33,7 @@
       "title": "Un retard qui varie",
       "p1": "L'orbite terrestre est un peu ovale : de 147 à 152 millions de km du Soleil.",
       "p2": "Le trajet de la lumière dure donc de 8 min 10 s à 8 min 27 s selon la période de l'année.",
-      "scene": "the Earth travelling along a slightly oval dotted orbit around the Sun, stars",
+      "scene": "a very large glowing Sun in the center and a much smaller blue Earth travelling on a slightly oval dotted orbit around it, stars",
       "image": "04.png"
     },
     {
@@ -49,7 +49,7 @@
       "title": "Un voyage commencé bien avant",
       "p1": "Avant de quitter le Soleil, la lumière est absorbée et réémise d'innombrables fois.",
       "p2": "Elle met des milliers, voire des dizaines de milliers d'années, à atteindre sa surface.",
-      "scene": "a cutaway view of the Sun showing its glowing layered interior, with a zigzag path of light bouncing from the core to the surface",
+      "scene": "a huge Sun cut in half showing glowing concentric layers inside like an onion, from a bright white core to an orange surface, a thin zigzag line of light going from the core to the surface",
       "big_size": 110,
       "image": "06.png"
     }

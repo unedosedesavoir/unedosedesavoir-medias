@@ -30,8 +30,9 @@
       "title": "Le plus vieux lac du monde",
       "p1": "Il se serait formé il y a environ 20 à 25 millions d'années.",
       "p2": "Il est inscrit au patrimoine mondial de l'UNESCO depuis 1996.",
-      "scene": "a mountain lake with a cross-section of layered ancient rock strata below it, small fossils in the layers",
-      "image": "04.png"
+      "scene": "a mountain lake seen in cross-section, with many layered bands of ancient rock below the water, small fossil shells in the rock layers",
+      "image": "04.png",
+      "seed": 2511
     },
     {
       "big": "330",
