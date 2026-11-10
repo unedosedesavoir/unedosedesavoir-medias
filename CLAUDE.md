@@ -67,6 +67,13 @@ avec `getBestTimeToPostByNetwork` une fois quelques semaines de publications pas
 - `reel` (pour le Reel Instagram) : `{"hook": "question d'accroche (≤ 60 car.)", "beats": [{"slide": 2,
   "big": "2 %", "text": "complément très court (≤ 40 car.)"}, … 3 au total]}`. `slide` = numéro de la
   slide de fait dont on reprend l'illustration (2 = première slide de fait). Une idée par écran.
+  (Ancien format court, gardé en secours ; le Reel actuel est la vidéo narrée `voix` ci-dessous.)
+- `voix` (vidéo narrée du Reel, `kit/motion.py`) : une entrée par phrase,
+  `{"say": "texte lu, nombres écrits en toutes lettres", "sub": "sous-titre avec chiffres (facultatif)",
+  "image": "02.png", "big": "20 %" (facultatif : chiffre animé au-dessus de l'illustration)}`.
+  6 phrases : accroche sur `01-couverture.png`, 4 faits fidèles au carrousel (une illustration chacun),
+  puis `{"say": "Abonnez-vous pour votre dose de savoir quotidienne.", "image": "01-couverture.png"}`.
+  Noms étrangers : écrire la prononciation dans `say` (« Karel Tchapek ») et l'orthographe dans `sub`.
 - Écrire les espaces normalement : le script ajoute les espaces insécables (« », ? ! : %, unités).
 
 ## Procédure hebdomadaire (lundi → dimanche)
@@ -92,11 +99,13 @@ le champ `date` fait foi.
 5. **Générer** : `python3 kit/generate.py posts/<fichier>.json`. Le script doit finir par
    « Contrôle OK ». Sinon, raccourcir le texte ou réduire une taille, puis relancer.
 6. **Regarder** chaque `medias/<slug>/planche.jpg` (lecture d'image) : lisibilité, coupures, cohérence.
-6 bis. **Reel** : écrire dans le post un champ `reel` (accroche + 3 chiffres-chocs, voir le format
-   ci-dessus), puis `python3 kit/reel.py posts/<fichier>.json --apercu` → `medias/<slug>/reel.mp4`
-   (~10 s : question d'accroche, 3 écrans « chiffre géant + illustration », renvoi vers le carrousel ;
-   musique synthétisée par le script). Regarder `reel-apercu.jpg`. Les Reels sont montrés aux
-   non-abonnés : c'est le principal levier de croissance du compte.
+6 bis. **Reel** (format choisi par la personne le 10 novembre 2026 : motion design narré) : écrire
+   le champ `voix` (voir le format ci-dessus), puis `python3 kit/motion.py posts/<fichier>.json`
+   → `medias/<slug>/video.mp4` (~25 s : sujets détourés animés, chiffre animé, voix off, sous-titres
+   mot à mot, musique synthétisée ; ~2 min 30 de rendu par vidéo, lancer la semaine en arrière-plan).
+   Regarder `video-apercu.jpg`. Voix actuelle : Piper « siwis » (CC BY 4.0, à créditer dans la légende) ;
+   la personne prévoit de passer à Google Chirp 3 HD (clé API en secret réseau, jamais dans le dépôt).
+   Les Reels sont montrés aux non-abonnés : c'est le principal levier de croissance du compte.
 7. **Publier les images** : `git add -A && git commit -m "Semaine du …" && git push`.
    Liens bruts à donner à Metricool, avec le hash complet du commit (`git rev-parse HEAD`) plutôt que
    `main`, pour éviter qu'une ancienne version en cache soit téléchargée quand une image est refaite :
@@ -121,9 +130,10 @@ le champ `date` fait foi.
   (déclaration obligatoire dès que le carrousel contient des illustrations générées par IA).
 - TikTok : `providers` `[{"network":"tiktok"}]`, `tiktokData`
   `{"title": tiktok_title, "privacyOption":"PUBLIC_TO_EVERYONE", "autoAddMusic": true, "photoCoverIndex": 0}`.
-- Reel Instagram (une 3e publication par post, à 18:00 tous les jours) : `media` = lien brut de `reel.mp4`,
-  `videoCoverMilliseconds` 500 (l'écran d'accroche sert de couverture), `text` = l'accroche + « La réponse
-  en 10 secondes, et tout le détail dans le carrousel du jour sur le profil. » + hashtags, `instagramData`
+- Reel Instagram (une 3e publication par post, à 18:00 tous les jours) : `media` = lien brut de `video.mp4`,
+  `videoCoverMilliseconds` 500 (l'écran d'accroche sert de couverture), `text` = l'accroche + 1 émoji,
+  puis « Tout le détail dans le carrousel du jour, sur le profil. », puis « Voix : SIWIS (CC BY 4.0) »
+  (crédit obligatoire tant que la voix Piper est utilisée), ligne vide, hashtags ; `instagramData`
   `{"type":"REEL", "showReelOnFeed": false, "isAiGenerated": true}` (le Reel n'encombre pas la grille).
 - `publicationDate` : `{"dateTime":"AAAA-MM-JJTHH:MM:SS","timezone":"Indian/Reunion"}`, `autoPublish` true,
   `draft` false (publication automatique), `descendants` [], `firstCommentText` "", `smartLinkData` {"ids":[]}.
