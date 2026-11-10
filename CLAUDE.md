@@ -99,8 +99,8 @@ le champ `date` fait foi.
    (l'espace de travail ne peut pas ouvrir raw.githubusercontent.com : vérifier plutôt la présence des
    fichiers avec `gh api repos/unedosedesavoir/unedosedesavoir-medias/contents/medias/<slug>`. Metricool
    confirme le téléchargement en renvoyant des liens `static.metricool.com` dans sa réponse.)
-8. **Programmer dans Metricool** (`blogId` 7394064, fuseau `Indian/Reunion`) : pour chaque post, DEUX
-   publications (une Instagram, une TikTok), car les horaires diffèrent. Voir le modèle ci-dessous.
+8. **Programmer dans Metricool** (`blogId` 7394064, fuseau `Indian/Reunion`) : pour chaque post, TROIS
+   publications : le carrousel Instagram, le Reel Instagram (18:00) et le TikTok, car les horaires diffèrent. Voir le modèle ci-dessous.
    Publication automatique : `"draft": false` pour tout post daté du 2026-11-09 ou après.
 9. **Mettre à jour** `SUJETS.md` (historique), committer et pousser.
 10. **Récapituler** pour la personne : un tableau jour / sujet / horaires / lien vers la planche, les
