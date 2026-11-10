@@ -93,7 +93,7 @@ window.setT = (t) => {
     if (D.big.value !== null) {
       const v = D.big.value * k;
       let num = v.toFixed(D.big.dec).replace('.', ',');
-      num = num.replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
+      if (D.big.group) num = num.replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
       txt = D.big.prefix + num + D.big.suffix;
     }
     big.textContent = txt;
@@ -131,6 +131,7 @@ def parse_big(text):
     dec = len(num.split(".")[1]) if "." in num else 0
     suffix = (trailing + m.group(3)).replace(" ", " ")
     return {"text": text.replace(" ", " "), "value": float(num), "dec": dec, "prefix": m.group(1),
+            "group": bool(re.search(r"\d[\s\u202f\u00a0]\d", raw)),  # « 1 825 » groupé, une année (« 2003 ») non
             "suffix": suffix}
 
 
