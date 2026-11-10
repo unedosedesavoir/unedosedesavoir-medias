@@ -89,6 +89,9 @@ le champ `date` fait foi.
 5. **Générer** : `python3 kit/generate.py posts/<fichier>.json`. Le script doit finir par
    « Contrôle OK ». Sinon, raccourcir le texte ou réduire une taille, puis relancer.
 6. **Regarder** chaque `medias/<slug>/planche.jpg` (lecture d'image) : lisibilité, coupures, cohérence.
+6 bis. **Reel** : `python3 kit/reel.py posts/<fichier>.json` → `medias/<slug>/reel.mp4` (vidéo verticale
+   des slides, ~20 s, musique synthétisée par le script). Les Reels sont montrés aux non-abonnés :
+   c'est le principal levier de croissance du compte.
 7. **Publier les images** : `git add -A && git commit -m "Semaine du …" && git push`.
    Liens bruts à donner à Metricool, avec le hash complet du commit (`git rev-parse HEAD`) plutôt que
    `main`, pour éviter qu'une ancienne version en cache soit téléchargée quand une image est refaite :
@@ -113,6 +116,9 @@ le champ `date` fait foi.
   (déclaration obligatoire dès que le carrousel contient des illustrations générées par IA).
 - TikTok : `providers` `[{"network":"tiktok"}]`, `tiktokData`
   `{"title": tiktok_title, "privacyOption":"PUBLIC_TO_EVERYONE", "autoAddMusic": true, "photoCoverIndex": 0}`.
+- Reel Instagram (une 3e publication par post, à 18:00 tous les jours) : `media` = lien brut de `reel.mp4`,
+  `videoThumbnailUrl` = lien brut de `01.jpg`, `instagramData`
+  `{"type":"REEL", "showReelOnFeed": false, "isAiGenerated": true}` (le Reel n'encombre pas la grille).
 - `publicationDate` : `{"dateTime":"AAAA-MM-JJTHH:MM:SS","timezone":"Indian/Reunion"}`, `autoPublish` true,
   `draft` false (publication automatique), `descendants` [], `firstCommentText` "", `smartLinkData` {"ids":[]}.
 
