@@ -272,6 +272,9 @@ def main(spec_path):
     os.remove(tmp)
     pngs = [os.path.join(out, f"{i:02d}.png") for i in range(1, total + 1)]
     subprocess.run(["convert", *pngs, "-resize", "360x450", "+append", os.path.join(out, "planche.jpg")], check=True)
+    # TikTok refuse le PNG pour les carrousels photo : copie JPEG de chaque slide (01.jpg, 02.jpg…).
+    for png in pngs:
+        subprocess.run(["convert", png, "-quality", "92", png[:-4] + ".jpg"], check=True)
     with open(os.path.join(out, "post.json"), "w", encoding="utf-8") as f:
         json.dump(spec, f, ensure_ascii=False, indent=2)
     print(f"{total} images → medias/{spec['slug']}/")

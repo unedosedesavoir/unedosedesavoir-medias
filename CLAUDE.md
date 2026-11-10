@@ -106,7 +106,8 @@ le champ `date` fait foi.
 
 ## Modèle Metricool (`createScheduledPost`)
 
-- `media` : les liens bruts des images, dans l'ordre (01.png, 02.png, …).
+- `media` : les liens bruts des images, dans l'ordre. Instagram : `01.png`, `02.png`… ; **TikTok : `01.jpg`,
+  `02.jpg`…** (TikTok refuse le PNG pour les carrousels photo ; `generate.py` produit les deux formats).
 - `text` : `caption` + ligne vide + les hashtags préfixés de `#`.
 - Instagram : `providers` `[{"network":"instagram"}]`, `instagramData` `{"type":"POST", "isAiGenerated": true}`
   (déclaration obligatoire dès que le carrousel contient des illustrations générées par IA).
