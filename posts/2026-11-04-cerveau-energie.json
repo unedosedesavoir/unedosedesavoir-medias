@@ -90,22 +90,26 @@
     {
       "say": "Il ne pèse qu'environ deux pour cent de votre poids.",
       "sub": "Il ne pèse qu'environ 2 % de votre poids.",
-      "image": "02.png"
+      "image": "02.png",
+      "big": "2 %"
     },
     {
       "say": "Pourtant, même au repos, il dévore près de vingt pour cent de votre énergie.",
       "sub": "Pourtant, même au repos, il dévore près de 20 % de votre énergie.",
-      "image": "03.png"
+      "image": "03.png",
+      "big": "20 %"
     },
     {
       "say": "C'est comme une petite ampoule de vingt watts, allumée jour et nuit.",
       "sub": "Comme une petite ampoule de 20 watts, allumée jour et nuit.",
-      "image": "04.png"
+      "image": "04.png",
+      "big": "20 W"
     },
     {
       "say": "Et chez un enfant de cinq ans, c'est encore plus : plus de soixante-cinq pour cent !",
       "sub": "Et chez un enfant de 5 ans : plus de 65 % !",
-      "image": "05.png"
+      "image": "05.png",
+      "big": "65 %"
     },
     {
       "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
