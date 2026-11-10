@@ -70,5 +70,25 @@
     "https://www.nasa.gov/wp-content/uploads/static/history/PDFs/great_wall_less_great_from_space.pdf",
     "https://www.skyatnightmagazine.com/space-science/can-you-see-great-wall-china-from-space",
     "https://www.spacecentre.nz/resources/faq/solar-system/earth/great-wall-china.html"
-  ]
+  ],
+  "reel": {
+    "hook": "La Grande Muraille se voit depuis l'espace ?",
+    "beats": [
+      {
+        "slide": 2,
+        "big": "FAUX",
+        "text": "pas à l'œil nu, depuis l'orbite"
+      },
+      {
+        "slide": 3,
+        "big": "2003",
+        "text": "même un astronaute chinois l'avoue"
+      },
+      {
+        "slide": 4,
+        "big": "Camouflée",
+        "text": "elle se fond dans le paysage"
+      }
+    ]
+  }
 }

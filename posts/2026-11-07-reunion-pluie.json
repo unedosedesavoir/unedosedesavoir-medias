@@ -60,5 +60,25 @@
   "sources": [
     "https://guinnessworldrecords.com/world-records/greatest-rainfall-24-hours",
     "https://www.futura-sciences.com/planete/actualites/meteorologie-jour-departement-francais-battu-record-mondial-pluie-115268/"
-  ]
+  ],
+  "reel": {
+    "hook": "Le record du monde de pluie est… à La Réunion",
+    "beats": [
+      {
+        "slide": 2,
+        "big": "1 825 mm",
+        "text": "en 24 heures, en janvier 1966"
+      },
+      {
+        "slide": 3,
+        "big": "Denise",
+        "text": "un cyclone tropical"
+      },
+      {
+        "slide": 4,
+        "big": "4 mois",
+        "text": "de pluie tombés en une seule journée"
+      }
+    ]
+  }
 }

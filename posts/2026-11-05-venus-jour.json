@@ -69,5 +69,25 @@
   "sources": [
     "https://spaceplace.nasa.gov/all-about-venus/",
     "https://www.snopes.com/fact-check/one-day-on-venus-is-longer-than-a-year-on-venus/"
-  ]
+  ],
+  "reel": {
+    "hook": "Sur Vénus, un jour dure plus qu'une année ?",
+    "beats": [
+      {
+        "slide": 2,
+        "big": "225 j",
+        "text": "pour faire le tour du Soleil"
+      },
+      {
+        "slide": 3,
+        "big": "243 j",
+        "text": "pour tourner sur elle-même"
+      },
+      {
+        "slide": 4,
+        "big": "Ouest",
+        "text": "le Soleil s'y lève à l'ouest"
+      }
+    ]
+  }
 }

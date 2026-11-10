@@ -60,5 +60,25 @@
   "sources": [
     "https://www.sciencefocus.com/future-technology/where-does-the-word-robot-come-from",
     "https://mzv.gov.cz/pristina/en/bilateral_and_multilateral_relations/x100_year_ago_robot_was_born.html"
-  ]
+  ],
+  "reel": {
+    "hook": "D'où vient le mot « robot » ?",
+    "beats": [
+      {
+        "slide": 2,
+        "big": "1920",
+        "text": "une pièce de théâtre tchèque"
+      },
+      {
+        "slide": 3,
+        "big": "Robota",
+        "text": "« la corvée », en tchèque"
+      },
+      {
+        "slide": 4,
+        "big": "Josef",
+        "text": "l'idée viendrait du frère de l'auteur"
+      }
+    ]
+  }
 }

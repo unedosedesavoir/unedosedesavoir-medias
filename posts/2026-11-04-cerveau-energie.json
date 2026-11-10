@@ -61,5 +61,25 @@
     "https://www.college-de-france.fr/fr/agenda/cours/traits-de-vie-et-contraintes-energetiques-au-cours-de-evolution-humaine/grandir-avec-un-grand-cerveau",
     "https://www.alimentarium.org/fr/savoir/bien-nourrir-son-cerveau",
     "https://hypertextbook.com/facts/2001/JacquelineLing.shtml"
-  ]
+  ],
+  "reel": {
+    "hook": "Votre cerveau consomme combien de votre énergie ?",
+    "beats": [
+      {
+        "slide": 2,
+        "big": "2 %",
+        "text": "de votre poids…"
+      },
+      {
+        "slide": 3,
+        "big": "20 %",
+        "text": "de votre énergie, même au repos"
+      },
+      {
+        "slide": 5,
+        "big": "65 %",
+        "text": "et même plus chez un enfant de 5 ans"
+      }
+    ]
+  }
 }

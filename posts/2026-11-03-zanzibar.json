@@ -68,5 +68,25 @@
   "sources": [
     "https://en.wikipedia.org/wiki/Anglo-Zanzibar_War",
     "https://www.historytoday.com/archive/months-past/anglo-zanzibar-war"
-  ]
+  ],
+  "reel": {
+    "hook": "Quelle est la guerre la plus courte de l'histoire ?",
+    "beats": [
+      {
+        "slide": 2,
+        "big": "1896",
+        "text": "le Royaume-Uni contre Zanzibar"
+      },
+      {
+        "slide": 3,
+        "big": "9 h 02",
+        "text": "les navires britanniques ouvrent le feu"
+      },
+      {
+        "slide": 4,
+        "big": "38 min",
+        "text": "à 45 min plus tard, c'est fini"
+      }
+    ]
+  }
 }
