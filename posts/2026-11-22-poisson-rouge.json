@@ -71,5 +71,33 @@
     "https://www.thenakedscientists.com/node/174167",
     "https://www.scienceabc.com/nature/animals/do-goldfish-really-have-a-3-second-memory.html",
     "https://www.practicalfishkeeping.co.uk/features/articles/do-fish-have-a-three-second-memory"
+  ],
+  "voix": [
+    {
+      "say": "Le poisson rouge a une mémoire de trois secondes. Vrai ou faux ?",
+      "sub": "Le poisson rouge a une mémoire de 3 secondes. Vrai ou faux ?",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Faux ! Il peut garder des souvenirs pendant des mois.",
+      "image": "02.png",
+      "big": "FAUX"
+    },
+    {
+      "say": "Des poissons rouges ont même appris l'heure de leur repas.",
+      "image": "03.png"
+    },
+    {
+      "say": "Ils reconnaissent des couleurs, des sons, et même des morceaux de musique.",
+      "image": "04.png"
+    },
+    {
+      "say": "Alors, ne sous-estimez plus jamais votre poisson rouge !",
+      "image": "05.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
   ]
 }

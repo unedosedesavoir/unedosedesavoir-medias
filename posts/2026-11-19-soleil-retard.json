@@ -72,5 +72,37 @@
   "sources": [
     "https://www.skyatnightmagazine.com/space-science/how-take-light-from-sun-reach-earth",
     "https://www.universetoday.com/articles/how-long-does-it-take-sunlight-to-reach-the-earth"
+  ],
+  "voix": [
+    {
+      "say": "Le Soleil que vous voyez a plus de huit minutes de retard.",
+      "sub": "Le Soleil que vous voyez a plus de 8 minutes de retard.",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Sa lumière met en moyenne huit minutes et vingt secondes à nous parvenir.",
+      "sub": "Sa lumière met en moyenne 8 min 20 s à nous parvenir.",
+      "image": "02.png",
+      "big": "8 min 20"
+    },
+    {
+      "say": "Car il se trouve à environ cent cinquante millions de kilomètres.",
+      "sub": "Car il se trouve à environ 150 millions de kilomètres.",
+      "image": "03.png",
+      "big": "150 M km"
+    },
+    {
+      "say": "La lumière de la Lune, elle, n'a qu'environ une seconde de retard.",
+      "image": "05.png",
+      "big": "1 s"
+    },
+    {
+      "say": "Et avant de quitter le Soleil, cette lumière a erré des milliers d'années dans son cœur !",
+      "image": "06.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
   ]
 }

@@ -61,5 +61,36 @@
   "sources": [
     "https://www.expressio.fr/expressions/tomber-dans-les-pommes",
     "https://www.thelocal.fr/20200522/french-expression-of-the-day-tomber-dans-les-pommes"
+  ],
+  "voix": [
+    {
+      "say": "Pourquoi dit-on tomber dans les pommes ?",
+      "sub": "Pourquoi dit-on « tomber dans les pommes » ?",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "L'expression apparaît au dix-neuvième siècle, mais son origine reste un mystère.",
+      "sub": "L'expression apparaît au XIXe siècle, mais son origine reste un mystère.",
+      "image": "02.png",
+      "big": "1889"
+    },
+    {
+      "say": "Première piste : se pâmer, qui aurait glissé vers pommes.",
+      "sub": "Première piste : « se pâmer », qui aurait glissé vers « pommes ».",
+      "image": "03.png"
+    },
+    {
+      "say": "Deuxième piste : George Sand, qui se disait dans les pommes cuites, c'est-à-dire épuisée.",
+      "sub": "Deuxième piste : George Sand, qui se disait « dans les pommes cuites », c'est-à-dire épuisée.",
+      "image": "04.png"
+    },
+    {
+      "say": "Pour certains spécialistes, c'est l'explication la plus probable.",
+      "image": "05.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
   ]
 }

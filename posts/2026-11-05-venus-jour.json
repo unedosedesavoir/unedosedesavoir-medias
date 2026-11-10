@@ -89,5 +89,36 @@
         "text": "le Soleil s'y lève à l'ouest"
       }
     ]
-  }
+  },
+  "voix": [
+    {
+      "say": "Sur Vénus, un jour dure plus longtemps qu'une année. Vraiment ?",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Vénus fait le tour du Soleil en environ deux cent vingt-cinq jours.",
+      "sub": "Vénus fait le tour du Soleil en environ 225 jours.",
+      "image": "02.png",
+      "big": "225 j"
+    },
+    {
+      "say": "Mais il lui faut environ deux cent quarante-trois jours pour tourner une seule fois sur elle-même.",
+      "sub": "Mais il lui faut environ 243 jours pour tourner une seule fois sur elle-même.",
+      "image": "03.png",
+      "big": "243 j"
+    },
+    {
+      "say": "Et elle tourne à l'envers : là-bas, le Soleil se lève à l'ouest !",
+      "image": "04.png",
+      "big": "Ouest"
+    },
+    {
+      "say": "Avec une chaleur à faire fondre le plomb, pas idéal pour en profiter.",
+      "image": "06.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
 }

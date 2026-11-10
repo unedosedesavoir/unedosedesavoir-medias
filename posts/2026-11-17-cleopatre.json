@@ -72,5 +72,38 @@
   "tiktok_title": "Cléopâtre est plus proche de nous que des pyramides",
   "sources": [
     "https://www.worldatlas.com/articles/so-cleopatra-lived-closer-in-time-to-the-first-lunar-landing-than-the-great-pyramids.html"
+  ],
+  "voix": [
+    {
+      "say": "Cléopâtre a vécu plus près de nous que de la construction des pyramides !",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "La Grande Pyramide est achevée vers deux mille cinq cent soixante avant Jésus-Christ.",
+      "sub": "La Grande Pyramide est achevée vers 2560 av. J.-C.",
+      "image": "02.png",
+      "big": "v. 2560"
+    },
+    {
+      "say": "Quand Cléopâtre meurt, en trente avant Jésus-Christ, elle a déjà plus de deux mille cinq cents ans.",
+      "sub": "Quand Cléopâtre meurt, en 30 av. J.-C., elle a déjà plus de 2 500 ans.",
+      "image": "03.png",
+      "big": "2 500 ans"
+    },
+    {
+      "say": "Entre Cléopâtre et les premiers pas sur la Lune, il s'écoule environ deux mille ans seulement.",
+      "sub": "Entre Cléopâtre et les premiers pas sur la Lune : environ 2 000 ans seulement.",
+      "image": "04.png",
+      "big": "1969"
+    },
+    {
+      "say": "Et selon les récits, elle parlait jusqu'à neuf langues !",
+      "sub": "Et selon les récits, elle parlait jusqu'à 9 langues !",
+      "image": "06.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
   ]
 }

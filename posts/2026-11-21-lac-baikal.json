@@ -70,5 +70,38 @@
     "https://www.britannica.com/place/Lake-Baikal",
     "https://whc.unesco.org/en/list/754",
     "https://wonderopolis.org/wonder/where-is-lake-baikal"
+  ],
+  "voix": [
+    {
+      "say": "Le lac Baïkal, le lac de tous les records !",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Il contient environ vingt pour cent de l'eau douce liquide de la planète.",
+      "sub": "Il contient environ 20 % de l'eau douce liquide de la planète.",
+      "image": "02.png",
+      "big": "20 %"
+    },
+    {
+      "say": "C'est le lac le plus profond du monde : plus de mille six cents mètres.",
+      "sub": "C'est le lac le plus profond du monde : plus de 1 600 m.",
+      "image": "03.png",
+      "big": "1 600 m"
+    },
+    {
+      "say": "Et le plus vieux : il se serait formé il y a vingt à vingt-cinq millions d'années.",
+      "sub": "Et le plus vieux : il se serait formé il y a 20 à 25 millions d'années.",
+      "image": "04.png",
+      "big": "25 M"
+    },
+    {
+      "say": "On y trouve même un phoque d'eau douce : le nerpa.",
+      "image": "06.png",
+      "big": "Nerpa"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
   ]
 }

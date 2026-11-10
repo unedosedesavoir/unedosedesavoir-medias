@@ -59,5 +59,35 @@
   "tiktok_title": "Pourquoi vous êtes plus grand le matin que le soir",
   "sources": [
     "https://kiwix.lema.org/skeptics.stackexchange.com_en_all_2023-11/questions/9139/are-people-taller-in-the-morning-than-at-night"
+  ],
+  "voix": [
+    {
+      "say": "Le saviez-vous ? Vous êtes plus grand le matin que le soir.",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "La différence peut atteindre deux centimètres et demi.",
+      "sub": "La différence peut atteindre 2,5 cm.",
+      "image": "02.png",
+      "big": "2,5 cm"
+    },
+    {
+      "say": "Dans la journée, la pesanteur tasse votre colonne vertébrale.",
+      "image": "03.png"
+    },
+    {
+      "say": "La nuit, allongé, votre dos se détend, et vous regrandissez.",
+      "image": "04.png"
+    },
+    {
+      "say": "Dans l'espace, les astronautes peuvent même gagner jusqu'à cinq centimètres !",
+      "sub": "Dans l'espace, les astronautes peuvent même gagner jusqu'à 5 cm !",
+      "image": "05.png",
+      "big": "5 cm"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
   ]
 }

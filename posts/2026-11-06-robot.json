@@ -80,5 +80,37 @@
         "text": "l'idée viendrait du frère de l'auteur"
       }
     ]
-  }
+  },
+  "voix": [
+    {
+      "say": "D'où vient le mot robot ?",
+      "sub": "D'où vient le mot « robot » ?",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Il apparaît en mille neuf cent vingt, dans une pièce de théâtre de l'écrivain tchèque Karel Tchapek.",
+      "sub": "Il apparaît en 1920, dans une pièce de théâtre de l'écrivain tchèque Karel Čapek.",
+      "image": "02.png",
+      "big": "1920"
+    },
+    {
+      "say": "Il vient du tchèque robota : la corvée, le travail forcé des paysans.",
+      "sub": "Il vient du tchèque « robota » : la corvée, le travail forcé des paysans.",
+      "image": "03.png",
+      "big": "Robota"
+    },
+    {
+      "say": "Et c'est son frère Josef, peintre, qui lui aurait soufflé le mot.",
+      "image": "04.png",
+      "big": "Josef"
+    },
+    {
+      "say": "L'un des très rares mots tchèques adoptés par le monde entier !",
+      "image": "05.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
 }

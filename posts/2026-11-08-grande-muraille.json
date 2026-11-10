@@ -90,5 +90,34 @@
         "text": "elle se fond dans le paysage"
       }
     ]
-  }
+  },
+  "voix": [
+    {
+      "say": "La Grande Muraille de Chine se voit depuis l'espace. Vrai ou faux ?",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Faux ! Depuis l'orbite, elle n'est pratiquement pas visible à l'œil nu.",
+      "image": "02.png",
+      "big": "FAUX"
+    },
+    {
+      "say": "En deux mille trois, le premier astronaute chinois l'a lui-même reconnu : il ne l'a pas vue.",
+      "sub": "En 2003, le premier astronaute chinois l'a lui-même reconnu : il ne l'a pas vue.",
+      "image": "03.png",
+      "big": "2003"
+    },
+    {
+      "say": "Très longue mais étroite, elle se confond avec le terrain.",
+      "image": "04.png"
+    },
+    {
+      "say": "Il a fallu un puissant téléobjectif pour la photographier depuis la Station spatiale.",
+      "image": "05.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
 }

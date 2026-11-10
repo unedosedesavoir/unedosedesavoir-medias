@@ -68,5 +68,36 @@
   "sources": [
     "https://www.smithsonianmag.com/science-nature/ten-wild-facts-about-octopuses-they-have-three-hearts-big-brains-and-blue-blood-7625828/",
     "https://www.pbs.org/wnet/nature/group/other-species/octopus/"
+  ],
+  "voix": [
+    {
+      "say": "Trois cœurs, du sang bleu, et des neurones dans les bras ? Voici la pieuvre.",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Elle a trois cœurs : deux pour les branchies, un pour le reste du corps.",
+      "image": "02.png",
+      "big": "3"
+    },
+    {
+      "say": "Son sang est bleu, grâce à une protéine riche en cuivre.",
+      "image": "04.png",
+      "big": "Bleu"
+    },
+    {
+      "say": "Et environ deux tiers de ses neurones se trouvent dans ses huit bras.",
+      "sub": "Et environ 2/3 de ses neurones se trouvent dans ses huit bras.",
+      "image": "05.png",
+      "big": "2/3"
+    },
+    {
+      "say": "Menacée, elle disparaît derrière un nuage d'encre.",
+      "image": "06.png",
+      "big": "Encre"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
   ]
 }

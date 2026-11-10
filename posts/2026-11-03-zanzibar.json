@@ -88,5 +88,37 @@
         "text": "à 45 min plus tard, c'est fini"
       }
     ]
-  }
+  },
+  "voix": [
+    {
+      "say": "Quelle est la guerre la plus courte de l'histoire ?",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "En mille huit cent quatre-vingt-seize, le sultan de Zanzibar meurt, et son neveu s'empare du palais.",
+      "sub": "En 1896, le sultan de Zanzibar meurt, et son neveu s'empare du palais.",
+      "image": "02.png",
+      "big": "1896"
+    },
+    {
+      "say": "Les Britanniques lui donnent jusqu'à neuf heures pour partir. Il refuse.",
+      "sub": "Les Britanniques lui donnent jusqu'à 9 h pour partir. Il refuse.",
+      "image": "03.png",
+      "big": "9 h"
+    },
+    {
+      "say": "Leurs navires ouvrent le feu, et en moins de quarante-cinq minutes, tout est fini.",
+      "sub": "Leurs navires ouvrent le feu, et en moins de 45 minutes, tout est fini.",
+      "image": "04.png",
+      "big": "< 45 min"
+    },
+    {
+      "say": "Et ses partisans doivent même payer les obus tirés contre eux !",
+      "image": "06.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
 }

@@ -80,5 +80,37 @@
         "text": "de pluie tombés en une seule journée"
       }
     ]
-  }
+  },
+  "voix": [
+    {
+      "say": "Le record du monde de pluie en vingt-quatre heures est réunionnais !",
+      "sub": "Le record du monde de pluie en 24 heures est réunionnais !",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "En janvier mille neuf cent soixante-six, il tombe mille huit cent vingt-cinq millimètres de pluie en une journée, à Foc-Foc.",
+      "sub": "En janvier 1966, il tombe 1 825 mm de pluie en une journée, à Foc-Foc.",
+      "image": "02.png",
+      "big": "1 825 mm"
+    },
+    {
+      "say": "La faute au cyclone tropical Denise.",
+      "image": "03.png",
+      "big": "Denise"
+    },
+    {
+      "say": "C'est environ quatre mois de pluie, tombés en un seul jour.",
+      "sub": "C'est environ 4 mois de pluie, tombés en un seul jour.",
+      "image": "04.png",
+      "big": "4 mois"
+    },
+    {
+      "say": "Un record homologué, et jamais battu depuis.",
+      "image": "05.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
 }
