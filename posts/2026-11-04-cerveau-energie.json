@@ -81,5 +81,35 @@
         "text": "et même plus chez un enfant de 5 ans"
       }
     ]
-  }
+  },
+  "voix": [
+    {
+      "say": "Votre cerveau consomme combien de votre énergie ?",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Il ne pèse qu'environ deux pour cent de votre poids.",
+      "sub": "Il ne pèse qu'environ 2 % de votre poids.",
+      "image": "02.png"
+    },
+    {
+      "say": "Pourtant, même au repos, il dévore près de vingt pour cent de votre énergie.",
+      "sub": "Pourtant, même au repos, il dévore près de 20 % de votre énergie.",
+      "image": "03.png"
+    },
+    {
+      "say": "C'est comme une petite ampoule de vingt watts, allumée jour et nuit.",
+      "sub": "Comme une petite ampoule de 20 watts, allumée jour et nuit.",
+      "image": "04.png"
+    },
+    {
+      "say": "Et chez un enfant de cinq ans, c'est encore plus : plus de soixante-cinq pour cent !",
+      "sub": "Et chez un enfant de 5 ans : plus de 65 % !",
+      "image": "05.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
 }
