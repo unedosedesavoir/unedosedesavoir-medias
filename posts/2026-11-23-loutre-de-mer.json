@@ -14,8 +14,9 @@
       "title": "La fourrure la plus dense du monde",
       "p1": "Jusqu'à environ 150 000 poils par centimètre carré.",
       "p2": "Sans épaisse couche de graisse, c'est elle qui la garde au chaud.",
-      "scene": "close view of a sea otter with very thick fluffy brown fur, tiny water droplets beading on the fur, blue water",
-      "image": "02.png"
+      "scene": "a sea otter floating on its back in blue water, round furry head with whiskers, very thick fluffy brown fur with tiny water droplets, small front paws on its chest",
+      "image": "02.png",
+      "seed": 7301
     },
     {
       "big": "1/4",
@@ -38,8 +39,9 @@
       "title": "Elle dort en groupe",
       "p1": "Les loutres se reposent en groupes appelés « radeaux ».",
       "p2": "Pour ne pas dériver, elles s'enroulent dans les algues… ou se tiennent par la patte.",
-      "scene": "two sea otters sleeping on their backs side by side holding paws in calm water, wrapped in strands of green kelp",
-      "image": "05.png"
+      "scene": "two sea otters floating on their backs side by side in calm blue water, bellies up, holding each other's front paws, strands of green kelp draped across them",
+      "image": "05.png",
+      "seed": 7305
     }
   ],
   "cta": {
