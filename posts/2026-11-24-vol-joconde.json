@@ -5,8 +5,9 @@
   "cover": {
     "title": "Le vol qui a rendu la Joconde célèbre",
     "subtitle": "Paris, août 1911 : le tableau disparaît",
-    "scene": "an empty wall in a grand old museum gallery with four small metal hooks and a lighter rectangle where a painting used to hang, golden frames of other paintings around",
-    "image": "01-couverture.png"
+    "scene": "a large ornate empty golden picture frame on a museum wall, a small thief silhouette in a flat cap tiptoeing away carrying a wrapped flat rectangular package",
+    "image": "01-couverture.png",
+    "seed": 2411
   },
   "slides": [
     {

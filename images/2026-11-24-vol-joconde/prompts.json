@@ -3,10 +3,10 @@
   "jobs": [
     {
       "file": "01-couverture.png",
-      "prompt": "Flat vector editorial illustration of an empty wall in a grand old museum gallery with four small metal hooks and a lighter rectangle where a painting used to hang, golden frames of other paintings around. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "prompt": "Flat vector editorial illustration of a large ornate empty golden picture frame on a museum wall, a small thief silhouette in a flat cap tiptoeing away carrying a wrapped flat rectangular package. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
       "width": 1088,
       "height": 880,
-      "seed": 337486472
+      "seed": 2411
     },
     {
       "file": "02.png",
