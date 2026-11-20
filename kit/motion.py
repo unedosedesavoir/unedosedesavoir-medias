@@ -193,6 +193,7 @@ def main(spec_path):
     exe, model = (None, None) if use_cb else V.ensure_piper()
     print("Voix :", "Chatterbox (images/%s/voix)" % slug if use_cb else "Piper siwis (crédit CC BY 4.0 à mettre)")
     out_dir = os.path.join(ROOT, "medias", slug)
+    os.makedirs(out_dir, exist_ok=True)  # plus de carrousel (generate.py) pour le créer
     with tempfile.TemporaryDirectory() as tmp:
         durs, wavs = [], []
         for i, ln in enumerate(lines):
