@@ -53,6 +53,14 @@ def cutout(src, dst):
     m = (m - m.min()) / (m.max() - m.min() + 1e-8)
     m = np.clip((m - 0.15) / 0.7, 0, 1)  # bords plus nets
     alpha = Image.fromarray((m * 255).astype(np.uint8)).resize(im.size, Image.BICUBIC)
+    a = np.asarray(alpha)
+    if (a > 200).sum() < 0.35 * max(1, (a > 20).sum()):
+        # Scène sans sujet net (coucher de soleil, ville la nuit) : le détourage ne garde qu'un voile
+        # flou. On montre alors l'illustration entière, en carte aux coins arrondis.
+        from PIL import ImageDraw
+        alpha = Image.new("L", im.size, 0)
+        ImageDraw.Draw(alpha).rounded_rectangle((0, 0, im.size[0] - 1, im.size[1] - 1),
+                                                radius=int(min(im.size) * 0.08), fill=255)
     out = im.convert("RGBA")
     out.putalpha(alpha)
     out = out.crop(out.getbbox() or (0, 0, *im.size))
