@@ -38,8 +38,9 @@
       "title": "Sur Mars, c'est l'inverse !",
       "p1": "Le ciel martien est plutôt jaune-orangé pendant la journée.",
       "p2": "Et ses couchers de soleil sont… bleutés.",
-      "scene": "a sunset on the red rocky desert of Mars, a small pale sun near the horizon surrounded by a blue glow, butterscotch yellow sky above",
-      "image": "05.png"
+      "scene": "a sunset on the red rocky desert of Mars, a small pale white sun low on the horizon surrounded by a large bright blue halo glow, dusty butterscotch sky above",
+      "image": "05.png",
+      "seed": 2605
     }
   ],
   "cta": {
