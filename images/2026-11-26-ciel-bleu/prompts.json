@@ -1,0 +1,40 @@
+{
+  "slug": "2026-11-26-ciel-bleu",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a bright blue sky over rolling green hills with a big shining sun, thin rays of rainbow colored light entering the sky. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 656246523
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a glass prism splitting a white beam of sunlight into a rainbow spectrum on a dark background. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 296046100
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of sunlight rays hitting tiny air molecules high in the atmosphere, blue light bouncing off in all directions, earth curve below. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 10632834
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a stylized eye looking up at a sky gradient going from violet at the top to blue, flat shapes. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 756418849
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a sunset on the red rocky desert of Mars, a small pale sun near the horizon surrounded by a blue glow, butterscotch yellow sky above. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 511078327
+    }
+  ]
+}

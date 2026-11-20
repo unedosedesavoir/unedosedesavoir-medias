@@ -1,0 +1,40 @@
+{
+  "slug": "2026-11-28-piton-fournaise",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a large gently sloping volcano on a tropical island with a glowing orange lava fissure on its flank, green vegetation at its base, blue ocean behind. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 918771647
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a broad gently sloping shield volcano on an island seen from the side, ocean all around, a few clouds. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 356173148
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a volcano at night with a curtain of glowing lava fountains along a fissure, starry sky. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 648227786
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a river of glowing orange lava flowing down a green slope into the blue ocean, white steam clouds rising. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 233715817
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of steep green volcanic cliffs and deep cirques of a tropical island with thin waterfalls, under a blue sky. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 338214143
+    }
+  ]
+}

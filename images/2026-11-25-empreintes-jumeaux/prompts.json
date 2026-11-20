@@ -1,0 +1,40 @@
+{
+  "slug": "2026-11-25-empreintes-jumeaux",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of two small child hands side by side palms facing the viewer, each fingertip showing a different swirling fingerprint pattern, soft pastel background. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 275507805
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a single round cell dividing into two identical round cells, soft glowing pastel colors. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 855921641
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a tiny curled baby silhouette inside a round womb shape with a small hand raised, fingertips softly glowing, no facial details. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 711883135
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of two tiny baby silhouettes in different positions inside a round womb shape, connected by umbilical cords of different lengths, no facial details. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 129988828
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a large magnifying glass hovering over two fingerprints side by side with clearly different swirl patterns. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 878539338
+    }
+  ]
+}

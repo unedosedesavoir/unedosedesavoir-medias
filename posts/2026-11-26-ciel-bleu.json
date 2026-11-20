@@ -1,0 +1,93 @@
+{
+  "pillar": "jeudi",
+  "slug": "2026-11-26-ciel-bleu",
+  "date": "2026-11-26",
+  "cover": {
+    "title": "Pourquoi le ciel est-il bleu ?",
+    "subtitle": "Et pourquoi pas violet ?",
+    "scene": "a bright blue sky over rolling green hills with a big shining sun, thin rays of rainbow colored light entering the sky",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "Blanche",
+      "title": "Une lumière pleine de couleurs",
+      "p1": "La lumière du Soleil paraît blanche, mais elle mélange toutes les couleurs de l'arc-en-ciel.",
+      "p2": "Un prisme permet de les séparer.",
+      "scene": "a glass prism splitting a white beam of sunlight into a rainbow spectrum on a dark background",
+      "image": "02.png"
+    },
+    {
+      "big": "Bleu",
+      "title": "L'air disperse surtout le bleu",
+      "p1": "Les molécules de l'air dévient bien plus la lumière bleue, aux ondes courtes.",
+      "p2": "Ce bleu dispersé nous arrive de toutes les directions.",
+      "scene": "sunlight rays hitting tiny air molecules high in the atmosphere, blue light bouncing off in all directions, earth curve below",
+      "image": "03.png"
+    },
+    {
+      "big": "Violet",
+      "title": "Et pourquoi pas violet ?",
+      "p1": "Le violet est encore plus dispersé, mais nos yeux y sont moins sensibles.",
+      "p2": "Et le Soleil en envoie moins que de bleu.",
+      "scene": "a stylized eye looking up at a sky gradient going from violet at the top to blue, flat shapes",
+      "image": "04.png"
+    },
+    {
+      "big": "Mars",
+      "title": "Sur Mars, c'est l'inverse !",
+      "p1": "Le ciel martien est plutôt jaune-orangé pendant la journée.",
+      "p2": "Et ses couchers de soleil sont… bleutés.",
+      "scene": "a sunset on the red rocky desert of Mars, a small pale sun near the horizon surrounded by a blue glow, butterscotch yellow sky above",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Une autre question de science ?",
+    "text": "Posez-la en commentaire !"
+  },
+  "caption": "Pourquoi le ciel est-il bleu, et pas violet ? 🌤️\nTout s'explique par la lumière du Soleil… et par nos yeux.\nVous le saviez ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "science",
+    "ciel",
+    "physique",
+    "espace",
+    "apprendre"
+  ],
+  "tiktok_title": "Pourquoi le ciel est-il bleu ?",
+  "sources": [
+    "https://spaceplace.nasa.gov/blue-sky/",
+    "https://www.rmg.co.uk/stories/space-astronomy/why-sky-blue"
+  ],
+  "voix": [
+    {
+      "say": "Pourquoi le ciel est-il bleu ? La réponse est cachée dans la lumière du Soleil.",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Elle paraît blanche, mais elle mélange toutes les couleurs de l'arc-en-ciel.",
+      "image": "02.png"
+    },
+    {
+      "say": "En traversant l'air, la lumière bleue, aux ondes plus courtes, est bien plus dispersée que le rouge.",
+      "image": "03.png",
+      "big": "Bleu"
+    },
+    {
+      "say": "Le violet l'est encore plus, mais nos yeux y sont moins sensibles.",
+      "image": "04.png",
+      "big": "Violet"
+    },
+    {
+      "say": "Et sur Mars, c'est l'inverse : les couchers de soleil y sont bleutés !",
+      "image": "05.png",
+      "big": "Mars"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

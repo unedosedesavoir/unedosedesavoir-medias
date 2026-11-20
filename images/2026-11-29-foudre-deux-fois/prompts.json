@@ -1,0 +1,40 @@
+{
+  "slug": "2026-11-29-foudre-deux-fois",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a tall skyscraper silhouette struck by a bright lightning bolt at night over a city skyline, dark purple storm clouds. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 713234374
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a lone tall tree on a hill being hit by a lightning bolt under dark storm clouds. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 959454135
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a tall art deco skyscraper silhouette with several lightning bolts striking its spire at night. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 600945953
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a metal lightning rod on top of a house roof catching a lightning bolt and guiding it safely to the ground. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 90430594
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a bright jagged lightning bolt next to a small glowing sun for comparison, dark sky. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 919216660
+    }
+  ]
+}

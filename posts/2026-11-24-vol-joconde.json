@@ -1,0 +1,96 @@
+{
+  "pillar": "mardi",
+  "slug": "2026-11-24-vol-joconde",
+  "date": "2026-11-24",
+  "cover": {
+    "title": "Le vol qui a rendu la Joconde célèbre",
+    "subtitle": "Paris, août 1911 : le tableau disparaît",
+    "scene": "an empty wall in a grand old museum gallery with four small metal hooks and a lighter rectangle where a painting used to hang, golden frames of other paintings around",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "1911",
+      "title": "Disparue du Louvre",
+      "p1": "Le 21 août 1911, la Joconde est volée au musée du Louvre.",
+      "p2": "Il faut plus d'une journée pour que l'on remarque sa disparition !",
+      "scene": "a museum guard silhouette seen from behind looking at an empty wall with four hooks in a grand Paris gallery",
+      "image": "02.png"
+    },
+    {
+      "big": "Peruggia",
+      "title": "Un ancien employé du musée",
+      "p1": "Le voleur, Vincenzo Peruggia, était un Italien qui avait travaillé au Louvre.",
+      "p2": "Il avait même aidé à fabriquer la vitrine qui protégeait le tableau !",
+      "scene": "a workman in a white smock seen from behind carrying a wrapped flat rectangular package through a museum side door at dawn",
+      "image": "03.png"
+    },
+    {
+      "big": "Mur vide",
+      "title": "Les foules viennent voir… le vide",
+      "p1": "Pendant l'enquête, des curieux affluent pour contempler l'emplacement vide.",
+      "p2": "Les journaux du monde entier racontent l'affaire.",
+      "scene": "a crowd of small visitor silhouettes staring at an empty spot on a museum wall, newspapers flying in the air",
+      "image": "04.png"
+    },
+    {
+      "big": "2 ans",
+      "title": "Retrouvée à Florence",
+      "p1": "En décembre 1913, plus de deux ans plus tard, le tableau réapparaît à Florence.",
+      "p2": "Le voleur avait tenté de le vendre à un marchand d'art italien.",
+      "scene": "an open wooden trunk in a small old hotel room containing a wrapped painting, the dome of Florence cathedral visible through the window",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Quel tableau aimeriez-vous voir en vrai ?",
+    "text": "Dites-le en commentaire !"
+  },
+  "caption": "En 1911, la Joconde disparaît du Louvre 🖼️\nCe vol spectaculaire l'a rendue mondialement célèbre.\nVous connaissiez cette histoire ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "histoire",
+    "histoireinsolite",
+    "joconde",
+    "louvre",
+    "apprendre"
+  ],
+  "tiktok_title": "Le vol qui a rendu la Joconde célèbre",
+  "sources": [
+    "https://www.history.com/this-day-in-history/december-12/mona-lisa-recovered-in-florence",
+    "https://mymodernmet.com/mona-lisa-theft-1911/",
+    "https://www.aljazeera.com/gallery/2023/8/21/history-illustrated-who-stole-the-mona-lisa"
+  ],
+  "voix": [
+    {
+      "say": "Savez-vous comment la Joconde est devenue si célèbre ? Grâce à un vol !",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Le vingt et un août mille neuf cent onze, elle disparaît du Louvre. Et personne ne le remarque avant le lendemain !",
+      "image": "02.png",
+      "sub": "Le 21 août 1911, elle disparaît du Louvre. Et personne ne le remarque avant le lendemain !",
+      "big": "1911"
+    },
+    {
+      "say": "Le voleur, Vincenzo Péroudja, avait travaillé au musée, et même aidé à fabriquer sa vitrine !",
+      "image": "03.png",
+      "sub": "Le voleur, Vincenzo Peruggia, avait travaillé au musée, et même aidé à fabriquer sa vitrine !"
+    },
+    {
+      "say": "Pendant des mois, les foules viennent contempler… le mur vide.",
+      "image": "04.png"
+    },
+    {
+      "say": "Le tableau n'est retrouvé qu'en décembre mille neuf cent treize, à Florence. Il est devenu une star mondiale.",
+      "image": "05.png",
+      "sub": "Le tableau n'est retrouvé qu'en décembre 1913, à Florence. Il est devenu une star mondiale.",
+      "big": "2 ans"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "pillar": "mercredi",
+  "slug": "2026-11-25-empreintes-jumeaux",
+  "date": "2026-11-25",
+  "cover": {
+    "title": "Les vrais jumeaux n'ont pas les mêmes empreintes",
+    "subtitle": "Même ADN, mais des doigts uniques",
+    "scene": "two small child hands side by side palms facing the viewer, each fingertip showing a different swirling fingerprint pattern, soft pastel background",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "1 œuf",
+      "title": "Presque le même ADN",
+      "p1": "Les vrais jumeaux naissent d'un seul œuf qui s'est divisé en deux.",
+      "p2": "Pourtant, leurs empreintes digitales sont différentes.",
+      "scene": "a single round cell dividing into two identical round cells, soft glowing pastel colors",
+      "image": "02.png"
+    },
+    {
+      "big": "13-19",
+      "title": "Elles se forment avant la naissance",
+      "p1": "Les crêtes des doigts se dessinent entre la 13e et la 19e semaine de grossesse.",
+      "p2": "Elles ne changent plus ensuite.",
+      "scene": "a tiny curled baby silhouette inside a round womb shape with a small hand raised, fingertips softly glowing, no facial details",
+      "image": "03.png"
+    },
+    {
+      "big": "Unique",
+      "title": "La place dans le ventre compte",
+      "p1": "Position, longueur du cordon, nutrition, croissance des doigts…",
+      "p2": "Chaque jumeau vit des conditions un peu différentes.",
+      "scene": "two tiny baby silhouettes in different positions inside a round womb shape, connected by umbilical cords of different lengths, no facial details",
+      "image": "04.png"
+    },
+    {
+      "big": "Police",
+      "title": "Assez différentes pour les experts",
+      "p1": "Leurs empreintes se ressemblent plus que celles d'inconnus.",
+      "p2": "Mais les experts savent quand même les distinguer.",
+      "scene": "a large magnifying glass hovering over two fingerprints side by side with clearly different swirl patterns",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Avez-vous des jumeaux dans votre entourage ?",
+    "text": "Racontez-nous en commentaire !"
+  },
+  "caption": "Les vrais jumeaux n'ont pas les mêmes empreintes digitales 🖐️\nTout se joue avant la naissance, dans le ventre de la mère.\nVous le saviez ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "corpshumain",
+    "jumeaux",
+    "science",
+    "apprendre"
+  ],
+  "tiktok_title": "Pourquoi les vrais jumeaux n'ont pas les mêmes empreintes",
+  "sources": [
+    "https://www.livescience.com/do-identical-twins-have-identical-fingerprints.html",
+    "https://www.sciencefocus.com/the-human-body/why-do-identical-twins-have-different-fingerprints-2"
+  ],
+  "voix": [
+    {
+      "say": "Les vrais jumeaux ont presque le même ADN… mais pas les mêmes empreintes digitales !",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Ils naissent pourtant d'un seul œuf, qui s'est divisé en deux.",
+      "image": "02.png"
+    },
+    {
+      "say": "Les empreintes se forment avant la naissance, entre la treizième et la dix-neuvième semaine de grossesse.",
+      "image": "03.png",
+      "sub": "Les empreintes se forment avant la naissance, entre la 13e et la 19e semaine de grossesse.",
+      "big": "13-19"
+    },
+    {
+      "say": "Leur dessin dépend de la position dans le ventre, de la longueur du cordon, ou de la croissance des doigts.",
+      "image": "04.png"
+    },
+    {
+      "say": "Résultat : elles se ressemblent, mais les experts savent les distinguer.",
+      "image": "05.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "pillar": "lundi",
+  "slug": "2026-11-23-loutre-de-mer",
+  "date": "2026-11-23",
+  "cover": {
+    "title": "La loutre de mer, une championne méconnue",
+    "subtitle": "Fourrure record, outils et siestes en groupe",
+    "scene": "a cute sea otter floating on its back in calm blue water, holding a small flat stone on its belly, strands of green kelp around",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "150 000",
+      "title": "La fourrure la plus dense du monde",
+      "p1": "Jusqu'à environ 150 000 poils par centimètre carré.",
+      "p2": "Sans épaisse couche de graisse, c'est elle qui la garde au chaud.",
+      "scene": "close view of a sea otter with very thick fluffy brown fur, tiny water droplets beading on the fur, blue water",
+      "image": "02.png"
+    },
+    {
+      "big": "1/4",
+      "title": "Un appétit énorme",
+      "p1": "Elle avale chaque jour environ un quart de son poids.",
+      "p2": "Oursins, crabes, coquillages : de quoi rester au chaud !",
+      "scene": "a sea otter floating on its back eating a purple sea urchin on its belly, a few crabs and shells floating nearby",
+      "image": "03.png"
+    },
+    {
+      "big": "Outil",
+      "title": "Une pierre pour ouvrir les coquillages",
+      "p1": "Elle brise les coquillages sur une pierre posée sur son ventre.",
+      "p2": "Elle range même sa nourriture dans un repli de peau sous ses pattes.",
+      "scene": "a sea otter floating on its back cracking a clam against a flat stone resting on its chest, small splash",
+      "image": "04.png"
+    },
+    {
+      "big": "Radeau",
+      "title": "Elle dort en groupe",
+      "p1": "Les loutres se reposent en groupes appelés « radeaux ».",
+      "p2": "Pour ne pas dériver, elles s'enroulent dans les algues… ou se tiennent par la patte.",
+      "scene": "two sea otters sleeping on their backs side by side holding paws in calm water, wrapped in strands of green kelp",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Quel animal voulez-vous découvrir ?",
+    "text": "Dites-le en commentaire !"
+  },
+  "caption": "Fourrure record, outils en pierre et siestes en groupe 🦦\nLa loutre de mer est pleine de surprises.\nVous la connaissiez ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "loutre",
+    "animaux",
+    "ocean",
+    "nature",
+    "apprendre"
+  ],
+  "tiktok_title": "La loutre de mer a la fourrure la plus dense du monde",
+  "sources": [
+    "https://www.georgiaaquarium.org/animal/southern-sea-otter/",
+    "https://www.ifaw.org/international/animals/sea-otters",
+    "https://discovermagazine.com/planet-earth/sea-otters-hold-hands-while-sleeping-and-they-even-cuddle"
+  ],
+  "voix": [
+    {
+      "say": "Cet animal marin a la fourrure la plus dense du monde : la loutre de mer.",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Elle compte jusqu'à environ cent cinquante mille poils par centimètre carré.",
+      "image": "02.png",
+      "sub": "Elle compte jusqu'à environ 150 000 poils par cm².",
+      "big": "150 000"
+    },
+    {
+      "say": "Pour rester au chaud, elle avale chaque jour environ un quart de son poids.",
+      "image": "03.png",
+      "big": "1/4"
+    },
+    {
+      "say": "Pour ouvrir les coquillages, elle les brise sur une pierre posée sur son ventre.",
+      "image": "04.png"
+    },
+    {
+      "say": "Et pour ne pas dériver en dormant, elle s'enroule dans les algues, ou tient la patte d'une voisine !",
+      "image": "05.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

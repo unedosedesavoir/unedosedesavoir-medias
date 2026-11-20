@@ -1,0 +1,96 @@
+{
+  "pillar": "samedi",
+  "slug": "2026-11-28-piton-fournaise",
+  "date": "2026-11-28",
+  "cover": {
+    "title": "Le Piton de la Fournaise, un volcan hors norme",
+    "subtitle": "Le géant actif de La Réunion",
+    "scene": "a large gently sloping volcano on a tropical island with a glowing orange lava fissure on its flank, green vegetation at its base, blue ocean behind",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "2 600 m",
+      "title": "Plus de 2 600 mètres",
+      "p1": "Son sommet culmine à plus de 2 600 mètres d'altitude.",
+      "p2": "C'est un volcan « bouclier », aux pentes douces.",
+      "scene": "a broad gently sloping shield volcano on an island seen from the side, ocean all around, a few clouds",
+      "image": "02.png"
+    },
+    {
+      "big": "150",
+      "title": "Plus de 150 éruptions",
+      "p1": "Plus de 150 éruptions ont été recensées depuis le XVIIe siècle.",
+      "p2": "C'est l'un des volcans les plus actifs du monde.",
+      "scene": "a volcano at night with a curtain of glowing lava fountains along a fissure, starry sky",
+      "image": "03.png"
+    },
+    {
+      "big": "Lave",
+      "title": "Une lave très fluide",
+      "p1": "Ses éruptions sont surtout effusives : la lave s'écoule en coulées.",
+      "p2": "Elle atteint parfois l'océan, en traversant le Grand Brûlé.",
+      "scene": "a river of glowing orange lava flowing down a green slope into the blue ocean, white steam clouds rising",
+      "image": "04.png"
+    },
+    {
+      "big": "2010",
+      "title": "Classé au patrimoine mondial",
+      "p1": "Depuis 2010, les « Pitons, cirques et remparts » de l'île sont inscrits à l'UNESCO.",
+      "p2": "Un patrimoine naturel unique au monde.",
+      "scene": "steep green volcanic cliffs and deep cirques of a tropical island with thin waterfalls, under a blue sky",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "L'avez-vous déjà vu en éruption ?",
+    "text": "Racontez-nous en commentaire !"
+  },
+  "caption": "Le Piton de la Fournaise, l'un des volcans les plus actifs du monde 🌋\nPlus de 150 éruptions depuis le XVIIe siècle, à La Réunion.\nVous l'avez déjà vu en éruption ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "lareunion",
+    "974",
+    "volcan",
+    "monde",
+    "apprendre"
+  ],
+  "tiktok_title": "Le Piton de la Fournaise, volcan record de La Réunion",
+  "sources": [
+    "https://cnes.fr/geoimage/le-piton-de-la-fournaise-un-volcan-tres-actif-haut-lieu-du-patrimoine-reunionnais",
+    "https://en.wikipedia.org/wiki/Piton_de_la_Fournaise"
+  ],
+  "voix": [
+    {
+      "say": "À La Réunion, un volcan bat des records : le Piton de la Fournaise.",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Son sommet dépasse deux mille six cents mètres d'altitude.",
+      "image": "02.png",
+      "sub": "Son sommet dépasse 2 600 mètres d'altitude.",
+      "big": "2 600 m"
+    },
+    {
+      "say": "C'est l'un des volcans les plus actifs du monde : plus de cent cinquante éruptions depuis le dix-septième siècle.",
+      "image": "03.png",
+      "sub": "C'est l'un des volcans les plus actifs du monde : plus de 150 éruptions depuis le XVIIe siècle.",
+      "big": "150"
+    },
+    {
+      "say": "Sa lave, très fluide, coule parfois jusqu'à l'océan.",
+      "image": "04.png"
+    },
+    {
+      "say": "Et depuis deux mille dix, les pitons, cirques et remparts de l'île sont inscrits au patrimoine mondial.",
+      "image": "05.png",
+      "sub": "Et depuis 2010, les pitons, cirques et remparts de l'île sont inscrits au patrimoine mondial.",
+      "big": "2010"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

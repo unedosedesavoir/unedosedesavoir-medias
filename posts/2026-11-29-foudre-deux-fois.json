@@ -1,0 +1,96 @@
+{
+  "pillar": "dimanche",
+  "slug": "2026-11-29-foudre-deux-fois",
+  "date": "2026-11-29",
+  "cover": {
+    "title": "« La foudre ne tombe jamais deux fois au même endroit »",
+    "subtitle": "Vrai ou faux ?",
+    "scene": "a tall skyscraper silhouette struck by a bright lightning bolt at night over a city skyline, dark purple storm clouds",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "FAUX",
+      "title": "La foudre récidive volontiers",
+      "p1": "Elle frappe souvent les mêmes endroits, surtout les objets hauts et isolés.",
+      "p2": "Le dicton est donc faux !",
+      "scene": "a lone tall tree on a hill being hit by a lightning bolt under dark storm clouds",
+      "image": "02.png"
+    },
+    {
+      "big": "25",
+      "title": "L'Empire State Building",
+      "p1": "Ce gratte-ciel de New York est touché environ 25 fois par an.",
+      "p2": "Un vrai paratonnerre géant !",
+      "scene": "a tall art deco skyscraper silhouette with several lightning bolts striking its spire at night",
+      "image": "03.png"
+    },
+    {
+      "big": "Hauteur",
+      "title": "Pourquoi les hauteurs ?",
+      "p1": "Les objets élevés et isolés attirent davantage la foudre.",
+      "p2": "C'est le principe du paratonnerre.",
+      "scene": "a metal lightning rod on top of a house roof catching a lightning bolt and guiding it safely to the ground",
+      "image": "04.png"
+    },
+    {
+      "big": "30 000 °C",
+      "title": "Plus chaud que le Soleil",
+      "p1": "Un éclair chauffe l'air à près de 30 000 °C.",
+      "p2": "Environ cinq fois la température de la surface du Soleil !",
+      "scene": "a bright jagged lightning bolt next to a small glowing sun for comparison, dark sky",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Vous y croyiez ?",
+    "text": "Dites-le en commentaire !"
+  },
+  "caption": "Non, la foudre peut tomber plusieurs fois au même endroit ⚡\nCertains gratte-ciel sont frappés des dizaines de fois par an.\nVous y croyiez ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "vraioufaux",
+    "ideerecue",
+    "foudre",
+    "science",
+    "apprendre"
+  ],
+  "tiktok_title": "La foudre ne tombe jamais deux fois au même endroit ? Vrai ou faux",
+  "sources": [
+    "https://www.noaa.gov/stories/5-striking-facts-versus-myths-about-lightning-you-should-know",
+    "https://www.foxweather.com/learn/lightning-strike-same-place-twice-weather-sayings-lore",
+    "https://www.theweathernetwork.com/en/news/weather/forecasts/fast-facts-about-lightning"
+  ],
+  "voix": [
+    {
+      "say": "La foudre ne tombe jamais deux fois au même endroit. Vrai ou faux ?",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Faux ! Elle frappe souvent les mêmes endroits, surtout les objets hauts et isolés.",
+      "image": "02.png",
+      "big": "FAUX"
+    },
+    {
+      "say": "L'Empire State Building, à New York, est touché environ vingt-cinq fois par an.",
+      "image": "03.png",
+      "sub": "L'Empire State Building, à New York, est touché environ 25 fois par an.",
+      "big": "25"
+    },
+    {
+      "say": "Les objets élevés attirent davantage la foudre : c'est le principe du paratonnerre.",
+      "image": "04.png"
+    },
+    {
+      "say": "Et chaque éclair chauffe l'air à près de trente mille degrés, environ cinq fois la surface du Soleil !",
+      "image": "05.png",
+      "sub": "Et chaque éclair chauffe l'air à près de 30 000 °C, environ cinq fois la surface du Soleil !",
+      "big": "30 000 °C"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

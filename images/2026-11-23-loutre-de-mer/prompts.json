@@ -1,0 +1,40 @@
+{
+  "slug": "2026-11-23-loutre-de-mer",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a cute sea otter floating on its back in calm blue water, holding a small flat stone on its belly, strands of green kelp around. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 781380846
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of close view of a sea otter with very thick fluffy brown fur, tiny water droplets beading on the fur, blue water. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 354821460
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a sea otter floating on its back eating a purple sea urchin on its belly, a few crabs and shells floating nearby. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 646335426
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a sea otter floating on its back cracking a clam against a flat stone resting on its chest, small splash. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 232413281
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of two sea otters sleeping on their backs side by side holding paws in calm water, wrapped in strands of green kelp. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 336403703
+    }
+  ]
+}

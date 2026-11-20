@@ -1,0 +1,93 @@
+{
+  "pillar": "vendredi",
+  "slug": "2026-11-27-avoir-le-cafard",
+  "date": "2026-11-27",
+  "cover": {
+    "title": "Pourquoi dit-on « avoir le cafard » ?",
+    "subtitle": "Un mot venu de loin, et deux hypothèses",
+    "scene": "a small cute cartoon cockroach sitting alone under a little grey rain cloud, soft colors, friendly and not scary",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "Kafir",
+      "title": "Un mot venu de l'arabe",
+      "p1": "« Cafard » viendrait de l'arabe kafir, « mécréant ».",
+      "p2": "Au XVIe siècle, il désigne un faux dévot, un hypocrite.",
+      "scene": "an old open book with blank pages next to a feather quill and an ink pot, sand dunes in the distance",
+      "image": "02.png"
+    },
+    {
+      "big": "Blatte",
+      "title": "Puis un insecte qui se cache",
+      "p1": "Le mot désigne ensuite le dénonciateur, puis la blatte.",
+      "p2": "Un insecte qui fuit la lumière et vit dans le noir.",
+      "scene": "a small brown cockroach hiding in a dark corner of an old kitchen next to a beam of light, cute style",
+      "image": "03.png"
+    },
+    {
+      "big": "1857",
+      "title": "Une piste : Baudelaire",
+      "p1": "On attribue souvent ce sens de « mélancolie » à Baudelaire et aux Fleurs du mal (1857).",
+      "p2": "Mais cette piste est discutée.",
+      "scene": "a melancholic poet silhouette seen from behind sitting at a desk by candlelight, Paris rooftops at night through the window",
+      "image": "04.png"
+    },
+    {
+      "big": "Légion",
+      "title": "Une autre piste : les soldats",
+      "p1": "D'autres la font naître à la fin du XIXe siècle chez les soldats d'Afrique et de la Légion étrangère.",
+      "p2": "Les idées noires grouillent… comme des cafards !",
+      "scene": "a lonely army tent in a desert at night under many stars, a lantern glowing at the entrance",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Quelle expression voulez-vous qu'on explique ?",
+    "text": "Dites-le en commentaire !"
+  },
+  "caption": "Pourquoi « avoir le cafard » quand on a le moral à zéro ? 🪳\nUn mot venu de l'arabe, un insecte… et deux hypothèses.\nVous penchez pour laquelle ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "expressionsfrancaises",
+    "languefrancaise",
+    "etymologie",
+    "apprendre"
+  ],
+  "tiktok_title": "D'où vient l'expression « avoir le cafard » ?",
+  "sources": [
+    "https://www.expressio.fr/expressions/avoir-le-cafard",
+    "https://www.guichetdusavoir.org/question/voir/139505"
+  ],
+  "voix": [
+    {
+      "say": "Pourquoi dit-on avoir le cafard quand on a le moral à zéro ?",
+      "image": "01-couverture.png",
+      "sub": "Pourquoi dit-on « avoir le cafard » quand on a le moral à zéro ?"
+    },
+    {
+      "say": "Le mot viendrait de l'arabe kafir, mécréant. Au seizième siècle, un cafard, c'est un hypocrite.",
+      "image": "02.png",
+      "sub": "Le mot viendrait de l'arabe « kafir », mécréant. Au XVIe siècle, un cafard, c'est un hypocrite.",
+      "big": "Kafir"
+    },
+    {
+      "say": "Il désigne ensuite un insecte qui se cache dans le noir : la blatte.",
+      "image": "03.png"
+    },
+    {
+      "say": "Pour le sens de mélancolie, une piste mène au poète Baudelaire. Mais elle est discutée.",
+      "image": "04.png"
+    },
+    {
+      "say": "Une autre mène aux soldats de la fin du dix-neuvième siècle, rongés par les idées noires.",
+      "image": "05.png",
+      "sub": "Une autre mène aux soldats de la fin du XIXe siècle, rongés par les idées noires."
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

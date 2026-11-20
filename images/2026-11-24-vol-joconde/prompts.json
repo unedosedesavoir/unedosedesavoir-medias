@@ -1,0 +1,40 @@
+{
+  "slug": "2026-11-24-vol-joconde",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of an empty wall in a grand old museum gallery with four small metal hooks and a lighter rectangle where a painting used to hang, golden frames of other paintings around. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 337486472
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a museum guard silhouette seen from behind looking at an empty wall with four hooks in a grand Paris gallery. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 67822001
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a workman in a white smock seen from behind carrying a wrapped flat rectangular package through a museum side door at dawn. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 252424487
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a crowd of small visitor silhouettes staring at an empty spot on a museum wall, newspapers flying in the air. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 605933700
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of an open wooden trunk in a small old hotel room containing a wrapped painting, the dome of Florence cathedral visible through the window. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 683649554
+    }
+  ]
+}

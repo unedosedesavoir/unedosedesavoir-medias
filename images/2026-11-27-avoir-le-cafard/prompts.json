@@ -1,0 +1,40 @@
+{
+  "slug": "2026-11-27-avoir-le-cafard",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a small cute cartoon cockroach sitting alone under a little grey rain cloud, soft colors, friendly and not scary. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 885941967
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of an old open book with blank pages next to a feather quill and an ink pot, sand dunes in the distance. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 341703501
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a small brown cockroach hiding in a dark corner of an old kitchen next to a beam of light, cute style. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 955504091
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a melancholic poet silhouette seen from behind sitting at a desk by candlelight, Paris rooftops at night through the window. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 776862840
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a lonely army tent in a desert at night under many stars, a lantern glowing at the entrance. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 498074350
+    }
+  ]
+}
