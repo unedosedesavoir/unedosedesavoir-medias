@@ -103,8 +103,9 @@ le champ `date` fait foi.
    le champ `voix` (voir le format ci-dessus), puis `python3 kit/motion.py posts/<fichier>.json`
    → `medias/<slug>/video.mp4` (~25 s : sujets détourés animés, chiffre animé, voix off, sous-titres
    mot à mot, musique synthétisée ; ~2 min 30 de rendu par vidéo, lancer la semaine en arrière-plan).
-   Regarder `video-apercu.jpg`. Voix actuelle : Piper « siwis » (CC BY 4.0, à créditer dans la légende) ;
-   la personne prévoit de passer à Google Chirp 3 HD (clé API en secret réseau, jamais dans le dépôt).
+   Regarder `video-apercu.jpg`. Voix : Chatterbox, ton « posé » (choix du 20 novembre 2026), générée dans
+   ComfyUI AVANT motion.py (`kit/chatterbox.py`, voir `kit/comfy.md`, section « Voix off ») : licence MIT,
+   pas de crédit. Sans ces fichiers, motion.py retombe sur la voix Piper « siwis » (crédit CC BY 4.0 obligatoire).
    Les Reels sont montrés aux non-abonnés : c'est le principal levier de croissance du compte.
 7. **Publier les images** : `git add -A && git commit -m "Semaine du …" && git push`.
    Liens bruts à donner à Metricool, avec le hash complet du commit (`git rev-parse HEAD`) plutôt que
@@ -133,7 +134,7 @@ le champ `date` fait foi.
 - Reel Instagram (une 3e publication par post, à 18:00 tous les jours) : `media` = lien brut de `video.mp4`,
   `videoCoverMilliseconds` 500 (l'écran d'accroche sert de couverture), `text` = l'accroche + 1 émoji,
   puis « Tout le détail dans le carrousel du jour, sur le profil. », puis « Voix : SIWIS (CC BY 4.0) »
-  (crédit obligatoire tant que la voix Piper est utilisée), ligne vide, hashtags ; `instagramData`
+  uniquement si la voix Piper de secours a été utilisée, ligne vide, hashtags ; `instagramData`
   `{"type":"REEL", "showReelOnFeed": false, "isAiGenerated": true}` (le Reel n'encombre pas la grille).
 - `publicationDate` : `{"dateTime":"AAAA-MM-JJTHH:MM:SS","timezone":"Indian/Reunion"}`, `autoPublish` true,
   `draft` false (publication automatique), `descendants` [], `firstCommentText` "", `smartLinkData` {"ids":[]}.

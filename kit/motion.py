@@ -187,13 +187,24 @@ def main(spec_path):
     slug = spec["slug"]
     lines = spec["voix"]
     label = f'{p["jour"]} · {p["label"]}'
-    exe, model = V.ensure_piper()
+    # Voix Chatterbox (kit/chatterbox.py) si toutes les phrases sont prêtes, sinon voix Piper de secours.
+    cb = [os.path.join(ROOT, "images", slug, "voix", f"v{i:02d}.wav") for i in range(len(lines))]
+    use_cb = all(os.path.exists(f) for f in cb)
+    exe, model = (None, None) if use_cb else V.ensure_piper()
+    print("Voix :", "Chatterbox (images/%s/voix)" % slug if use_cb else "Piper siwis (crédit CC BY 4.0 à mettre)")
     out_dir = os.path.join(ROOT, "medias", slug)
     with tempfile.TemporaryDirectory() as tmp:
         durs, wavs = [], []
         for i, ln in enumerate(lines):
             wav = os.path.join(tmp, f"v{i:02d}.wav")
-            durs.append(V.say(exe, model, ln["say"], wav) + V.PAUSE)
+            if use_cb:
+                subprocess.run(["ffmpeg", "-loglevel", "error", "-y", "-i", cb[i], "-ar", "22050", "-ac", "1", wav],
+                               check=True)
+                import wave
+                with wave.open(wav) as w:
+                    durs.append(w.getnframes() / w.getframerate() + V.PAUSE)
+            else:
+                durs.append(V.say(exe, model, ln["say"], wav) + V.PAUSE)
             wavs.append(wav)
         total = sum(durs)
         frames_dir = os.path.join(tmp, "frames")

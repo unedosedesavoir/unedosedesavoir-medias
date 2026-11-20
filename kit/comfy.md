@@ -68,3 +68,36 @@ out
    `illustrations.py` et régénérer seulement cette image.
 8. **Cadrage** : si le sujet est coupé sur la slide, ajouter `"image_pos": "30%"` (0 % = haut de
    l'image, 100 % = bas) dans le bloc concerné, puis relancer `generate.py`.
+
+## Voix off (Chatterbox, ton « posé »)
+
+Choisie par la personne le 20 novembre 2026. Extension ComfyUI « FL ChatterBox » (déjà installée) et
+modèle Chatterbox Multilingual (licence MIT, aucun crédit dans la légende). Jamais de voix de référence
+copiée d'une personne qui n'a pas donné son accord (voix d'une bibliothèque commerciale comprise).
+
+1. `python3 kit/chatterbox.py jobs posts/<fichier>.json` → JSON des phrases (champ `voix[].say`) et réglages.
+2. Mettre en file dans ComfyUI (navigateur intégré, `javascript_tool`), en collant ce JSON dans `J` :
+
+```js
+const J = /* sortie de kit/chatterbox.py jobs */;
+const S = J.settings, ids = [];
+for (const j of J.jobs) {
+  const wf = {"1":{"class_type":"FL_ChatterboxMultilingualTTS","inputs":{"text":j.text,"language":S.language,
+      "exaggeration":S.exaggeration,"cfg_weight":S.cfg_weight,"temperature":S.temperature,
+      "repetition_penalty":S.repetition_penalty,"min_p":S.min_p,"top_p":S.top_p,"seed":S.seed,
+      "use_cpu":false,"keep_model_loaded":true}},
+    "2":{"class_type":"SaveAudio","inputs":{"audio":["1",0],"filename_prefix":j.prefix}}};
+  const r = await (await fetch('/prompt',{method:'POST',headers:{'Content-Type':'application/json'},
+    body:JSON.stringify({prompt:wf})})).json();
+  ids.push(r.prompt_id);
+}
+window.__voix = ids; ids.length
+```
+
+   ~10 s par phrase (le premier lancement charge le modèle). Interroger `/history/<id>` par tranches < 40 s.
+3. Récupérer `...\output\unedosedesavoir\<slug>\voix\vNN_00001_.flac` avec `device_stage_files`, puis
+   `python3 kit/chatterbox.py import posts/<fichier>.json /mnt/user-data/uploads/unedosedesavoir/<slug>/voix`
+   → `images/<slug>/voix/vNN.wav` (phrase coupée au premier silence). Une ligne « À VÉRIFIER » :
+   relancer cette phrase avec une autre `seed`.
+4. `python3 kit/motion.py` utilise ces fichiers automatiquement (sinon, voix Piper de secours, avec
+   crédit « Voix : SIWIS (CC BY 4.0) » obligatoire dans la légende).
