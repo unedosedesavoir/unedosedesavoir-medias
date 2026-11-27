@@ -3,10 +3,10 @@
   "jobs": [
     {
       "file": "01-couverture.png",
-      "prompt": "Flat vector editorial illustration of a black bicorne hat resting on top of a tall vintage wooden measuring stick, in an old study with a map on the wall. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "prompt": "Flat vector editorial illustration of a pair of tall black early-19th-century riding boots and a cavalry sabre standing in front of a tall vintage wooden height gauge, old study with a large map on the wall. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
       "width": 1088,
       "height": 880,
-      "seed": 319579475
+      "seed": 5151
     },
     {
       "file": "02.png",
@@ -17,24 +17,24 @@
     },
     {
       "file": "03.png",
-      "prompt": "Flat vector editorial illustration of two old wooden rulers of slightly different lengths side by side on a desk with a quill and an inkwell. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "prompt": "Flat vector editorial illustration of an old parchment scroll, a goose quill and an inkwell next to a plain blank wooden stick with no markings at all. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
       "width": 1088,
       "height": 592,
-      "seed": 773820709
+      "seed": 777
     },
     {
       "file": "04.png",
-      "prompt": "Flat vector editorial illustration of an oversized bicorne hat and oversized boots on a tiny empty chair, playful satirical cartoon mood. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "prompt": "Flat vector editorial illustration of a tiny toy soldier figurine seen from behind, wearing a huge oversized black crescent-shaped bicorne hat and huge oversized riding boots, playful satirical cartoon mood. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
       "width": 1088,
       "height": 592,
-      "seed": 960852102
+      "seed": 909
     },
     {
       "file": "05.png",
-      "prompt": "Flat vector editorial illustration of a row of tall grenadier soldiers silhouettes wearing tall bearskin hats, seen from behind, parade ground. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "prompt": "Flat vector editorial illustration of a row of tall French Napoleonic grenadier soldiers seen from behind, dark navy blue coats, white crossbelts, tall black bearskin hats, parade ground. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
       "width": 1088,
       "height": 592,
-      "seed": 346805776
+      "seed": 1313
     }
   ]
 }

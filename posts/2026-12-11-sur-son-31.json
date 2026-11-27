@@ -30,8 +30,9 @@
       "title": "Hypothèse n° 2 : un jeu de cartes",
       "p1": "Au jeu du « trente et un », atteindre 31 était le meilleur score.",
       "p2": "Une piste jugée bien plus douteuse.",
-      "scene": "a fan of vintage playing cards on a green card table with a few chips, no visible numbers or letters",
-      "image": "04.png"
+      "scene": "an old wooden card table in a cosy 19th-century cafe with a glowing oil lamp, a few round chips and a closed card box, seen from a distance",
+      "image": "04.png",
+      "seed": 3232
     },
     {
       "big": "Faux",

@@ -5,8 +5,9 @@
   "cover": {
     "title": "Napoléon n'était pas petit",
     "subtitle": "L'histoire d'une légende tenace",
-    "scene": "a black bicorne hat resting on top of a tall vintage wooden measuring stick, in an old study with a map on the wall",
-    "image": "01-couverture.png"
+    "scene": "a pair of tall black early-19th-century riding boots and a cavalry sabre standing in front of a tall vintage wooden height gauge, old study with a large map on the wall",
+    "image": "01-couverture.png",
+    "seed": 5151
   },
   "slides": [
     {
@@ -22,24 +23,27 @@
       "title": "La faute aux pouces",
       "p1": "Le pouce français valait environ 2,71 cm, contre 2,54 cm pour le pouce anglais.",
       "p2": "Ses « 5 pieds 2 pouces » ont fait croire à un homme minuscule.",
-      "scene": "two old wooden rulers of slightly different lengths side by side on a desk with a quill and an inkwell",
-      "image": "03.png"
+      "scene": "an old parchment scroll, a goose quill and an inkwell next to a plain blank wooden stick with no markings at all",
+      "image": "03.png",
+      "seed": 777
     },
     {
       "big": "Gillray",
       "title": "Une arme de propagande",
       "p1": "Dès 1803, le caricaturiste anglais Gillray le dessine en « Little Boney ».",
       "p2": "Un minuscule homme colérique, aux bottes et au chapeau trop grands.",
-      "scene": "an oversized bicorne hat and oversized boots on a tiny empty chair, playful satirical cartoon mood",
-      "image": "04.png"
+      "scene": "a tiny toy soldier figurine seen from behind, wearing a huge oversized black crescent-shaped bicorne hat and huge oversized riding boots, playful satirical cartoon mood",
+      "image": "04.png",
+      "seed": 909
     },
     {
       "big": "Garde",
       "title": "Entouré de géants",
       "p1": "Sa garde d'élite était choisie parmi des soldats plus grands que la moyenne.",
       "p2": "Et « le petit caporal » était un surnom affectueux de ses soldats.",
-      "scene": "a row of tall grenadier soldiers silhouettes wearing tall bearskin hats, seen from behind, parade ground",
-      "image": "05.png"
+      "scene": "a row of tall French Napoleonic grenadier soldiers seen from behind, dark navy blue coats, white crossbelts, tall black bearskin hats, parade ground",
+      "image": "05.png",
+      "seed": 1313
     }
   ],
   "cta": {
