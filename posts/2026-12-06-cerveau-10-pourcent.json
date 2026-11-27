@@ -15,8 +15,9 @@
       "title": "Un mythe tenace",
       "p1": "Nous utilisons tout notre cerveau, pas seulement 10 %.",
       "p2": "Les neuroscientifiques sont formels !",
-      "scene": "a stylized human brain fully lit up in warm colors, with a broken percentage gauge beside it, no numbers",
-      "image": "02.png"
+      "scene": "a stylized human brain entirely glowing with small bright sparks and light all over its surface, dark background",
+      "image": "02.png",
+      "seed": 8686
     },
     {
       "big": "IRM",

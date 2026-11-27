@@ -22,16 +22,18 @@
       "title": "Des miroirs sur la Lune",
       "p1": "Les missions Apollo 11, 14 et 15 y ont déposé des réflecteurs.",
       "p2": "Ils renvoient la lumière vers la Terre.",
-      "scene": "a flat square panel of small mirrors placed on the grey lunar surface, Earth in the black sky, no astronaut",
-      "image": "03.png"
+      "scene": "a flat square panel made of many small mirrors lying on the grey dusty lunar surface, a small blue planet Earth far away in the black sky",
+      "image": "03.png",
+      "seed": 1969
     },
     {
       "big": "Laser",
       "title": "Un tir de laser",
       "p1": "Des observatoires, dont un en France, y tirent des lasers.",
       "p2": "Le temps de l'aller-retour donne la distance, à quelques millimètres près.",
-      "scene": "an observatory dome on a mountain at night firing a thin green laser beam toward the Moon",
-      "image": "04.png"
+      "scene": "a white observatory dome on a dark mountain at night firing one thin straight green laser beam up toward a single grey full Moon",
+      "image": "04.png",
+      "seed": 2121
     },
     {
       "big": "Marées",

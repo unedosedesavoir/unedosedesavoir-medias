@@ -3,10 +3,10 @@
   "jobs": [
     {
       "file": "01-couverture.png",
-      "prompt": "Flat vector editorial illustration of a large Renaissance basilica dome above a small walled city surrounded by the rooftops of a bigger city, aerial view. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "prompt": "Flat vector editorial illustration of Saint Peter's Basilica in Rome seen from the front, its large grey-blue dome above an oval square framed by curved colonnades, terracotta Roman rooftops around. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
       "width": 1088,
       "height": 880,
-      "seed": 636686516
+      "seed": 1929
     },
     {
       "file": "02.png",

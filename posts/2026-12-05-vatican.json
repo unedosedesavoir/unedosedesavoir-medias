@@ -5,8 +5,9 @@
   "cover": {
     "title": "Le plus petit pays du monde",
     "subtitle": "Il tient dans une ville",
-    "scene": "a large Renaissance basilica dome above a small walled city surrounded by the rooftops of a bigger city, aerial view",
-    "image": "01-couverture.png"
+    "scene": "Saint Peter's Basilica in Rome seen from the front, its large grey-blue dome above an oval square framed by curved colonnades, terracotta Roman rooftops around",
+    "image": "01-couverture.png",
+    "seed": 1929
   },
   "slides": [
     {

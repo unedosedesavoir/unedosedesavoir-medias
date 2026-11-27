@@ -22,8 +22,9 @@
       "title": "Un « monstre » ?",
       "p1": "Dès 1887, des artistes comme Maupassant la jugent « inutile et monstrueuse ».",
       "p2": "La tour n'a pas fait l'unanimité !",
-      "scene": "an old 19th-century newspaper page with blank columns lying on a cafe table next to a top hat, Eiffel Tower in the background window",
-      "image": "03.png"
+      "scene": "a black top hat, a goose quill and a crumpled blank sheet of paper on a round cafe table, the Eiffel Tower seen through the window behind",
+      "image": "03.png",
+      "seed": 1887
     },
     {
       "big": "TSF",

@@ -30,8 +30,9 @@
       "title": "Les fameuses fontanelles",
       "p1": "Le crâne du bébé a des zones molles entre ses os.",
       "p2": "Elles se referment au cours des 1 ou 2 premières années.",
-      "scene": "a stylized baby skull seen from above showing separate plates with soft gaps between them, gentle colors, educational",
-      "image": "04.png"
+      "scene": "a baby's round head seen from above with soft pastel colors and a small diamond-shaped soft spot on top, gentle and cute, no face",
+      "image": "04.png",
+      "seed": 2020
     },
     {
       "big": "206",
