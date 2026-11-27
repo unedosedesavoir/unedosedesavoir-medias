@@ -1,0 +1,96 @@
+{
+  "pillar": "mardi",
+  "slug": "2026-12-01-tour-eiffel-sursis",
+  "date": "2026-12-01",
+  "cover": {
+    "title": "La tour Eiffel devait être démontée",
+    "subtitle": "Sauvée par… la radio",
+    "scene": "the Eiffel Tower silhouette at dusk over Paris rooftops, radio waves drawn as curved arcs radiating from its summit",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "1889",
+      "title": "Une tour provisoire",
+      "p1": "Construite pour l'Exposition universelle de 1889, elle n'avait qu'un permis de 20 ans.",
+      "p2": "Elle devait revenir à la Ville de Paris le 1er janvier 1910.",
+      "scene": "a world fair in the late 19th century with the newly built Eiffel Tower, festive pavilions and flags without text",
+      "image": "02.png"
+    },
+    {
+      "big": "1887",
+      "title": "Un « monstre » ?",
+      "p1": "Dès 1887, des artistes comme Maupassant la jugent « inutile et monstrueuse ».",
+      "p2": "La tour n'a pas fait l'unanimité !",
+      "scene": "an old 19th-century newspaper page with blank columns lying on a cafe table next to a top hat, Eiffel Tower in the background window",
+      "image": "03.png"
+    },
+    {
+      "big": "TSF",
+      "title": "La radio à la rescousse",
+      "p1": "Eiffel finance des expériences de télégraphie sans fil au sommet.",
+      "p2": "En 1908, l'armée y capte des messages à 6 000 km !",
+      "scene": "the top of the Eiffel Tower with antenna wires and radio waves spreading across a map of the world",
+      "image": "04.png"
+    },
+    {
+      "big": "70 ans",
+      "title": "Un sursis prolongé",
+      "p1": "Devenue utile à l'armée, elle obtient une prolongation de 70 ans dès 1910.",
+      "p2": "Et elle est toujours là !",
+      "scene": "the Eiffel Tower standing proudly in modern Paris on a sunny day with green parks around",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Vous le saviez ?",
+    "text": "Dites-le en commentaire !"
+  },
+  "caption": "La tour Eiffel devait être démontée après 20 ans 🗼\nC'est la radio qui l'a sauvée.\nVous le saviez ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "histoire",
+    "toureiffel",
+    "paris",
+    "anecdote",
+    "apprendre"
+  ],
+  "tiktok_title": "La tour Eiffel devait être démontée : la radio l'a sauvée",
+  "sources": [
+    "https://www.toureiffel.paris/en/news/130-years/how-did-radio-save-tower",
+    "https://www.history.com/articles/eiffel-tower-survival"
+  ],
+  "voix": [
+    {
+      "say": "La tour Eiffel aurait pu disparaître. C'est la radio qui l'a sauvée !",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Construite pour l'Exposition universelle de mille huit cent quatre-vingt-neuf, elle n'avait qu'un permis de vingt ans.",
+      "sub": "Construite pour l'Exposition universelle de 1889, elle n'avait qu'un permis de 20 ans.",
+      "image": "02.png",
+      "big": "1889"
+    },
+    {
+      "say": "Des artistes comme Maupassant la jugeaient même inutile et monstrueuse.",
+      "image": "03.png"
+    },
+    {
+      "say": "Alors Eiffel y finance des essais de radio : en mille neuf cent huit, l'armée capte des messages à six mille kilomètres.",
+      "sub": "Alors Eiffel y finance des essais de radio : en 1908, l'armée capte des messages à 6 000 km.",
+      "image": "04.png",
+      "big": "6 000 km"
+    },
+    {
+      "say": "Devenue utile, la tour obtient en mille neuf cent dix soixante-dix ans de sursis. Et elle est toujours là !",
+      "sub": "Devenue utile, la tour obtient en 1910 soixante-dix ans de sursis. Et elle est toujours là !",
+      "image": "05.png",
+      "big": "70 ans"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

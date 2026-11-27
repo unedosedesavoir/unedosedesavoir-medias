@@ -1,0 +1,40 @@
+{
+  "slug": "2026-12-04-salaire-sel",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a small wooden bowl full of white salt crystals next to a few ancient Roman coins on a stone table. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 374387836
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a heap of coarse white salt with an ancient clay jar and a wooden scoop. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 69925543
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of salted fish and meat hanging in an ancient storehouse with sacks of salt, warm light. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 220736049
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a Roman soldier helmet and shield resting next to a small bag of salt, no person. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 601228178
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of an old closed leather book and a magnifying glass on a desk with a few salt crystals, mysterious mood. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 711703812
+    }
+  ]
+}

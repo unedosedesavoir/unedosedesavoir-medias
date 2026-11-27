@@ -1,0 +1,40 @@
+{
+  "slug": "2026-12-01-tour-eiffel-sursis",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of the Eiffel Tower silhouette at dusk over Paris rooftops, radio waves drawn as curved arcs radiating from its summit. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 693156107
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a world fair in the late 19th century with the newly built Eiffel Tower, festive pavilions and flags without text. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 601289938
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of an old 19th-century newspaper page with blank columns lying on a cafe table next to a top hat, Eiffel Tower in the background window. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 711642692
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of the top of the Eiffel Tower with antenna wires and radio waves spreading across a map of the world. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 69873127
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of the Eiffel Tower standing proudly in modern Paris on a sunny day with green parks around. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 220790129
+    }
+  ]
+}

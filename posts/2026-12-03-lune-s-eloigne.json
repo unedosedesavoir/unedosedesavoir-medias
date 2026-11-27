@@ -1,0 +1,92 @@
+{
+  "pillar": "jeudi",
+  "slug": "2026-12-03-lune-s-eloigne",
+  "date": "2026-12-03",
+  "cover": {
+    "title": "La Lune s'éloigne de nous",
+    "subtitle": "Un peu plus chaque année",
+    "scene": "the full Moon above planet Earth in space with a faint dotted arrow showing the Moon drifting away",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "3,8 cm",
+      "title": "Chaque année",
+      "p1": "La Lune s'éloigne de la Terre d'environ 3,8 cm par an.",
+      "p2": "Lentement, mais sûrement !",
+      "scene": "the Moon and the Earth in space with a small gap widening between them, dotted orbit lines",
+      "image": "02.png"
+    },
+    {
+      "big": "Apollo",
+      "title": "Des miroirs sur la Lune",
+      "p1": "Les missions Apollo 11, 14 et 15 y ont déposé des réflecteurs.",
+      "p2": "Ils renvoient la lumière vers la Terre.",
+      "scene": "a flat square panel of small mirrors placed on the grey lunar surface, Earth in the black sky, no astronaut",
+      "image": "03.png"
+    },
+    {
+      "big": "Laser",
+      "title": "Un tir de laser",
+      "p1": "Des observatoires, dont un en France, y tirent des lasers.",
+      "p2": "Le temps de l'aller-retour donne la distance, à quelques millimètres près.",
+      "scene": "an observatory dome on a mountain at night firing a thin green laser beam toward the Moon",
+      "image": "04.png"
+    },
+    {
+      "big": "Marées",
+      "title": "La faute aux marées",
+      "p1": "Les marées freinent la rotation de la Terre et poussent la Lune vers l'extérieur.",
+      "p2": "Elle se trouve aujourd'hui à environ 385 000 km.",
+      "scene": "ocean waves on Earth with a tidal bulge and the Moon above, simple space scene",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Vous le saviez ?",
+    "text": "Dites-le en commentaire !"
+  },
+  "caption": "La Lune s'éloigne de la Terre d'environ 3,8 cm par an 🌕\nMesuré grâce à des miroirs laissés par Apollo.\nVous le saviez ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "espace",
+    "lune",
+    "astronomie",
+    "science",
+    "apprendre"
+  ],
+  "tiktok_title": "La Lune s'éloigne de nous de 3,8 cm par an",
+  "sources": [
+    "https://www.nasa.gov/solar-system/the-apollo-experiment-that-keeps-on-giving/",
+    "https://eclipse.gsfc.nasa.gov/help/ApolloLaser.html"
+  ],
+  "voix": [
+    {
+      "say": "Saviez-vous que la Lune s'éloigne de nous ?",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Elle s'écarte de la Terre d'environ trois virgule huit centimètres par an.",
+      "sub": "Elle s'écarte de la Terre d'environ 3,8 cm par an.",
+      "image": "02.png",
+      "big": "3,8 cm"
+    },
+    {
+      "say": "Pour le mesurer, les missions Apollo ont déposé des miroirs sur la Lune.",
+      "image": "03.png"
+    },
+    {
+      "say": "Des observatoires y tirent des lasers, et le temps de l'aller-retour donne la distance, au millimètre près.",
+      "image": "04.png"
+    },
+    {
+      "say": "La cause ? Les marées, qui freinent la Terre et poussent la Lune vers l'extérieur.",
+      "image": "05.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

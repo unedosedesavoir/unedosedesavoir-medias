@@ -1,0 +1,40 @@
+{
+  "slug": "2026-12-02-os-bebe",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a tiny baby hand gripping an adult's finger, soft blanket background, close-up, simple shapes. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 774028578
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a playful flat illustration of many small bone shapes scattered around a baby rattle. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 957138542
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a simple diagram-like illustration of a small flexible bone made of soft pale cartilage turning into hard bone, no labels. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 60858616
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a stylized baby skull seen from above showing separate plates with soft gaps between them, gentle colors, educational. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 646881627
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a stylized adult skeleton silhouette standing next to a small child skeleton silhouette, friendly educational style. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 938649549
+    }
+  ]
+}

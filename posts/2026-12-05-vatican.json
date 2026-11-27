@@ -1,0 +1,97 @@
+{
+  "pillar": "samedi",
+  "slug": "2026-12-05-vatican",
+  "date": "2026-12-05",
+  "cover": {
+    "title": "Le plus petit pays du monde",
+    "subtitle": "Il tient dans une ville",
+    "scene": "a large Renaissance basilica dome above a small walled city surrounded by the rooftops of a bigger city, aerial view",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "0,44 km²",
+      "big_size": 130,
+      "title": "Le Vatican",
+      "p1": "Avec 0,44 km², c'est le plus petit pays du monde.",
+      "p2": "Plus petit que bien des parcs urbains !",
+      "scene": "a tiny walled city-state seen from above with a big domed basilica and a round colonnaded square",
+      "image": "02.png"
+    },
+    {
+      "big": "Rome",
+      "title": "Un pays dans une ville",
+      "p1": "Le Vatican est une enclave entièrement entourée par Rome.",
+      "p2": "On peut le traverser à pied en quelques minutes.",
+      "scene": "a small walled enclave inside a large sprawling city map seen from above, terracotta rooftops",
+      "image": "03.png"
+    },
+    {
+      "big": "1929",
+      "title": "Un État récent",
+      "p1": "Sa souveraineté est reconnue par l'Italie en 1929, avec les accords du Latran.",
+      "p2": "Le 11 février 1929, précisément.",
+      "scene": "an old wax seal and a quill on a blank parchment, with a domed basilica in the background",
+      "image": "04.png"
+    },
+    {
+      "big": "2,1 km²",
+      "big_size": 130,
+      "title": "Et le 2e ?",
+      "p1": "Juste derrière : Monaco, avec environ 2,1 km².",
+      "p2": "La Russie est près de 39 millions de fois plus grande que le Vatican !",
+      "scene": "a tiny Mediterranean harbor town with yachts and steep hills, sunny",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Vous le saviez ?",
+    "text": "Dites-le en commentaire !"
+  },
+  "caption": "Le plus petit pays du monde ne fait que 0,44 km² 🌍\nLe Vatican, entièrement entouré par Rome.\nVous le saviez ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "monde",
+    "geographie",
+    "vatican",
+    "voyage",
+    "apprendre"
+  ],
+  "tiktok_title": "Le plus petit pays du monde ne fait que 0,44 km²",
+  "sources": [
+    "https://www.guinnessworldrecords.com/world-records/smallest-country",
+    "https://www.britannica.com/topic/list-of-the-smallest-countries-by-area"
+  ],
+  "voix": [
+    {
+      "say": "Quel est le plus petit pays du monde ?",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Le Vatican ! Il ne mesure que zéro virgule quarante-quatre kilomètre carré.",
+      "sub": "Le Vatican ! Il ne mesure que 0,44 km².",
+      "image": "02.png",
+      "big": "0,44 km²"
+    },
+    {
+      "say": "C'est une enclave, entièrement entourée par la ville de Rome.",
+      "image": "03.png"
+    },
+    {
+      "say": "L'Italie a reconnu sa souveraineté en mille neuf cent vingt-neuf, avec les accords du Latran.",
+      "sub": "L'Italie a reconnu sa souveraineté en 1929, avec les accords du Latran.",
+      "image": "04.png",
+      "big": "1929"
+    },
+    {
+      "say": "Juste derrière vient Monaco, avec environ deux kilomètres carrés.",
+      "sub": "Juste derrière vient Monaco, avec environ 2 km².",
+      "image": "05.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

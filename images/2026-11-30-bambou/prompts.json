@@ -1,0 +1,40 @@
+{
+  "slug": "2026-11-30-bambou",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a dense grove of tall green bamboo stalks reaching up into the sky, sunlight between the stems. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 257354262
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a young bamboo shoot rising from the ground next to a tall vertical measuring stick without markings. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 407272998
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a cross-section of a hollow green bamboo stem showing the empty tube inside, next to blades of grass. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 866550960
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of giant bamboo stalks towering next to a small house for scale, tropical forest. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 45789971
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a bamboo plant with small delicate flowers and seeds hanging from its branches, soft light. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 250435461
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "2026-12-06-cerveau-10-pourcent",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a stylized human brain made of simple geometric shapes glowing all over with small sparks, dark background. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 957054346
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a stylized human brain fully lit up in warm colors, with a broken percentage gauge beside it, no numbers. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 253586898
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a brain scanner machine with a screen showing a colorful brain image, medical setting, no person. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 14993732
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a stylized brain with one small area highlighted in red among glowing areas, simple shapes. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 867068647
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a stylized brain next to a large battery icon shape being drained, glowing energy, no text. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 440689777
+    }
+  ]
+}

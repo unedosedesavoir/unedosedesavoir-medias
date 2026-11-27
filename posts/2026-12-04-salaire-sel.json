@@ -1,0 +1,91 @@
+{
+  "pillar": "vendredi",
+  "slug": "2026-12-04-salaire-sel",
+  "date": "2026-12-04",
+  "cover": {
+    "title": "Votre salaire vient-il du sel ?",
+    "subtitle": "Une étymologie… et une légende",
+    "scene": "a small wooden bowl full of white salt crystals next to a few ancient Roman coins on a stone table",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "Sal",
+      "title": "Une racine salée",
+      "p1": "« Salaire » vient du latin salarium, formé sur sal, le sel.",
+      "p2": "Ce lien-là est bien établi.",
+      "scene": "a heap of coarse white salt with an ancient clay jar and a wooden scoop",
+      "image": "02.png"
+    },
+    {
+      "big": "Sel",
+      "title": "Un bien précieux",
+      "p1": "Dans l'Antiquité, le sel valait cher : il servait à conserver viande et poisson.",
+      "p2": "De quoi en faire un symbole de richesse.",
+      "scene": "salted fish and meat hanging in an ancient storehouse with sacks of salt, warm light",
+      "image": "03.png"
+    },
+    {
+      "big": "Hypothèse",
+      "title": "Pour acheter du sel ?",
+      "p1": "Selon l'Académie française, le salarium aidait les soldats romains à acheter du sel.",
+      "p2": "C'est l'explication la plus répandue.",
+      "scene": "a Roman soldier helmet and shield resting next to a small bag of salt, no person",
+      "image": "04.png"
+    },
+    {
+      "big": "Légende",
+      "title": "Payés en sel ? Pas prouvé",
+      "p1": "Aucun texte antique ne montre des soldats payés en sel.",
+      "p2": "Cette belle histoire daterait plutôt du XIXe siècle.",
+      "scene": "an old closed leather book and a magnifying glass on a desk with a few salt crystals, mysterious mood",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Vous y croyiez ?",
+    "text": "Dites-le en commentaire !"
+  },
+  "caption": "« Salaire » vient bien du latin sal, le sel 🧂\nMais des soldats romains payés en sel ? Rien ne le prouve.\nVous y croyiez ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "etymologie",
+    "languefrancaise",
+    "motsfrancais",
+    "histoire",
+    "apprendre"
+  ],
+  "tiktok_title": "Le mot « salaire » vient-il vraiment du sel ?",
+  "sources": [
+    "https://dictionnaire-academie.fr/article/DNP1282",
+    "https://www.wordorigins.org/big-list-entries/salary"
+  ],
+  "voix": [
+    {
+      "say": "Votre salaire vient-il du sel ?",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Le mot vient du latin salarium, formé sur sal, le sel. Ça, c'est établi.",
+      "image": "02.png"
+    },
+    {
+      "say": "Dans l'Antiquité, le sel valait cher : il servait à conserver la viande et le poisson.",
+      "image": "03.png"
+    },
+    {
+      "say": "Selon l'Académie française, le salarium aidait les soldats romains à acheter du sel.",
+      "image": "04.png"
+    },
+    {
+      "say": "Mais des soldats payés en sel ? Aucun texte antique ne le prouve : la légende daterait du dix-neuvième siècle.",
+      "sub": "Mais des soldats payés en sel ? Aucun texte antique ne le prouve : la légende daterait du XIXe siècle.",
+      "image": "05.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

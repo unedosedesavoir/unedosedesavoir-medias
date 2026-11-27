@@ -1,0 +1,96 @@
+{
+  "pillar": "lundi",
+  "slug": "2026-11-30-bambou",
+  "date": "2026-11-30",
+  "cover": {
+    "title": "Le bambou, champion de la croissance",
+    "subtitle": "Jusqu'à 91 cm en une seule journée",
+    "scene": "a dense grove of tall green bamboo stalks reaching up into the sky, sunlight between the stems",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "91 cm",
+      "title": "Une pousse express",
+      "p1": "Certaines espèces de bambou poussent jusqu'à 91 cm par jour.",
+      "p2": "Un record homologué par le Guinness !",
+      "scene": "a young bamboo shoot rising from the ground next to a tall vertical measuring stick without markings",
+      "image": "02.png"
+    },
+    {
+      "big": "Herbe",
+      "title": "Pas un arbre",
+      "p1": "Malgré sa taille, le bambou n'est pas un arbre : c'est une herbe géante.",
+      "p2": "Ses tiges sont des tubes creux, légers et très solides.",
+      "scene": "a cross-section of a hollow green bamboo stem showing the empty tube inside, next to blades of grass",
+      "image": "03.png"
+    },
+    {
+      "big": "30 m",
+      "title": "Des géants",
+      "p1": "Le bambou géant, Dendrocalamus giganteus, peut atteindre 30 mètres.",
+      "p2": "La hauteur d'un immeuble de dix étages !",
+      "scene": "giant bamboo stalks towering next to a small house for scale, tropical forest",
+      "image": "04.png"
+    },
+    {
+      "big": "120 ans",
+      "title": "Une floraison rarissime",
+      "p1": "La plupart des bambous ne fleurissent qu'une fois dans leur vie.",
+      "p2": "Après 12 à 120 ans de croissance selon les espèces !",
+      "scene": "a bamboo plant with small delicate flowers and seeds hanging from its branches, soft light",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Vous le saviez ?",
+    "text": "Dites-le en commentaire !"
+  },
+  "caption": "Le bambou peut pousser de 91 cm en une journée 🎋\nUne herbe géante qui ne fleurit qu'une fois dans sa vie.\nVous le saviez ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "nature",
+    "plantes",
+    "bambou",
+    "record",
+    "apprendre"
+  ],
+  "tiktok_title": "Le bambou peut pousser de 91 cm en une journée !",
+  "sources": [
+    "https://www.guinnessworldrecords.com/world-records/fastest-growing-plant",
+    "https://www.discoverwildlife.com/plant-facts/fastest-growing-plant",
+    "https://onetreeplanted.org/blogs/stories/bamboo"
+  ],
+  "voix": [
+    {
+      "say": "Quelle est la plante qui pousse le plus vite au monde ? Le bambou !",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Certaines espèces poussent jusqu'à quatre-vingt-onze centimètres en une seule journée.",
+      "sub": "Certaines espèces poussent jusqu'à 91 cm en une seule journée.",
+      "image": "02.png",
+      "big": "91 cm"
+    },
+    {
+      "say": "Et ce n'est pas un arbre : c'est une herbe géante, aux tiges creuses et très solides.",
+      "image": "03.png"
+    },
+    {
+      "say": "Le bambou géant peut atteindre trente mètres de haut.",
+      "sub": "Le bambou géant peut atteindre 30 mètres de haut.",
+      "image": "04.png",
+      "big": "30 m"
+    },
+    {
+      "say": "Et la plupart des bambous ne fleurissent qu'une fois, après douze à cent vingt ans !",
+      "sub": "Et la plupart des bambous ne fleurissent qu'une fois, après 12 à 120 ans !",
+      "image": "05.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

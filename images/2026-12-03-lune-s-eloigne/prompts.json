@@ -1,0 +1,40 @@
+{
+  "slug": "2026-12-03-lune-s-eloigne",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of the full Moon above planet Earth in space with a faint dotted arrow showing the Moon drifting away. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 593835954
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of the Moon and the Earth in space with a small gap widening between them, dotted orbit lines. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 736847792
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a flat square panel of small mirrors placed on the grey lunar surface, Earth in the black sky, no astronaut. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 847733030
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of an observatory dome on a mountain at night firing a thin green laser beam toward the Moon. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 936927365
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of ocean waves on Earth with a tidal bulge and the Moon above, simple space scene. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 88376851
+    }
+  ]
+}

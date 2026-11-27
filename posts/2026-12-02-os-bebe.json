@@ -1,0 +1,93 @@
+{
+  "pillar": "mercredi",
+  "slug": "2026-12-02-os-bebe",
+  "date": "2026-12-02",
+  "cover": {
+    "title": "Un bébé a plus d'os que vous",
+    "subtitle": "Près de 300 os à la naissance",
+    "scene": "a tiny baby hand gripping an adult's finger, soft blanket background, close-up, simple shapes",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "300",
+      "title": "Près de 300 os",
+      "p1": "Un nouveau-né compte environ 275 à 300 os.",
+      "p2": "Un adulte n'en a plus que 206 !",
+      "scene": "a playful flat illustration of many small bone shapes scattered around a baby rattle",
+      "image": "02.png"
+    },
+    {
+      "big": "Cartilage",
+      "title": "Des os encore souples",
+      "p1": "À la naissance, beaucoup d'os sont surtout faits de cartilage.",
+      "p2": "Cette souplesse aide le bébé à naître et à grandir.",
+      "scene": "a simple diagram-like illustration of a small flexible bone made of soft pale cartilage turning into hard bone, no labels",
+      "image": "03.png"
+    },
+    {
+      "big": "Fontanelle",
+      "title": "Les fameuses fontanelles",
+      "p1": "Le crâne du bébé a des zones molles entre ses os.",
+      "p2": "Elles se referment au cours des 1 ou 2 premières années.",
+      "scene": "a stylized baby skull seen from above showing separate plates with soft gaps between them, gentle colors, educational",
+      "image": "04.png"
+    },
+    {
+      "big": "206",
+      "title": "Des os qui fusionnent",
+      "p1": "En grandissant, de nombreux os se soudent entre eux.",
+      "p2": "Le processus se poursuit jusqu'à la puberté ou peu après.",
+      "scene": "a stylized adult skeleton silhouette standing next to a small child skeleton silhouette, friendly educational style",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Vous le saviez ?",
+    "text": "Dites-le en commentaire !"
+  },
+  "caption": "Un bébé a près de 300 os… vous n'en avez que 206 👶\nEn grandissant, de nombreux os fusionnent.\nVous le saviez ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "corpshumain",
+    "sante",
+    "science",
+    "apprendre"
+  ],
+  "tiktok_title": "Un bébé a plus d'os que vous : près de 300 !",
+  "sources": [
+    "https://health.clevelandclinic.org/how-many-bones-does-a-baby-have",
+    "https://www.healthline.com/health/how-many-bones-does-a-baby-have"
+  ],
+  "voix": [
+    {
+      "say": "Un bébé a plus d'os que vous. Si, si !",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Un nouveau-né compte près de trois cents os. Un adulte, seulement deux cent six.",
+      "sub": "Un nouveau-né compte près de 300 os. Un adulte, seulement 206.",
+      "image": "02.png",
+      "big": "300"
+    },
+    {
+      "say": "À la naissance, beaucoup de ces os sont encore surtout faits de cartilage, souple.",
+      "image": "03.png"
+    },
+    {
+      "say": "Le crâne a même des zones molles, les fontanelles, qui se referment en un ou deux ans.",
+      "sub": "Le crâne a même des zones molles, les fontanelles, qui se referment en 1 ou 2 ans.",
+      "image": "04.png"
+    },
+    {
+      "say": "En grandissant, de nombreux os se soudent entre eux, jusqu'à la puberté environ.",
+      "image": "05.png",
+      "big": "206"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

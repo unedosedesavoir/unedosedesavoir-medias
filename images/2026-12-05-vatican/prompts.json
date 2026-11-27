@@ -1,0 +1,40 @@
+{
+  "slug": "2026-12-05-vatican",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a large Renaissance basilica dome above a small walled city surrounded by the rooftops of a bigger city, aerial view. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 636686516
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a tiny walled city-state seen from above with a big domed basilica and a round colonnaded square. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 461984239
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a small walled enclave inside a large sprawling city map seen from above, terracotta rooftops. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 539175801
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of an old wax seal and a quill on a blank parchment, with a domed basilica in the background. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 192372954
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a tiny Mediterranean harbor town with yachts and steep hills, sunny. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 376451148
+    }
+  ]
+}

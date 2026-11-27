@@ -1,0 +1,97 @@
+{
+  "pillar": "dimanche",
+  "slug": "2026-12-06-cerveau-10-pourcent",
+  "date": "2026-12-06",
+  "cover": {
+    "title": "« On n'utilise que 10 % de notre cerveau »",
+    "subtitle": "Vrai ou faux ?",
+    "size": 100,
+    "scene": "a stylized human brain made of simple geometric shapes glowing all over with small sparks, dark background",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "FAUX",
+      "title": "Un mythe tenace",
+      "p1": "Nous utilisons tout notre cerveau, pas seulement 10 %.",
+      "p2": "Les neuroscientifiques sont formels !",
+      "scene": "a stylized human brain fully lit up in warm colors, with a broken percentage gauge beside it, no numbers",
+      "image": "02.png"
+    },
+    {
+      "big": "IRM",
+      "title": "Tout s'allume",
+      "p1": "L'imagerie cérébrale montre que toutes les zones servent au fil de la journée.",
+      "p2": "Pas toutes en même temps, mais aucune ne reste au repos.",
+      "scene": "a brain scanner machine with a screen showing a colorful brain image, medical setting, no person",
+      "image": "03.png"
+    },
+    {
+      "big": "Lésion",
+      "title": "Aucune zone inutile",
+      "p1": "Si 90 % du cerveau ne servait à rien, l'abîmer serait sans effet.",
+      "p2": "Or la moindre lésion, après un AVC par exemple, a des conséquences.",
+      "scene": "a stylized brain with one small area highlighted in red among glowing areas, simple shapes",
+      "image": "04.png"
+    },
+    {
+      "big": "20 %",
+      "title": "Un organe gourmand",
+      "p1": "Le cerveau pèse environ 2 % du corps mais consomme près de 20 % de son énergie.",
+      "p2": "Bien trop pour un organe utilisé à 10 % !",
+      "scene": "a stylized brain next to a large battery icon shape being drained, glowing energy, no text",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Vous y croyiez ?",
+    "text": "Dites-le en commentaire !"
+  },
+  "caption": "Non, nous n'utilisons pas que 10 % de notre cerveau 🧠\nL'imagerie montre que toutes les zones travaillent.\nVous y croyiez ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "vraioufaux",
+    "ideerecue",
+    "cerveau",
+    "science",
+    "apprendre"
+  ],
+  "tiktok_title": "On n'utilise que 10 % de notre cerveau ? Vrai ou faux",
+  "sources": [
+    "https://www.brainfacts.org/thinking-sensing-and-behaving/thinking-and-awareness/2010/10-percent-myth",
+    "https://www.livescience.com/32571-do-we-really-only-use-10-percent-of-our-brains-.html",
+    "https://www.college-de-france.fr/fr/agenda/cours/traits-de-vie-et-contraintes-energetiques-au-cours-de-evolution-humaine/grandir-avec-un-grand-cerveau",
+    "https://www.alimentarium.org/fr/savoir/bien-nourrir-son-cerveau"
+  ],
+  "voix": [
+    {
+      "say": "On n'utilise que dix pour cent de notre cerveau. Vrai ou faux ?",
+      "sub": "On n'utilise que 10 % de notre cerveau. Vrai ou faux ?",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Faux ! Nous utilisons tout notre cerveau.",
+      "image": "02.png",
+      "big": "FAUX"
+    },
+    {
+      "say": "L'imagerie cérébrale montre que toutes les zones travaillent au fil de la journée.",
+      "image": "03.png"
+    },
+    {
+      "say": "Et la moindre lésion, après un AVC par exemple, a des conséquences : aucune zone n'est inutile.",
+      "image": "04.png"
+    },
+    {
+      "say": "Enfin, le cerveau consomme près de vingt pour cent de notre énergie. Bien trop pour un organe utilisé à dix pour cent !",
+      "sub": "Enfin, le cerveau consomme près de 20 % de notre énergie. Bien trop pour un organe utilisé à 10 % !",
+      "image": "05.png",
+      "big": "20 %"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}
