@@ -1,0 +1,40 @@
+{
+  "slug": "2026-12-12-france-fuseaux",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a globe surrounded by several round wall clocks showing different times, tropical islands visible on the globe. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 726204433
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a world map made of simple shapes with many small clocks scattered on islands across all oceans. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 28977920
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of two large continents shapes side by side with a few small clocks on each, podium mood. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 266899350
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a tropical volcanic island in the Indian Ocean with green mountains and a big round clock in the sky. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 441878069
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of two small Pacific islands with palm trees on opposite sides, one under a sunrise and one under a night sky with moon. Bold simple geometric shapes, limited palette of golden yellow, warm ochre, charcoal black and tropical green, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 867880099
+    }
+  ]
+}

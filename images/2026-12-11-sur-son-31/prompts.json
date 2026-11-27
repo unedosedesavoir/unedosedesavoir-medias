@@ -1,0 +1,40 @@
+{
+  "slug": "2026-12-11-sur-son-31",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of an elegant suit jacket and a fancy dress hanging on a wardrobe door, with a bow tie and shiny shoes below. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 53860706
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of an old wooden wardrobe opened with neatly hanging elegant clothes. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 69001136
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a roll of fine woven fabric on an old wooden weaving loom with many threads. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 931210534
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a fan of vintage playing cards on a green card table with a few chips, no visible numbers or letters. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 984554629
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of festive champagne glasses with confetti and party streamers on a dark night background, no clock, no text. Bold simple geometric shapes, limited palette of deep purple, lilac, soft lavender and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 591574547
+    }
+  ]
+}

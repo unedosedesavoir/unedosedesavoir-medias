@@ -1,0 +1,94 @@
+{
+  "pillar": "lundi",
+  "slug": "2026-12-07-elephants-pieds",
+  "date": "2026-12-07",
+  "cover": {
+    "title": "Les éléphants écoutent avec leurs pieds",
+    "subtitle": "Un sixième sens venu du sol",
+    "scene": "a large African elephant standing on dry savanna ground, one front foot slightly raised, subtle concentric vibration ripples spreading through the ground",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "Pieds",
+      "title": "Un sol qui parle",
+      "p1": "Les éléphants perçoivent les vibrations du sol avec leurs pieds, et aussi leur trompe.",
+      "p2": "Une vraie oreille au ras du sol !",
+      "scene": "close-up of a big elephant foot resting on cracked earth with concentric vibration waves around it",
+      "image": "02.png"
+    },
+    {
+      "big": "20 Hz",
+      "title": "Des grondements très graves",
+      "p1": "Leurs appels les plus graves tournent autour de 20 hertz.",
+      "p2": "C'est à peine audible pour l'oreille humaine.",
+      "scene": "an elephant with its trunk raised emitting deep low sound waves drawn as wide soft curves across the savanna",
+      "image": "03.png"
+    },
+    {
+      "big": "30 km",
+      "title": "Un message qui voyage loin",
+      "p1": "Selon des modèles, ces ondes porteraient dans le sol jusqu'à environ 30 km.",
+      "p2": "Bien plus loin que dans l'air !",
+      "scene": "two distant elephant herds far apart on a wide savanna landscape connected by a long wavy line running through the ground",
+      "image": "04.png"
+    },
+    {
+      "big": "Proches",
+      "title": "Ils reconnaissent l'appelant",
+      "p1": "Pour écouter, ils se penchent en avant et lèvent parfois une patte.",
+      "p2": "Et ils réagissent surtout aux appels d'éléphants qu'ils connaissent !",
+      "scene": "a small herd of elephants at a watering hole leaning forward attentively, one elephant lifting a front foot",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Vous le saviez ?",
+    "text": "Dites-le en commentaire !"
+  },
+  "caption": "Les éléphants « écoutent » aussi avec leurs pieds 🐘\nIls captent des vibrations du sol venues de très loin.\nVous le saviez ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "animaux",
+    "elephant",
+    "nature",
+    "science",
+    "apprendre"
+  ],
+  "tiktok_title": "Les éléphants écoutent avec leurs pieds : le saviez-vous ?",
+  "sources": [
+    "https://news.stanford.edu/pr/01/elephants37.html",
+    "https://med.stanford.edu/news/all-news/2007/05/caller-id-in-the-wild-african-elephants-communicate-by-ground-vibration-stanford-researcher-finds"
+  ],
+  "voix": [
+    {
+      "say": "Saviez-vous que les éléphants écoutent aussi avec leurs pieds ?",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Ils perçoivent les vibrations du sol avec leurs pieds, et même avec leur trompe.",
+      "image": "02.png"
+    },
+    {
+      "say": "Leurs grondements les plus graves tournent autour de vingt hertz, à peine audibles pour nous.",
+      "sub": "Leurs grondements les plus graves tournent autour de 20 Hz, à peine audibles pour nous.",
+      "image": "03.png",
+      "big": "20 Hz"
+    },
+    {
+      "say": "Selon des modèles, ces ondes porteraient dans le sol jusqu'à une trentaine de kilomètres.",
+      "sub": "Selon des modèles, ces ondes porteraient dans le sol jusqu'à une trentaine de km.",
+      "image": "04.png",
+      "big": "30 km"
+    },
+    {
+      "say": "Pour écouter, ils se penchent en avant, lèvent une patte, et réagissent surtout aux appels d'éléphants qu'ils connaissent !",
+      "image": "05.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

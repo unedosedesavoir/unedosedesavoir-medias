@@ -1,0 +1,40 @@
+{
+  "slug": "2026-12-10-arbres-etoiles",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a lush forest of stylized trees under a night sky full of stars and a band of the Milky Way. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 912178270
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of the planet Earth seen from space covered with many tiny stylized trees. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 699692878
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a spiral galaxy seen from above with a soft glowing center. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 588807640
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a single person silhouette standing in front of a huge crowd of stylized trees stretching to the horizon. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 235369595
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a row of tree stumps in front of a shrinking forest edge, sunset light. Bold simple geometric shapes, limited palette of midnight navy blue, periwinkle blue, pale lavender and warm golden orange, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 83920109
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "2026-12-09-chair-de-poule",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a close-up of a human forearm skin with tiny raised bumps and fine hairs standing up, simple geometric shapes, no face. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 737948603
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a simple cross-section diagram of skin showing one hair follicle with a tiny muscle attached pulling the hair upright, no labels. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 583002707
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of headphones with musical notes floating around and a shiver of small sparkles, cold blue snowflakes on one side. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 8857285
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a dog with raised fluffy fur on its back facing a small threat, puffed up silhouette. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 888934758
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a fluffy furry ancestral primate silhouette next to a smooth modern human arm silhouette, side by side comparison, no faces. Bold simple geometric shapes, limited palette of deep burgundy red, soft pink, coral and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 127003632
+    }
+  ]
+}

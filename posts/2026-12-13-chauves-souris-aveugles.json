@@ -1,0 +1,94 @@
+{
+  "pillar": "dimanche",
+  "slug": "2026-12-13-chauves-souris-aveugles",
+  "date": "2026-12-13",
+  "cover": {
+    "title": "« Les chauves-souris sont aveugles »",
+    "subtitle": "Vrai ou faux ?",
+    "scene": "a cute bat hanging upside down from a branch at dusk with big open eyes, full moon behind",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "FAUX",
+      "title": "Elles voient très bien",
+      "p1": "Aucune chauve-souris n'est aveugle.",
+      "p2": "Certaines auraient même une meilleure vue que la nôtre !",
+      "scene": "a bat with large bright eyes flying in front of a full moon",
+      "image": "02.png"
+    },
+    {
+      "big": "1 300",
+      "title": "Plus de 1 300 espèces",
+      "p1": "Il existe au moins 1 300 espèces de chauves-souris.",
+      "p2": "Beaucoup de chauves-souris frugivores n'utilisent même pas l'écholocation.",
+      "scene": "a fruit bat with a fox-like snout hanging from a branch holding a ripe mango",
+      "image": "03.png"
+    },
+    {
+      "big": "Écho",
+      "title": "Le sonar en plus des yeux",
+      "p1": "Celles qui chassent au sonar voient aussi, surtout dans la pénombre.",
+      "p2": "Certaines préfèrent même leurs yeux pour chasser !",
+      "scene": "a small bat flying at night emitting curved sound waves toward a moth",
+      "image": "04.png"
+    },
+    {
+      "big": "UV",
+      "title": "Une vision ultraviolette",
+      "p1": "Quelques espèces d'Amérique latine perçoivent les ultraviolets.",
+      "p2": "Pratique pour repérer les fleurs qui les reflètent !",
+      "scene": "a small nectar bat hovering near a glowing tropical flower at night",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Vous y croyiez ?",
+    "text": "Dites-le en commentaire !"
+  },
+  "caption": "Non, les chauves-souris ne sont pas aveugles 🦇\nCertaines voient même les ultraviolets.\nVous y croyiez ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "vraioufaux",
+    "ideerecue",
+    "chauvesouris",
+    "animaux",
+    "apprendre"
+  ],
+  "tiktok_title": "Les chauves-souris sont aveugles ? Vrai ou faux",
+  "sources": [
+    "https://www.britannica.com/story/are-bats-really-blind",
+    "https://www.livescience.com/55986-are-bats-really-blind.html"
+  ],
+  "voix": [
+    {
+      "say": "Les chauves-souris sont aveugles. Vrai ou faux ?",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Faux ! Aucune chauve-souris n'est aveugle, et certaines voient même mieux que nous.",
+      "image": "02.png",
+      "big": "FAUX"
+    },
+    {
+      "say": "Il en existe au moins mille trois cents espèces, et beaucoup de frugivores n'utilisent même pas l'écholocation.",
+      "sub": "Il en existe au moins 1 300 espèces, et beaucoup de frugivores n'utilisent même pas l'écholocation.",
+      "image": "03.png",
+      "big": "1 300"
+    },
+    {
+      "say": "Celles qui chassent au sonar voient aussi, et préfèrent parfois leurs yeux !",
+      "image": "04.png"
+    },
+    {
+      "say": "Et quelques espèces d'Amérique latine perçoivent même les ultraviolets.",
+      "image": "05.png",
+      "big": "UV"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

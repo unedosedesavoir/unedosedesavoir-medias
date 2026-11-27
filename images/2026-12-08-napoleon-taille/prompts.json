@@ -1,0 +1,40 @@
+{
+  "slug": "2026-12-08-napoleon-taille",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a black bicorne hat resting on top of a tall vintage wooden measuring stick, in an old study with a map on the wall. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 319579475
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a vintage measuring tape unrolled next to a pair of tall black riding boots. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 494786483
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of two old wooden rulers of slightly different lengths side by side on a desk with a quill and an inkwell. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 773820709
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of an oversized bicorne hat and oversized boots on a tiny empty chair, playful satirical cartoon mood. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 960852102
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a row of tall grenadier soldiers silhouettes wearing tall bearskin hats, seen from behind, parade ground. Bold simple geometric shapes, limited palette of warm parchment beige, terracotta orange, dark brown and muted teal, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 346805776
+    }
+  ]
+}

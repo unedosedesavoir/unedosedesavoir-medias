@@ -1,0 +1,40 @@
+{
+  "slug": "2026-12-07-elephants-pieds",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a large African elephant standing on dry savanna ground, one front foot slightly raised, subtle concentric vibration ripples spreading through the ground. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 251313590
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of close-up of a big elephant foot resting on cracked earth with concentric vibration waves around it. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 819170096
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of an elephant with its trunk raised emitting deep low sound waves drawn as wide soft curves across the savanna. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 493831590
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of two distant elephant herds far apart on a wide savanna landscape connected by a long wavy line running through the ground. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 180374533
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a small herd of elephants at a watering hole leaning forward attentively, one elephant lifting a front foot. Bold simple geometric shapes, limited palette of deep forest green, mint green and cream, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 110225555
+    }
+  ]
+}

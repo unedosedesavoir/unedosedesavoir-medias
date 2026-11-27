@@ -1,0 +1,103 @@
+{
+  "pillar": "jeudi",
+  "slug": "2026-12-10-arbres-etoiles",
+  "date": "2026-12-10",
+  "cover": {
+    "title": "Plus d'arbres sur Terre que d'étoiles dans la galaxie",
+    "subtitle": "Le grand recensement des forêts",
+    "size": 100,
+    "scene": "a lush forest of stylized trees under a night sky full of stars and a band of the Milky Way",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "3 040 milliards",
+      "big_size": 110,
+      "title": "Le compte des arbres",
+      "p1": "Une étude publiée dans Nature en 2015 estime la Terre à environ 3 040 milliards d'arbres.",
+      "p2": "On en imaginait sept fois moins !",
+      "scene": "the planet Earth seen from space covered with many tiny stylized trees",
+      "image": "02.png"
+    },
+    {
+      "big": "400 milliards",
+      "big_size": 110,
+      "title": "Et les étoiles ?",
+      "p1": "La Voie lactée compterait entre 100 et 400 milliards d'étoiles.",
+      "p2": "Il y a donc bien plus d'arbres sur Terre !",
+      "scene": "a spiral galaxy seen from above with a soft glowing center",
+      "image": "03.png"
+    },
+    {
+      "big": "422",
+      "title": "Par habitant",
+      "p1": "Cela fait environ 422 arbres par être humain.",
+      "p2": "Un chiffre obtenu grâce à plus de 400 000 relevés de terrain et des satellites.",
+      "scene": "a single person silhouette standing in front of a huge crowd of stylized trees stretching to the horizon",
+      "image": "04.png"
+    },
+    {
+      "big": "15 milliards",
+      "big_size": 120,
+      "title": "Des forêts qui reculent",
+      "p1": "Chaque année, environ 15 milliards d'arbres disparaissent.",
+      "p2": "Leur nombre a baissé d'environ 46 % depuis les débuts de la civilisation.",
+      "scene": "a row of tree stumps in front of a shrinking forest edge, sunset light",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Vous l'auriez cru ?",
+    "text": "Dites-le en commentaire !"
+  },
+  "caption": "Il y a plus d'arbres sur Terre que d'étoiles dans la Voie lactée 🌳\nEnviron 3 000 milliards d'arbres, contre 100 à 400 milliards d'étoiles.\nVous l'auriez cru ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "science",
+    "espace",
+    "arbres",
+    "nature",
+    "apprendre"
+  ],
+  "tiktok_title": "Plus d'arbres sur Terre que d'étoiles dans la Voie lactée ?",
+  "sources": [
+    "https://environment.yale.edu/news/article/Yale-study-reveals-there-are-3-trillion-trees-on-earth",
+    "https://www.pbs.org/newshour/science/many-trees-earth",
+    "https://howthingsfly.si.edu/ask-an-explainer/how-many-stars-are-there-our-galaxy",
+    "https://www.space.com/25959-how-many-stars-are-in-the-milky-way.html"
+  ],
+  "voix": [
+    {
+      "say": "Il y a plus d'arbres sur Terre que d'étoiles dans notre galaxie.",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Selon une étude parue en deux mille quinze, la Terre compte environ trois mille milliards d'arbres.",
+      "sub": "Selon une étude parue en 2015, la Terre compte environ 3 000 milliards d'arbres.",
+      "image": "02.png",
+      "big": "3 000 milliards"
+    },
+    {
+      "say": "La Voie lactée, elle, compterait entre cent et quatre cents milliards d'étoiles.",
+      "sub": "La Voie lactée, elle, compterait entre 100 et 400 milliards d'étoiles.",
+      "image": "03.png"
+    },
+    {
+      "say": "Cela fait environ quatre cent vingt-deux arbres par être humain.",
+      "sub": "Cela fait environ 422 arbres par être humain.",
+      "image": "04.png",
+      "big": "422"
+    },
+    {
+      "say": "Mais environ quinze milliards d'arbres disparaissent chaque année.",
+      "sub": "Mais environ 15 milliards d'arbres disparaissent chaque année.",
+      "image": "05.png",
+      "big": "15 milliards"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

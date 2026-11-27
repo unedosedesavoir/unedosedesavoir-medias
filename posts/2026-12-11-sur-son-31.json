@@ -1,0 +1,95 @@
+{
+  "pillar": "vendredi",
+  "slug": "2026-12-11-sur-son-31",
+  "date": "2026-12-11",
+  "cover": {
+    "title": "Pourquoi se met-on « sur son 31 » ?",
+    "subtitle": "Une expression au mystère bien gardé",
+    "scene": "an elegant suit jacket and a fancy dress hanging on a wardrobe door, with a bow tie and shiny shoes below",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "XIXe",
+      "title": "Une expression du XIXe siècle",
+      "p1": "« Se mettre sur son 31 », c'est revêtir ses plus beaux habits.",
+      "p2": "Mais personne ne sait vraiment d'où elle vient !",
+      "scene": "an old wooden wardrobe opened with neatly hanging elegant clothes",
+      "image": "02.png"
+    },
+    {
+      "big": "Trentain",
+      "title": "Hypothèse n° 1 : un drap",
+      "p1": "Le « trentain » était un drap de qualité, tissé avec 3 000 fils de chaîne.",
+      "p2": "L'hypothèse la plus répandue… mais le mot avait disparu bien avant.",
+      "scene": "a roll of fine woven fabric on an old wooden weaving loom with many threads",
+      "image": "03.png"
+    },
+    {
+      "big": "31",
+      "title": "Hypothèse n° 2 : un jeu de cartes",
+      "p1": "Au jeu du « trente et un », atteindre 31 était le meilleur score.",
+      "p2": "Une piste jugée bien plus douteuse.",
+      "scene": "a fan of vintage playing cards on a green card table with a few chips, no visible numbers or letters",
+      "image": "04.png"
+    },
+    {
+      "big": "Faux",
+      "title": "Pas le 31 décembre",
+      "p1": "On pense souvent au réveillon du Nouvel An.",
+      "p2": "Cette explication est considérée comme erronée !",
+      "scene": "festive champagne glasses with confetti and party streamers on a dark night background, no clock, no text",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Vous penchez pour quelle hypothèse ?",
+    "text": "Dites-le en commentaire !"
+  },
+  "caption": "Pourquoi se met-on « sur son 31 » ? 👔\nUn drap, un jeu de cartes… mais sans doute pas le réveillon.\nVous penchez pour quelle hypothèse ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "expressionsfrancaises",
+    "languefrancaise",
+    "etymologie",
+    "apprendre"
+  ],
+  "tiktok_title": "Pourquoi dit-on « se mettre sur son 31 » ? Les hypothèses",
+  "sources": [
+    "https://www.expressio.fr/expressions/se-mettre-sur-son-trente-et-un",
+    "https://www.lalanguefrancaise.com/expressions/sur-son-trente-et-un-31"
+  ],
+  "voix": [
+    {
+      "say": "Pourquoi dit-on se mettre sur son trente et un ?",
+      "sub": "Pourquoi dit-on « se mettre sur son 31 » ?",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "L'expression apparaît au dix-neuvième siècle, mais son origine reste un mystère.",
+      "sub": "L'expression apparaît au XIXe siècle, mais son origine reste un mystère.",
+      "image": "02.png"
+    },
+    {
+      "say": "Hypothèse la plus répandue : le trentain, un drap de qualité tissé avec trois mille fils.",
+      "sub": "Hypothèse la plus répandue : le « trentain », un drap de qualité tissé avec 3 000 fils.",
+      "image": "03.png"
+    },
+    {
+      "say": "Autre piste, plus douteuse : le jeu de cartes du trente et un, où trente et un était le meilleur score.",
+      "sub": "Autre piste, plus douteuse : le jeu de cartes du « trente et un », où 31 était le meilleur score.",
+      "image": "04.png",
+      "big": "31"
+    },
+    {
+      "say": "En revanche, le lien avec le réveillon du trente et un décembre serait une fausse piste !",
+      "sub": "En revanche, le lien avec le réveillon du 31 décembre serait une fausse piste !",
+      "image": "05.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

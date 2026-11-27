@@ -1,0 +1,40 @@
+{
+  "slug": "2026-12-13-chauves-souris-aveugles",
+  "jobs": [
+    {
+      "file": "01-couverture.png",
+      "prompt": "Flat vector editorial illustration of a cute bat hanging upside down from a branch at dusk with big open eyes, full moon behind. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Main subject large in the upper and middle part of the frame, plain simple ground in the bottom quarter. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 880,
+      "seed": 212601116
+    },
+    {
+      "file": "02.png",
+      "prompt": "Flat vector editorial illustration of a bat with large bright eyes flying in front of a full moon. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 94392407
+    },
+    {
+      "file": "03.png",
+      "prompt": "Flat vector editorial illustration of a fruit bat with a fox-like snout hanging from a branch holding a ripe mango. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 198620353
+    },
+    {
+      "file": "04.png",
+      "prompt": "Flat vector editorial illustration of a small bat flying at night emitting curved sound waves toward a moth. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 493411682
+    },
+    {
+      "file": "05.png",
+      "prompt": "Flat vector editorial illustration of a small nectar bat hovering near a glowing tropical flower at night. Bold simple geometric shapes, limited palette of charcoal black, coral red, warm grey and white, subtle grain texture, clean modern poster style. Wide landscape composition, subject centered, simple uncluttered background. Full-bleed artwork filling the whole frame edge to edge, no border, no frame, no card. No text, no letters, no words, no logo.",
+      "width": 1088,
+      "height": 592,
+      "seed": 785720308
+    }
+  ]
+}

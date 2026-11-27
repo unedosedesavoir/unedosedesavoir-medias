@@ -1,0 +1,89 @@
+{
+  "pillar": "mercredi",
+  "slug": "2026-12-09-chair-de-poule",
+  "date": "2026-12-09",
+  "cover": {
+    "title": "Pourquoi a-t-on la chair de poule ?",
+    "subtitle": "Un réflexe hérité de nos ancêtres poilus",
+    "scene": "a close-up of a human forearm skin with tiny raised bumps and fine hairs standing up, simple geometric shapes, no face",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "1 muscle",
+      "title": "Un muscle par poil",
+      "p1": "Chaque poil est relié à un minuscule muscle, le muscle arrecteur.",
+      "p2": "Quand il se contracte, le poil se redresse et la peau se soulève.",
+      "scene": "a simple cross-section diagram of skin showing one hair follicle with a tiny muscle attached pulling the hair upright, no labels",
+      "image": "02.png"
+    },
+    {
+      "big": "Froid",
+      "title": "Froid, peur, émotion",
+      "p1": "Le froid, la peur ou une forte émotion déclenchent ce réflexe.",
+      "p2": "Une musique qui vous émeut peut suffire !",
+      "scene": "headphones with musical notes floating around and a shiver of small sparkles, cold blue snowflakes on one side",
+      "image": "03.png"
+    },
+    {
+      "big": "Fourrure",
+      "title": "Utile chez les animaux poilus",
+      "p1": "Les poils redressés emprisonnent de l'air chaud et isolent du froid.",
+      "p2": "Et ils font paraître l'animal plus gros face à un ennemi.",
+      "scene": "a dog with raised fluffy fur on its back facing a small threat, puffed up silhouette",
+      "image": "04.png"
+    },
+    {
+      "big": "Vestige",
+      "title": "Un héritage presque inutile",
+      "p1": "Chez nous, les poils sont trop rares pour bien isoler.",
+      "p2": "La chair de poule est un vestige de nos ancêtres bien plus poilus.",
+      "scene": "a fluffy furry ancestral primate silhouette next to a smooth modern human arm silhouette, side by side comparison, no faces",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Qu'est-ce qui vous donne la chair de poule ?",
+    "text": "Dites-le en commentaire !"
+  },
+  "caption": "La chair de poule, un réflexe hérité de nos ancêtres poilus 🥶\nUn minuscule muscle redresse chacun de vos poils.\nQu'est-ce qui vous la donne, à vous ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "corpshumain",
+    "science",
+    "biologie",
+    "apprendre"
+  ],
+  "tiktok_title": "Pourquoi a-t-on la chair de poule ? La réponse en 25 secondes",
+  "sources": [
+    "https://www.livescience.com/32349-what-causes-goose-bumps.html",
+    "https://www.popsci.com/why-do-we-get-goosebumps/"
+  ],
+  "voix": [
+    {
+      "say": "Pourquoi a-t-on la chair de poule ?",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Chaque poil est relié à un minuscule muscle. Quand il se contracte, le poil se redresse.",
+      "image": "02.png"
+    },
+    {
+      "say": "Le froid, la peur ou une forte émotion déclenchent ce réflexe. Une musique peut suffire !",
+      "image": "03.png"
+    },
+    {
+      "say": "Chez les animaux poilus, la fourrure gonflée garde l'air chaud et les fait paraître plus gros.",
+      "image": "04.png"
+    },
+    {
+      "say": "Chez nous, les poils sont trop rares : la chair de poule est un vestige de nos ancêtres poilus.",
+      "image": "05.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

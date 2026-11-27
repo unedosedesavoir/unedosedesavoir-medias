@@ -1,0 +1,97 @@
+{
+  "pillar": "samedi",
+  "slug": "2026-12-12-france-fuseaux",
+  "date": "2026-12-12",
+  "cover": {
+    "title": "Le pays aux 12 fuseaux horaires",
+    "subtitle": "Ce n'est ni la Russie, ni les États-Unis",
+    "scene": "a globe surrounded by several round wall clocks showing different times, tropical islands visible on the globe",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "12",
+      "title": "La France, record du monde",
+      "p1": "Grâce à ses territoires d'outre-mer, la France compte 12 fuseaux horaires.",
+      "p2": "Et même 13 quand Saint-Pierre-et-Miquelon passe à l'heure d'été !",
+      "scene": "a world map made of simple shapes with many small clocks scattered on islands across all oceans",
+      "image": "02.png"
+    },
+    {
+      "big": "11",
+      "title": "Russie et États-Unis",
+      "p1": "Les deux géants arrivent juste derrière, avec 11 fuseaux chacun.",
+      "p2": "Pas mal, mais pas assez pour battre la France !",
+      "scene": "two large continents shapes side by side with a few small clocks on each, podium mood",
+      "image": "03.png"
+    },
+    {
+      "big": "UTC+4",
+      "title": "Et La Réunion ?",
+      "p1": "À La Réunion, on vit à UTC+4.",
+      "p2": "Trois heures d'avance sur Paris en hiver, deux en été.",
+      "scene": "a tropical volcanic island in the Indian Ocean with green mountains and a big round clock in the sky",
+      "image": "04.png"
+    },
+    {
+      "big": "22 h",
+      "title": "D'un bout à l'autre",
+      "p1": "De la Polynésie française (UTC−10) à Wallis-et-Futuna (UTC+12).",
+      "p2": "22 heures d'écart, dans un seul et même pays !",
+      "scene": "two small Pacific islands with palm trees on opposite sides, one under a sunrise and one under a night sky with moon",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Vous le saviez ?",
+    "text": "Dites-le en commentaire !"
+  },
+  "caption": "Le pays qui compte le plus de fuseaux horaires ? La France ! 🌍\n12 fuseaux grâce à l'outre-mer, dont La Réunion à UTC+4.\nVous le saviez ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "lareunion",
+    "974",
+    "geographie",
+    "monde",
+    "apprendre"
+  ],
+  "tiktok_title": "Le pays aux 12 fuseaux horaires, c'est la France !",
+  "sources": [
+    "https://www.timeanddate.com/time/country-with-the-most-time-zones.html",
+    "https://www.guinnessworldrecords.com/world-records/584626-country-with-the-most-time-zones"
+  ],
+  "voix": [
+    {
+      "say": "Quel pays compte le plus de fuseaux horaires au monde ?",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "La France ! Grâce à l'outre-mer, elle en compte douze, et même treize une partie de l'année.",
+      "sub": "La France ! Grâce à l'outre-mer, elle en compte 12, et même 13 une partie de l'année.",
+      "image": "02.png",
+      "big": "12"
+    },
+    {
+      "say": "La Russie et les États-Unis arrivent juste derrière, avec onze fuseaux chacun.",
+      "sub": "La Russie et les États-Unis arrivent juste derrière, avec 11 fuseaux chacun.",
+      "image": "03.png",
+      "big": "11"
+    },
+    {
+      "say": "À La Réunion, on vit à UTC plus quatre : trois heures d'avance sur Paris en hiver.",
+      "sub": "À La Réunion, on vit à UTC+4 : 3 heures d'avance sur Paris en hiver.",
+      "image": "04.png"
+    },
+    {
+      "say": "De la Polynésie à Wallis-et-Futuna, il y a vingt-deux heures d'écart, dans un seul pays !",
+      "sub": "De la Polynésie à Wallis-et-Futuna, il y a 22 heures d'écart, dans un seul pays !",
+      "image": "05.png",
+      "big": "22 h"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}

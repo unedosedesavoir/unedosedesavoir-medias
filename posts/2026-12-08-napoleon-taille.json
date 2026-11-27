@@ -1,0 +1,92 @@
+{
+  "pillar": "mardi",
+  "slug": "2026-12-08-napoleon-taille",
+  "date": "2026-12-08",
+  "cover": {
+    "title": "Napoléon n'était pas petit",
+    "subtitle": "L'histoire d'une légende tenace",
+    "scene": "a black bicorne hat resting on top of a tall vintage wooden measuring stick, in an old study with a map on the wall",
+    "image": "01-couverture.png"
+  },
+  "slides": [
+    {
+      "big": "1,69 m",
+      "title": "Une taille dans la moyenne",
+      "p1": "Il mesurait environ 1,68 à 1,70 m selon les témoignages de son entourage.",
+      "p2": "Plutôt dans la moyenne, voire un peu au-dessus !",
+      "scene": "a vintage measuring tape unrolled next to a pair of tall black riding boots",
+      "image": "02.png"
+    },
+    {
+      "big": "2,71 cm",
+      "title": "La faute aux pouces",
+      "p1": "Le pouce français valait environ 2,71 cm, contre 2,54 cm pour le pouce anglais.",
+      "p2": "Ses « 5 pieds 2 pouces » ont fait croire à un homme minuscule.",
+      "scene": "two old wooden rulers of slightly different lengths side by side on a desk with a quill and an inkwell",
+      "image": "03.png"
+    },
+    {
+      "big": "Gillray",
+      "title": "Une arme de propagande",
+      "p1": "Dès 1803, le caricaturiste anglais Gillray le dessine en « Little Boney ».",
+      "p2": "Un minuscule homme colérique, aux bottes et au chapeau trop grands.",
+      "scene": "an oversized bicorne hat and oversized boots on a tiny empty chair, playful satirical cartoon mood",
+      "image": "04.png"
+    },
+    {
+      "big": "Garde",
+      "title": "Entouré de géants",
+      "p1": "Sa garde d'élite était choisie parmi des soldats plus grands que la moyenne.",
+      "p2": "Et « le petit caporal » était un surnom affectueux de ses soldats.",
+      "scene": "a row of tall grenadier soldiers silhouettes wearing tall bearskin hats, seen from behind, parade ground",
+      "image": "05.png"
+    }
+  ],
+  "cta": {
+    "title": "Vous y croyiez ?",
+    "text": "Dites-le en commentaire !"
+  },
+  "caption": "Non, Napoléon n'était pas petit 🎩\nUne histoire de pouces… et de caricatures anglaises.\nVous y croyiez ?",
+  "hashtags": [
+    "culturegenerale",
+    "lesaviezvous",
+    "histoire",
+    "napoleon",
+    "anecdote",
+    "apprendre"
+  ],
+  "tiktok_title": "Napoléon n'était pas petit : d'où vient la légende ?",
+  "sources": [
+    "https://www.napoleon.org/histoire-des-2-empires/articles/la-taille-de-napoleon",
+    "https://www.britannica.com/story/was-napoleon-short"
+  ],
+  "voix": [
+    {
+      "say": "Napoléon était petit ? C'est une légende !",
+      "image": "01-couverture.png"
+    },
+    {
+      "say": "Il mesurait environ un mètre soixante-neuf, plutôt dans la moyenne des Français de son époque.",
+      "sub": "Il mesurait environ 1,69 m, plutôt dans la moyenne des Français de son époque.",
+      "image": "02.png",
+      "big": "1,69 m"
+    },
+    {
+      "say": "La faute aux pouces : le pouce français était plus long que le pouce anglais, ce qui a fait croire à un homme minuscule.",
+      "image": "03.png"
+    },
+    {
+      "say": "Les caricaturistes anglais, comme Guilré, en ont fait le petit Boney, colérique et perdu dans ses bottes.",
+      "sub": "Les caricaturistes anglais, comme Gillray, en ont fait « Little Boney », colérique et perdu dans ses bottes.",
+      "image": "04.png"
+    },
+    {
+      "say": "Et sa garde d'élite était plus grande que la moyenne. « Le petit caporal » était un surnom affectueux !",
+      "image": "05.png"
+    },
+    {
+      "say": "Abonnez-vous pour votre dose de savoir quotidienne.",
+      "image": "01-couverture.png"
+    }
+  ]
+}
